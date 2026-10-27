@@ -1,12 +1,12 @@
 {
-  "version": "1.74.0",
-  "versionCode": 102,
-  "title": "Kirito v1.74.0",
-  "notes": "优化更新界面：更新弹窗说明改为要点列表并加安装包大小标签，下载进度框百分比放大居中",
-  "size": 12562364,
-  "apkUrl": "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.74.0/Kirito-v1.74.0-release.apk",
+  "version": "1.75.0",
+  "versionCode": 103,
+  "title": "Kirito v1.75.0",
+  "notes": "关于页不再显示构建号，仅展示版本名",
+  "size": 12562333,
+  "apkUrl": "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk",
   "apkUrls": [
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.74.0/Kirito-v1.74.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.74.0/Kirito-v1.74.0-release.apk"
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk"
   ]
 }
