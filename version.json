@@ -1,12 +1,13 @@
 {
-  "version": "1.75.0",
-  "versionCode": 103,
-  "title": "Kirito v1.75.0",
-  "notes": "关于页不再显示构建号，仅展示版本名",
-  "size": 12562333,
-  "apkUrl": "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk",
+  "version": "1.77.0",
+  "versionCode": 105,
+  "title": "Kirito v1.77.0",
+  "notes": "本次更新：关于页布局优化，更新通道切换为 SSH 部署密钥发版",
+  "size": 12562284,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.77.0-release.apk",
   "apkUrls": [
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.75.0/Kirito-v1.75.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.77.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.77.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.77.0-release.apk"
   ]
 }
