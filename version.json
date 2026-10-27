@@ -1,8 +1,12 @@
 {
-  "version": "1.72.0",
-  "versionCode": 100,
-  "apkUrl": "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.72.0/Kirito-v1.72.0-release.apk",
-  "size": 12560639,
-  "title": "Kirito v1.72.0",
-  "notes": "新增：网页打不开时显示重试页（一键重试/复制链接）；改进：视频画面高度自适应，宽银幕不再有大片黑边；简化：同步观看卡片去掉重复的视频区与按钮，只留房间管理"
+  "version": "1.73.0",
+  "versionCode": 101,
+  "title": "Kirito v1.73.0",
+  "notes": "修复：国内下载改用 gh-proxy 镜像，多地址自动切换，解决 GitHub 直连超时下不动的问题",
+  "size": 12560996,
+  "apkUrl": "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.73.0/Kirito-v1.73.0-release.apk",
+  "apkUrls": [
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.73.0/Kirito-v1.73.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.73.0/Kirito-v1.73.0-release.apk"
+  ]
 }
