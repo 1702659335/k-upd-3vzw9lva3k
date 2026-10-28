@@ -1,13 +1,13 @@
 {
-  "version": "1.77.0",
-  "versionCode": 105,
-  "title": "Kirito v1.77.0",
-  "notes": "本次更新：关于页布局优化，更新通道切换为 SSH 部署密钥发版",
-  "size": 12562284,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.77.0-release.apk",
+  "version": "1.78.0",
+  "versionCode": 106,
+  "title": "Kirito v1.78.0",
+  "notes": "悬浮房间胶囊点击直跳房间播放界面，去除中间卡片跳转",
+  "size": 12562294,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.78.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.77.0-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.77.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.77.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.78.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.78.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.78.0-release.apk"
   ]
 }
