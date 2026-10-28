@@ -1,13 +1,13 @@
 {
-  "version": "1.78.0",
-  "versionCode": 106,
-  "title": "Kirito v1.78.0",
-  "notes": "悬浮房间胶囊点击直跳房间播放界面，去除中间卡片跳转",
-  "size": 12562294,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.78.0-release.apk",
+  "version": "1.79.0",
+  "versionCode": 107,
+  "title": "Kirito v1.79.0",
+  "notes": "同步观看：新增「房间记录」设置项（最近会话/当前连接/清空/强制断开）；房间永远房主主控、成员不可控进度，房主关房成员自动退出同步并保留本地播放；成员进/退房与房主退出均有提示；左上角新增房间服务器状态胶囊（在线绿/离线红+延迟）；自定义链接卡片放大；房间胶囊长按直接关闭/退出房间（确认框）；全屏横屏聊天框右移缩小、药丸化防误触；全屏显示视频标题；同步稳定性与键盘遮挡优化",
+  "size": 12581263,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.79.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.78.0-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.78.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.78.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.79.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.79.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.79.0-release.apk"
   ]
 }
