@@ -1,13 +1,13 @@
 {
-  "version": "1.80.0",
-  "versionCode": 108,
-  "title": "Kirito v1.80.0",
-  "notes": "同步观看所有界面统一主题风格（顶栏/退出按钮/输入框圆角一致）；修复主页房间胶囊长按闪退并支持长按关闭/退出房间",
-  "size": 12581636,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.80.0-release.apk",
+  "version": "1.81.0",
+  "versionCode": 109,
+  "title": "Kirito v1.81.0",
+  "notes": "设置页所有分类折叠为可展开卡片，右上角排序改为长按三横手柄自由拖动排序；首页搜索框默认位置改到底部",
+  "size": 12585025,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.81.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.80.0-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.80.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.80.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.81.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.81.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.81.0-release.apk"
   ]
 }
