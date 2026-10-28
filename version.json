@@ -1,13 +1,13 @@
 {
-  "version": "1.81.0",
-  "versionCode": 109,
-  "title": "Kirito v1.81.0",
-  "notes": "设置页所有分类折叠为可展开卡片，右上角排序改为长按三横手柄自由拖动排序；首页搜索框默认位置改到底部",
-  "size": 12585025,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.81.0-release.apk",
+  "version": "1.82.0",
+  "versionCode": 110,
+  "title": "Kirito v1.82.0",
+  "notes": "设置页分类折叠 + 三横拖拽排序（任意位置）；首页搜索框默认改到Logo下方；关于页隐藏包名",
+  "size": 12585026,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.82.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.81.0-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.81.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.81.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.82.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.82.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.82.0-release.apk"
   ]
 }
