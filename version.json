@@ -1,13 +1,13 @@
 {
-  "version": "1.88.0",
-  "versionCode": 112,
-  "title": "Kirito v1.88.0",
-  "notes": "移除 FFmpeg 软解扩展，安装包由约 12MB 降至约 6.4MB（体积腰斩近半）；播放器改为全程系统硬件解码，主流格式（H.264/HEVC/VP9/HLS）与新机型播放体验不变；后台播放、悬浮窗、一起看、断点续传、嗅探下载等功能不受影响。",
-  "size": 6671575,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.88.0-release.apk",
+  "version": "1.89.0",
+  "versionCode": 114,
+  "title": "Kirito v1.89.0",
+  "notes": "新增密码管理器（设备绑定 AES-256-GCM 加密，自动捕获网页账号密码）；阅读模式支持浅色/深色/护眼主题与字号调节；标签恢复提醒（禁用/总是/优先询问）；下载暂停后续传修复、下载管理进度实时刷新；智能播放器接管原网页时自动暂停原页避免重复加载与流量浪费；播放器新增加载/播放/重载状态与自动重试（连续3次失败停止）；智能无图退出浏览后自动关闭；设置页移除排序功能。搜索/地址栏输入时提供 www./.com/.cn 等快捷按键与复制/粘贴；阅读模式「在浏览器中打开」改为明显按钮并在应用内打开原网页（不再跳转外部浏览器）。",
+  "size": 6701247,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.89.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.88.0-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.88.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.88.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.89.0-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.89.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.89.0-release.apk"
   ]
 }
