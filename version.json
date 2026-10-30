@@ -1,13 +1,13 @@
 {
-  "version": "1.90.1",
-  "versionCode": 116,
-  "title": "Kirito v1.90.1",
-  "notes": "修复播放器前台服务崩溃（ForegroundServiceDidNotStartInTimeException）：锁屏或播放下一个视频时，播放服务未能在系统 5 秒时限内调用 startForeground 导致闪退。现已改为在播放服务创建时立即提升为前台状态并发布通知；同时对齐 Android 13 的通知栏与前台服务权限提示，后续再升级播放内核。",
-  "size": 6701434,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.1-release.apk",
+  "version": "1.90.2",
+  "versionCode": 117,
+  "title": "Kirito v1.90.2",
+  "notes": "修复智能播放器接管视频后二次接管仍显示第一个视频的问题；修复接管时浏览器偶发无响应；首页搜索框放大镜图标可点击切换搜索引擎。",
+  "size": 6702541,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.2-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.1-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.1-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.1-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.2-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.2-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.2-release.apk"
   ]
 }
