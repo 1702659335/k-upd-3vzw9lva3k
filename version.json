@@ -1,15 +1,15 @@
 {
-  "version": "1.90.3",
-  "versionCode": 118,
-  "title": "Kirito v1.90.3",
-  "notes": "修复「检查更新」点击后闪退的问题（网络请求期间关闭弹窗导致崩溃）；修复 WiFi 下检查不到新版本的问题（改为多源并行查询、取最新版本号，不再被 CDN 陈旧缓存误判为已是最新）；更新包下载增加完整性校验与备用下载节点。",
-  "size": 6702893,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.3-release.apk",
+  "version": "1.90.6",
+  "versionCode": 121,
+  "title": "Kirito v1.90.6",
+  "notes": "悬浮窗接管/切集修复：自动接管网页视频并暂停原网页、网页或浮窗切集数浮窗立即跟随换源；修复悬浮窗播放键无效；新增浮窗加载/缓冲状态圈；增强网页媒体压制（跨域 iframe 直接隐藏断流）。修复点击房间详情弹窗崩溃。",
+  "size": 6682901,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.3-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.3-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.3-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.3-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.3-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
+    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.6-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.6-release.apk"
   ]
 }
