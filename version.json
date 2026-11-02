@@ -1,15 +1,16 @@
 {
-  "version": "1.90.6",
-  "versionCode": 121,
-  "title": "Kirito v1.90.6",
-  "notes": "悬浮窗接管/切集修复：自动接管网页视频并暂停原网页、网页或浮窗切集数浮窗立即跟随换源；修复悬浮窗播放键无效；新增浮窗加载/缓冲状态圈；增强网页媒体压制（跨域 iframe 直接隐藏断流）。修复点击房间详情弹窗崩溃。",
-  "size": 6682901,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
+  "version": "1.90.7",
+  "versionCode": 122,
+  "title": "Kirito v1.90.7",
+  "notes": "更新通道升级：GitHub Release API + 三下载源(jsDelivr多域名/raw/官方) + SHA256 校验 + 安装权限引导。",
+  "size": 6684968,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.90.6-release.apk",
-    "https://gh-proxy.com/https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.6-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/raw/main/apks/Kirito-v1.90.6-release.apk"
-  ]
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.90.7/apks/Kirito-v1.90.7-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.90.7/Kirito-v1.90.7-release.apk"
+  ],
+  "sha256": "60e7501a90ceb5c7a41c405ff0e33794d788e05ca3e798f74e55eaef9d3d14b6"
 }
