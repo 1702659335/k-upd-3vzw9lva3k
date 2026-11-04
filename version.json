@@ -1,16 +1,16 @@
 {
-  "version": "1.97.0",
-  "versionCode": 131,
-  "title": "Kirito v1.97.0",
-  "notes": "Kirito v1.97.0 正式版\n- 修复密码管理：添加/保存密码在 Android 12+ 上因 AndroidKeyStore 禁止自定义 IV 导致的闪退\n- 重构密码管理 UI：Material 卡片列表、顶部搜索过滤、密码显示/隐藏切换\n- 完善密码管理能力：新增备注(note)字段并兼容旧数据\n- 含此前 1.95/1.96：主页地址修复、搜索设置折叠卡、引擎条去签搜、书签签搜配置入口恢复、自动嗅探验证正常",
-  "size": 7062989,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
+  "version": "1.98.0",
+  "versionCode": 132,
+  "title": "Kirito v1.98.0",
+  "notes": "Kirito v1.98.0 正式版\n- 清理数据合并为统一入口：缓存/Cookie/历史记录/本地存储四类勾选，支持「立即清理」与「退出时自动清理」\n- 修复点书签/下载/历史偶尔无反应（页面跳转事务被静默丢弃）\n- 书签加载容错：数据库瞬时故障自动重试，不再静默卡住\n- 密码库加固：导出明确仅本机可恢复、导入失败文案纠正、解密失败不再伪装空库\n- 清缓存不再误删进行中的下载任务\n- 密码管理器：导出提示文件夹、更换导入/导出图标\n- 正式包补齐 v1+v2+v3 签名（同一把 kirito 密钥）",
+  "size": 7063406,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.97.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.97.0/Kirito-v1.97.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.98.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.98.0/Kirito-v1.98.0-release.apk"
   ],
-  "sha256": "79a7a365e1d4f5532f61b97761698f42f53ee2c7b2ff3f5277d9099f179c1c1e"
+  "sha256": "3ffb36dd0054d087b3d86a6f017933a751658e724ca00a6fae790dc17f0f439f"
 }
