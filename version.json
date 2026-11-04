@@ -1,16 +1,16 @@
 {
-  "version": "1.98.0",
-  "versionCode": 132,
-  "title": "Kirito v1.98.0",
-  "notes": "Kirito v1.98.0 正式版\n- 清理数据合并为统一入口：缓存/Cookie/历史记录/本地存储四类勾选，支持「立即清理」与「退出时自动清理」\n- 修复点书签/下载/历史偶尔无反应（页面跳转事务被静默丢弃）\n- 书签加载容错：数据库瞬时故障自动重试，不再静默卡住\n- 密码库加固：导出明确仅本机可恢复、导入失败文案纠正、解密失败不再伪装空库\n- 清缓存不再误删进行中的下载任务\n- 密码管理器：导出提示文件夹、更换导入/导出图标\n- 正式包补齐 v1+v2+v3 签名（同一把 kirito 密钥）",
-  "size": 7063406,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
+  "version": "1.99.0",
+  "versionCode": 133,
+  "title": "Kirito v1.99.0",
+  "notes": "Kirito v1.99.0 正式版\n- 新增 WebDAV 备份：设置 → 备份分区进入，可配置服务器地址、账号、应用密码、远程目录\n- 支持连接自检、立即备份、云端备份列表与按文件名恢复，备份文件带时间戳并维护索引\n- 可选「备份口令」加密上传（PBKDF2 + AES-GCM），口令不落盘、恢复时当场输入，请务必牢记\n- WebDAV 凭据经设备密钥加密后存于独立私有配置，不写入本地导出文件、不进诊断日志\n- 备份范围如实标注：书签 / 历史 / 设置 / 自定义规则 / 首页站点；密码库因设备绑定密钥不上传\n- 恢复沿用合并导入语义，不删除现有数据（重复恢复会累加历史），恢复前二次确认\n- 备份分区图标改为云朵，与下载分区图标区分\n- 正式包沿用同一把 kirito 密钥，已补齐 v1+v2+v3 签名",
+  "size": 7079902,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.98.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.98.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.98.0/Kirito-v1.98.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.99.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.99.0/Kirito-v1.99.0-release.apk"
   ],
-  "sha256": "3ffb36dd0054d087b3d86a6f017933a751658e724ca00a6fae790dc17f0f439f"
+  "sha256": "fdf25d13a9634727d723e92fd11f583dced5c2078d480539607bdfb2e3a8f8c1"
 }
