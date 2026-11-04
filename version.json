@@ -1,16 +1,16 @@
 {
-  "version": "1.90.7",
-  "versionCode": 122,
-  "title": "Kirito v1.90.7",
-  "notes": "更新通道升级：GitHub Release API + 三下载源(jsDelivr多域名/raw/官方) + SHA256 校验 + 安装权限引导。",
-  "size": 6684968,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
+  "version": "1.97.0",
+  "versionCode": 131,
+  "title": "Kirito v1.97.0",
+  "notes": "Kirito v1.97.0 正式版\n- 修复密码管理：添加/保存密码在 Android 12+ 上因 AndroidKeyStore 禁止自定义 IV 导致的闪退\n- 重构密码管理 UI：Material 卡片列表、顶部搜索过滤、密码显示/隐藏切换\n- 完善密码管理能力：新增备注(note)字段并兼容旧数据\n- 含此前 1.95/1.96：主页地址修复、搜索设置折叠卡、引擎条去签搜、书签签搜配置入口恢复、自动嗅探验证正常",
+  "size": 7062989,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.90.7/apks/Kirito-v1.90.7-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.90.7/apks/Kirito-v1.90.7-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.90.7/Kirito-v1.90.7-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.97.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.97.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.97.0/Kirito-v1.97.0-release.apk"
   ],
-  "sha256": "60e7501a90ceb5c7a41c405ff0e33794d788e05ca3e798f74e55eaef9d3d14b6"
+  "sha256": "79a7a365e1d4f5532f61b97761698f42f53ee2c7b2ff3f5277d9099f179c1c1e"
 }
