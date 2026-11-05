@@ -1,16 +1,17 @@
 {
-  "version": "1.100.0",
-  "versionCode": 134,
-  "title": "Kirito v1.100.0",
-  "notes": "Kirito v1.100.0 正式版\n- 更新提醒改为每天最多自动弹窗 1 次；手动「检查更新」不限流、不写本地状态\n- 手动检查不再被计入强制更新，修掉多点几次就被强更阻断的问题\n- 移除本地「提示 3 次强制更新」，是否需要强更由发版方在 Release 正文标注控制\n- 检查成功才按 24 小时节流；网络失败改为 2 小时后重试，避免一次抖动整天不提醒\n- 自动检查移到首帧且仅冷启动触发，增加生命周期与状态保存保护，避免与其它弹窗撞车\n- 「检查更新」行新增常驻小红点 +「发现新版本」提示，不弹窗也能看到更新\n- 正式包沿用同一把 kirito 密钥，已补齐 v1+v2+v3 签名",
-  "size": 7084054,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
+  "version": "1.102.0",
+  "versionCode": 138,
+  "title": "Kirito v1.102.0",
+  "notes": "下载失败显示具体原因；缩短卡住时的换源等待；进度条更跟手且可随时取消；总大小未知时显示动画进度；移动数据下先提示预计流量；校验失败自动换源重试；发版改 API 直推，安装包不再漏传",
+  "size": 7100494,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.102.0/apks/Kirito-v1.102.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.100.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.100.0/Kirito-v1.100.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.102.0/apks/Kirito-v1.102.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.102.0/apks/Kirito-v1.102.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.102.0/apks/Kirito-v1.102.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.102.0/apks/Kirito-v1.102.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.102.0/apks/Kirito-v1.102.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.102.0/Kirito-v1.102.0-release.apk"
   ],
-  "sha256": "1136f4bf6c44ca7a497537b5cf78e5ba89113d1c8be4bf5410ac0f0bdad40e79"
+  "sha256": "c13a708de98d374ca31d6cfaa7bf86a23d6f67aba9f5c20976dd9c017956a8da"
 }
