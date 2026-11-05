@@ -1,16 +1,16 @@
 {
-  "version": "1.99.0",
-  "versionCode": 133,
-  "title": "Kirito v1.99.0",
-  "notes": "Kirito v1.99.0 正式版\n- 新增 WebDAV 备份：设置 → 备份分区进入，可配置服务器地址、账号、应用密码、远程目录\n- 支持连接自检、立即备份、云端备份列表与按文件名恢复，备份文件带时间戳并维护索引\n- 可选「备份口令」加密上传（PBKDF2 + AES-GCM），口令不落盘、恢复时当场输入，请务必牢记\n- WebDAV 凭据经设备密钥加密后存于独立私有配置，不写入本地导出文件、不进诊断日志\n- 备份范围如实标注：书签 / 历史 / 设置 / 自定义规则 / 首页站点；密码库因设备绑定密钥不上传\n- 恢复沿用合并导入语义，不删除现有数据（重复恢复会累加历史），恢复前二次确认\n- 备份分区图标改为云朵，与下载分区图标区分\n- 正式包沿用同一把 kirito 密钥，已补齐 v1+v2+v3 签名",
-  "size": 7079902,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
+  "version": "1.100.0",
+  "versionCode": 134,
+  "title": "Kirito v1.100.0",
+  "notes": "Kirito v1.100.0 正式版\n- 更新提醒改为每天最多自动弹窗 1 次；手动「检查更新」不限流、不写本地状态\n- 手动检查不再被计入强制更新，修掉多点几次就被强更阻断的问题\n- 移除本地「提示 3 次强制更新」，是否需要强更由发版方在 Release 正文标注控制\n- 检查成功才按 24 小时节流；网络失败改为 2 小时后重试，避免一次抖动整天不提醒\n- 自动检查移到首帧且仅冷启动触发，增加生命周期与状态保存保护，避免与其它弹窗撞车\n- 「检查更新」行新增常驻小红点 +「发现新版本」提示，不弹窗也能看到更新\n- 正式包沿用同一把 kirito 密钥，已补齐 v1+v2+v3 签名",
+  "size": 7084054,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.99.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.99.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.99.0/Kirito-v1.99.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@main/apks/Kirito-v1.100.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/main/apks/Kirito-v1.100.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.100.0/Kirito-v1.100.0-release.apk"
   ],
-  "sha256": "fdf25d13a9634727d723e92fd11f583dced5c2078d480539607bdfb2e3a8f8c1"
+  "sha256": "1136f4bf6c44ca7a497537b5cf78e5ba89113d1c8be4bf5410ac0f0bdad40e79"
 }
