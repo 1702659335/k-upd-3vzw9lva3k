@@ -1,17 +1,17 @@
 {
-  "version": "1.106.0",
-  "versionCode": 142,
-  "title": "Kirito v1.106.0",
-  "notes": "1. 账号与同步：点头像即自动创建恢复码，首次进入账号页强制抄存；未设昵称时显示 Kirito，不再出现访客或 Guest\n2. 手动备份与自动同步统一使用同一枚 KeyDav 恢复码加密，无需再单独设置备份口令\n3. 书签同步升级为结构化快照：文件夹层级一并同步到云端；加密文件夹按密文原样同步，新设备首次打开输入原文件夹密码即可\n4. 兼容旧备份：老格式备份与旧备份口令仍可恢复\n5. 恢复码失效时提示用右上角导入恢复码重新登录，不自动重建账号，避免云端数据定位不到",
-  "size": 7145607,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
+  "version": "1.107.0",
+  "versionCode": 143,
+  "title": "Kirito v1.107.0",
+  "notes": "1. 新增自动备份：账号与同步页可开启开关，书签/文件夹有改动、退到后台或超过一天没备份时自动上传；云端固定保留最近 3 份并覆盖最旧那份，不覆盖唯一备份，也不会越积越多\n2. 备份失败一定提醒：失败原因常驻显示在账号页，前台即时提示 + 后台系统通知，未配置 WebDAV、恢复码失效、索引写失败都不会静默跳过；成功时自动清除失败状态\n3. 自动备份与手动备份文件分开存放，恢复列表可直接选取自动备份；原有立即备份、立即同步、从云端拉取、恢复码功能全部不变\n4. 修复从云端拉取备份后，加密文件夹要退出浏览器重进才显示的问题，现在落库即刷新\n5. 精简 WebDAV 备份页：去掉服务器地址框下方的示例说明文字",
+  "size": 7149760,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.107.0/apks/Kirito-v1.107.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.106.0/apks/Kirito-v1.106.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.106.0/Kirito-v1.106.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.107.0/apks/Kirito-v1.107.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.107.0/apks/Kirito-v1.107.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.107.0/apks/Kirito-v1.107.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.107.0/apks/Kirito-v1.107.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.107.0/apks/Kirito-v1.107.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.107.0/Kirito-v1.107.0-release.apk"
   ],
-  "sha256": "11bae3373a246d00762a86e59f3d90dbd20d597dcef1d500a1dbea4c72d6d0c7"
+  "sha256": "0c0cd2e2c75c868bc6996ae2551b67688f6daaa6279b6909bf93f7ce37c0deee"
 }
