@@ -1,17 +1,17 @@
 {
-  "version": "1.103.0",
-  "versionCode": 139,
-  "title": "Kirito v1.103.0",
-  "notes": "新增账号与同步；点头像进入，支持自定义昵称与头像；访客 UUID 模式零输入可用；恢复码密钥模式支持扫码跨设备迁移；WebDAV 加密同步在后台静默校验，界面不显示 SHA；原手动备份与 WebDAV 连接配置全部保留、无需登录；恢复码丢失无法找回，创建时请务必抄存",
+  "version": "1.104.0",
+  "versionCode": 140,
+  "title": "Kirito v1.104.0",
+  "notes": "账号与同步页右上角新增导入与导出恢复码两个入口，与隐私中的密码管理器一致；导出可分享到备忘录或密码管理器，导入支持扫码或手动输入；精简设置里重复的备份入口，手动备份与 WebDAV 连接照常可用；原有查看恢复码与创建时的抄存确认全部保留",
   "size": 7137415,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.103.0/apks/Kirito-v1.103.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.103.0/apks/Kirito-v1.103.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.103.0/apks/Kirito-v1.103.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.103.0/apks/Kirito-v1.103.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.103.0/apks/Kirito-v1.103.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.103.0/apks/Kirito-v1.103.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.103.0/Kirito-v1.103.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.104.0/apks/Kirito-v1.104.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.104.0/Kirito-v1.104.0-release.apk"
   ],
-  "sha256": "635b4eca9e43eedceeb6ef864d9537973daacb612d729f9ebfa3024db49d7574"
+  "sha256": "8fe497d7ed4ce804805cbc5a8e433717dd73853b4a77f92f84fdbc4a351d2505"
 }
