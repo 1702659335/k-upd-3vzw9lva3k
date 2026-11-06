@@ -1,17 +1,17 @@
 {
-  "version": "1.105.0",
-  "versionCode": 141,
-  "title": "Kirito v1.105.0",
-  "notes": "新增一键更换恢复码，旧码与旧云端备份按设置放弃、不迁移；新生成的恢复码与账号号均避开数字 4，旧格式恢复码仍可正常登录；修复 WebDAV 备份页输入应用密码后提示文字重叠的问题",
-  "size": 7141511,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
+  "version": "1.106.0",
+  "versionCode": 142,
+  "title": "Kirito v1.106.0",
+  "notes": "1. 账号与同步：点头像即自动创建恢复码，首次进入账号页强制抄存；未设昵称时显示 Kirito，不再出现访客或 Guest\n2. 手动备份与自动同步统一使用同一枚 KeyDav 恢复码加密，无需再单独设置备份口令\n3. 书签同步升级为结构化快照：文件夹层级一并同步到云端；加密文件夹按密文原样同步，新设备首次打开输入原文件夹密码即可\n4. 兼容旧备份：老格式备份与旧备份口令仍可恢复\n5. 恢复码失效时提示用右上角导入恢复码重新登录，不自动重建账号，避免云端数据定位不到",
+  "size": 7145607,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.105.0/apks/Kirito-v1.105.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.105.0/Kirito-v1.105.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.106.0/apks/Kirito-v1.106.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.106.0/apks/Kirito-v1.106.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.106.0/Kirito-v1.106.0-release.apk"
   ],
-  "sha256": "52777c9a710d5d146509f20259166518468b6a727f3ff3bfb274dfd8e7e47fc1"
+  "sha256": "11bae3373a246d00762a86e59f3d90dbd20d597dcef1d500a1dbea4c72d6d0c7"
 }
