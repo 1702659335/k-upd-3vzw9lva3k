@@ -1,17 +1,17 @@
 {
-  "version": "1.104.0",
-  "versionCode": 140,
-  "title": "Kirito v1.104.0",
-  "notes": "账号与同步页右上角新增导入与导出恢复码两个入口，与隐私中的密码管理器一致；导出可分享到备忘录或密码管理器，导入支持扫码或手动输入；精简设置里重复的备份入口，手动备份与 WebDAV 连接照常可用；原有查看恢复码与创建时的抄存确认全部保留",
-  "size": 7137415,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
+  "version": "1.105.0",
+  "versionCode": 141,
+  "title": "Kirito v1.105.0",
+  "notes": "新增一键更换恢复码，旧码与旧云端备份按设置放弃、不迁移；新生成的恢复码与账号号均避开数字 4，旧格式恢复码仍可正常登录；修复 WebDAV 备份页输入应用密码后提示文字重叠的问题",
+  "size": 7141511,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.104.0/apks/Kirito-v1.104.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.104.0/apks/Kirito-v1.104.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.104.0/Kirito-v1.104.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.105.0/apks/Kirito-v1.105.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.105.0/apks/Kirito-v1.105.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.105.0/Kirito-v1.105.0-release.apk"
   ],
-  "sha256": "8fe497d7ed4ce804805cbc5a8e433717dd73853b4a77f92f84fdbc4a351d2505"
+  "sha256": "52777c9a710d5d146509f20259166518468b6a727f3ff3bfb274dfd8e7e47fc1"
 }
