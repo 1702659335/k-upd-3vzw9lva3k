@@ -1,17 +1,17 @@
 {
-  "version": "1.109.0",
-  "versionCode": 145,
-  "title": "Kirito v1.109.0",
-  "notes": "修复下载更新时切界面或误触导致下载中断、需重新下载的问题；新增断点续传，主动取消后再次更新从已下载进度继续；下载与安装流程解绑界面生命周期，优化失败原因提示。",
-  "size": 7149816,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.109.0/apks/Kirito-v1.109.0-release.apk",
+  "version": "1.110.0",
+  "versionCode": 146,
+  "title": "Kirito v1.110.0",
+  "notes": "WebDAV 页面精简为纯连接设置，移除与「账号与同步」重复的「立即备份」「云端备份 / 恢复」入口；账号与同步页全部说明文字重写并与实际功能对齐，自动备份区按钮统一为「立即同步一次」，修正方位描述。功能不变，仅精简重复入口与优化文案。",
+  "size": 7141624,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.109.0/apks/Kirito-v1.109.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.109.0/apks/Kirito-v1.109.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.109.0/apks/Kirito-v1.109.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.109.0/apks/Kirito-v1.109.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.109.0/apks/Kirito-v1.109.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.109.0/Kirito-v1.109.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.110.0/apks/Kirito-v1.110.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.110.0/Kirito-v1.110.0-release.apk"
   ],
-  "sha256": "26d568bcbec9296dc0665b21d3341b1662c28224d857b1d435e9bffddb45d284"
+  "sha256": "e897bec82025714a270858d600d8b040451533579aef1e0d9c6ea9a3d50d120c"
 }
