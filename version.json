@@ -1,17 +1,17 @@
 {
-  "version": "1.113.0",
-  "versionCode": 149,
-  "title": "Kirito v1.113.0",
-  "notes": "· 订阅地址管理界面简化：批量操作收进更多菜单，空状态改为引导卡片\n· 广告拦截分区收敛：规则数与来源合并为一行只读状态\n· 修复抖音等聚搜引擎搜索无结果：失效地址自动归一化到可用结果页\n· 默认 UA 改为标准安卓 Chrome，修复偶发电脑端页面与站点规则 UA 残留",
+  "version": "1.114.0",
+  "versionCode": 150,
+  "title": "Kirito v1.114.0",
+  "notes": "· 广告拦截分区与其它设置分区统一同一套卡片风格，只重排布局，不再使用专属样式\n· 规则状态行改为与普通设置行同款，界面更整齐\n· 「拦截强度」补充规则生效说明：订阅地址拉取的规则仅在「全力拦截」下生效；内置精选与自定义规则两档都生效\n· 设置项右侧当前值统一右对齐，长状态不再错位",
   "size": 5454614,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.113.0/apks/Kirito-v1.113.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.114.0/apks/Kirito-v1.114.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.113.0/apks/Kirito-v1.113.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.113.0/apks/Kirito-v1.113.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.113.0/apks/Kirito-v1.113.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.113.0/apks/Kirito-v1.113.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.113.0/apks/Kirito-v1.113.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.113.0/Kirito-v1.113.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.114.0/apks/Kirito-v1.114.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.114.0/apks/Kirito-v1.114.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.114.0/apks/Kirito-v1.114.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.114.0/apks/Kirito-v1.114.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.114.0/apks/Kirito-v1.114.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.114.0/Kirito-v1.114.0-release.apk"
   ],
-  "sha256": "20a4c4eb7fd10d1ecb0c836fae34129138769fffa40174ca474c69f55acccd88"
+  "sha256": "551831ce65d5ac8b05b1772ed5007dbcf2f98aad0dd5829191654be654d39164"
 }
