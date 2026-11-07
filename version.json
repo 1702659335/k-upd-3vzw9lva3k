@@ -1,17 +1,17 @@
 {
-  "version": "1.115.0",
-  "versionCode": 151,
-  "title": "Kirito v1.115.0",
-  "notes": "· 广告拦截全链路优化：订阅规则按地址分组缓存，个别订阅拉取失败不再清空已生效的旧规则\n· 修复带路径的 ABP 规则（如 ||域名/路径^）被误当成整域名拦截的问题，避免误杀整站\n· 元素隐藏规则统一做域名归一化与父域回退，带 www 的站点也能正确命中，并消除并发读取隐患\n· 订阅/内置规则支持冷启动静默自动更新（距上次成功更新超过 24 小时），规则保持新鲜\n· 坏源超过 8MB 时真正中断下载，不再空转读完整个流\n· 「订阅」页底部状态栏恢复显示上次更新时间，点状态栏可展开完整规则来源与各订阅状态\n· 清理遗留的无用设置资源与失效文案",
-  "size": 5454670,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.115.0/apks/Kirito-v1.115.0-release.apk",
+  "version": "1.116.0",
+  "versionCode": 152,
+  "title": "Kirito v1.116.0",
+  "notes": "· 广告拦截「拦截强度」优化：点开直接选「轻度拦截 / 全力拦截」，订阅规则生效说明内联进选择弹窗，去掉标题后的感叹号角标\n· 订阅地址「添加 / 批量编辑」弹窗优化：输入框加描边底板与滚动容器，修复输入框与标题/列表紧贴的遮挡观感，软键盘弹出也不再遮挡",
+  "size": 5450574,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.115.0/apks/Kirito-v1.115.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.115.0/apks/Kirito-v1.115.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.115.0/apks/Kirito-v1.115.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.115.0/apks/Kirito-v1.115.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.115.0/apks/Kirito-v1.115.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.115.0/Kirito-v1.115.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.116.0/apks/Kirito-v1.116.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.116.0/Kirito-v1.116.0-release.apk"
   ],
-  "sha256": "308a7db7ecfd47613c1ec08cc2088da2b99191d6104bf69be1b48684976d37f9"
+  "sha256": "9f23dc5ca4f3b035d04229a1f32b20e5490677e7f55e8d75b44f9f8e508aa086"
 }
