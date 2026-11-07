@@ -1,8 +1,8 @@
 {
   "version": "1.117.0",
-  "versionCode": 0,
+  "versionCode": 153,
   "title": "Kirito v1.117.0",
-  "notes": "Kirito / LightBrowser v1.117.0\n\n- 修复「拦截强度」选择弹窗：之前内联说明在窄屏把第一项「轻度拦截」挤出可视区，导致切不到轻度拦截；现改为每行带说明的自定义布局，轻度/全力两档都始终可见、可点\n- 当前档位打勾，点任意行立即生效",
+  "notes": "修复拦截强度选择弹窗，确保轻度/全力两档都可见可点",
   "size": 5454670,
   "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
   "apkUrls": [
