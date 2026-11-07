@@ -1,17 +1,17 @@
 {
-  "version": "1.110.0",
-  "versionCode": 146,
-  "title": "Kirito v1.110.0",
-  "notes": "WebDAV 页面精简为纯连接设置，移除与「账号与同步」重复的「立即备份」「云端备份 / 恢复」入口；账号与同步页全部说明文字重写并与实际功能对齐，自动备份区按钮统一为「立即同步一次」，修正方位描述。功能不变，仅精简重复入口与优化文案。",
-  "size": 7141624,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
+  "version": "1.111.0",
+  "versionCode": 147,
+  "title": "Kirito v1.111.0",
+  "notes": "性能优化与同步升级\n\n· 冷启动更快：接入 Baseline Profile，代码裁剪规则收紧，安装包体积减少约 24%\n· 书签 / 历史搜索提速：新增内存索引，加密文件夹查询合并为一次\n· 广告拦截升级：多模式匹配引擎，兼容更多规则写法\n· 视频播放：新增 200MB 磁盘缓存，拖动进度与重复播放不再重新拉流\n· 网络层：统一连接池，图标抓取、图片保存、规则订阅更快\n· WebDAV 同步改为增量：只上传变化的分片，更省流量；旧版备份仍可读\n· 修复一处单测断言参数顺序\n\n建议更新后冒烟回归：播放、同步、下载、网页登录、书签恢复。",
+  "size": 5434022,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.111.0/apks/Kirito-v1.111.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.110.0/apks/Kirito-v1.110.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.110.0/apks/Kirito-v1.110.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.110.0/Kirito-v1.110.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.111.0/apks/Kirito-v1.111.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.111.0/apks/Kirito-v1.111.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.111.0/apks/Kirito-v1.111.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.111.0/apks/Kirito-v1.111.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.111.0/apks/Kirito-v1.111.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.111.0/Kirito-v1.111.0-release.apk"
   ],
-  "sha256": "e897bec82025714a270858d600d8b040451533579aef1e0d9c6ea9a3d50d120c"
+  "sha256": "867e6be1fa3ff0dc7b27272cbe0ba5dc7a6771f7b594d10ba2d114760fdf810e"
 }
