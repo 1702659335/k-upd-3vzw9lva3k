@@ -1,17 +1,17 @@
 {
-  "version": "1.116.0",
-  "versionCode": 152,
-  "title": "Kirito v1.116.0",
-  "notes": "· 广告拦截「拦截强度」优化：点开直接选「轻度拦截 / 全力拦截」，订阅规则生效说明内联进选择弹窗，去掉标题后的感叹号角标\n· 订阅地址「添加 / 批量编辑」弹窗优化：输入框加描边底板与滚动容器，修复输入框与标题/列表紧贴的遮挡观感，软键盘弹出也不再遮挡",
-  "size": 5450574,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
+  "version": "1.117.0",
+  "versionCode": 0,
+  "title": "Kirito v1.117.0",
+  "notes": "Kirito / LightBrowser v1.117.0\n\n- 修复「拦截强度」选择弹窗：之前内联说明在窄屏把第一项「轻度拦截」挤出可视区，导致切不到轻度拦截；现改为每行带说明的自定义布局，轻度/全力两档都始终可见、可点\n- 当前档位打勾，点任意行立即生效",
+  "size": 5454670,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.116.0/apks/Kirito-v1.116.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.116.0/apks/Kirito-v1.116.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.116.0/Kirito-v1.116.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.117.0/apks/Kirito-v1.117.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.117.0/Kirito-v1.117.0-release.apk"
   ],
-  "sha256": "9f23dc5ca4f3b035d04229a1f32b20e5490677e7f55e8d75b44f9f8e508aa086"
+  "sha256": "53bbe28cfb6a730c0a44675d07c3ed553301ae47ec3e2e0323a535164e98b4b7"
 }
