@@ -1,17 +1,17 @@
 {
-  "version": "1.117.0",
-  "versionCode": 153,
-  "title": "Kirito v1.117.0",
-  "notes": "修复拦截强度选择弹窗，确保轻度/全力两档都可见可点",
-  "size": 5454670,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
+  "version": "1.118.0",
+  "versionCode": 154,
+  "title": "Kirito v1.118.0",
+  "notes": "Kirito / LightBrowser v1.118.0\n\n- 后台播放正规化：常驻通知显示视频名称与状态栏图标，提供「播放/暂停」「关闭」按钮，点通知直接回到播放器；关闭可真正停掉声音与服务，告别「返回后声音关不掉、只能强退浏览器」\n- 竖屏播放页按返回会提示「已转为后台播放，可在通知栏控制」；无通知权限时不转后台，避免产生无法关闭的声音\n- 修复媒体按键（耳机 / 蓝牙 / 车机）失效：播放服务漏掉了 super.onStartCommand\n- 广告拦截「订阅地址」右上角更多菜单精简：去掉「批量编辑」「全选」，只保留「一键订阅」\n- 移除内置抖音搜索引擎（默认引擎 6 个），用户已保存的旧地址仍兼容",
+  "size": 5356396,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.118.0/apks/Kirito-v1.118.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.117.0/apks/Kirito-v1.117.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.117.0/apks/Kirito-v1.117.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.117.0/Kirito-v1.117.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.118.0/apks/Kirito-v1.118.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.118.0/apks/Kirito-v1.118.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.118.0/apks/Kirito-v1.118.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.118.0/apks/Kirito-v1.118.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.118.0/apks/Kirito-v1.118.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.118.0/Kirito-v1.118.0-release.apk"
   ],
-  "sha256": "53bbe28cfb6a730c0a44675d07c3ed553301ae47ec3e2e0323a535164e98b4b7"
+  "sha256": "f68ef2a7deb02d3c500b86e9f312ce4692f3fccdf0a6f5d7a277d85ca6f6f2bd"
 }
