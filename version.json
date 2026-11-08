@@ -1,17 +1,17 @@
 {
-  "version": "1.127.0",
-  "versionCode": 163,
-  "title": "Kirito v1.127.0",
-  "notes": "① 新增 5 张内置应用图标（个性化→应用图标，默认深蓝款），支持随时切换；② 面对面看弹窗 UI 与字体层级重做；③ 智能播放器分类新增「加入房间入口」开关；④ 设置页补行首图标与副标题、卡片式单选弹窗、圆角输入框",
-  "size": 5699222,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.127.0/apks/Kirito-v1.127.0-release.apk",
+  "version": "1.128.0",
+  "versionCode": 164,
+  "title": "Kirito v1.128.0",
+  "notes": "① 修复应用图标切换闪退（ComponentName 全限定类名），切换即时生效；② 首页头像跟随当前应用图标；③ 订阅管理重做：长按才进管理菜单（复制/编辑/删除+确认），去掉易误删的行内✕，卡片式风格统一，更新进度框美化；④ Bug诊断弹窗精简去重为3项并卡片式；⑤ 修复首页时标签页误把网页标为「当前」",
+  "size": 5707582,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.127.0/apks/Kirito-v1.127.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.127.0/apks/Kirito-v1.127.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.127.0/apks/Kirito-v1.127.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.127.0/apks/Kirito-v1.127.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.127.0/apks/Kirito-v1.127.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.127.0/Kirito-v1.127.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.128.0/apks/Kirito-v1.128.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.128.0/Kirito-v1.128.0-release.apk"
   ],
-  "sha256": "37b732c953346d051d200eb1ce6b4234bca6010923a11da78926b40d9d1866c8"
+  "sha256": "7f8e7fdec11f05a43935fa94ab477a5e3588c37ea47a8c4dfef8738ae42a84ed"
 }
