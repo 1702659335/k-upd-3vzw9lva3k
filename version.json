@@ -1,17 +1,17 @@
 {
-  "version": "1.124.0",
-  "versionCode": 160,
-  "title": "Kirito v1.124.0",
-  "notes": "v1.124.0：修复「高级房间模式」开关——开启后（点开关或整行）立即弹出「创建房间」卡片（不进网页也能开房），已开启时整行空白处可再次进入卡片、开关按钮负责关闭；之前版本仅把开关行做成入口却不会自动弹出卡片",
+  "version": "1.125.0",
+  "versionCode": 161,
+  "title": "Kirito v1.125.0",
+  "notes": "v1.125.0：设置页仅保留「高级房间模式」开关（只用于创建房间）；删除冗余的「同步观看」入口开关，同步观看图标在播放页/悬浮窗/房间胶囊处改为始终显示、不再受任何开关控制",
   "size": 5463256,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.125.0/apks/Kirito-v1.125.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.124.0/apks/Kirito-v1.124.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.124.0/Kirito-v1.124.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.125.0/apks/Kirito-v1.125.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.125.0/apks/Kirito-v1.125.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.125.0/apks/Kirito-v1.125.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.125.0/apks/Kirito-v1.125.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.125.0/apks/Kirito-v1.125.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.125.0/Kirito-v1.125.0-release.apk"
   ],
-  "sha256": "a380b1d314b16801e8d649360331efbaab87ef144ba64ee85fe86c87a16da52b"
+  "sha256": "d2d3bebd58e0a10a9bf9b88ab47a2359d116f6f935a8c28167d20e800b343c96"
 }
