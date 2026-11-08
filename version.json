@@ -1,17 +1,17 @@
 {
-  "version": "1.128.0",
-  "versionCode": 164,
-  "title": "Kirito v1.128.0",
-  "notes": "① 修复应用图标切换闪退（ComponentName 全限定类名），切换即时生效；② 首页头像跟随当前应用图标；③ 订阅管理重做：长按才进管理菜单（复制/编辑/删除+确认），去掉易误删的行内✕，卡片式风格统一，更新进度框美化；④ Bug诊断弹窗精简去重为3项并卡片式；⑤ 修复首页时标签页误把网页标为「当前」",
+  "version": "1.129.0",
+  "versionCode": 165,
+  "title": "Kirito v1.129.0",
+  "notes": "① 修复默认头像不跟随应用图标：新建统一入口 AppIcons.applyTo，首页Logo/「我的」页头像/账号页头像/关于页图标全部跟随当前图标，消除新旧图标混用；② 修复应用图标切换闪退(ComponentName 全限定类名)；③ 订阅管理重做：长按进管理菜单(复制/编辑/删除+确认)，去掉易误删的行内✕，卡片式风格统一、进度框美化；④ Bug诊断弹窗去重为3项；⑤ 修复首页时标签页误把网页标为「当前」",
   "size": 5707582,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.129.0/apks/Kirito-v1.129.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.128.0/apks/Kirito-v1.128.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.128.0/apks/Kirito-v1.128.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.128.0/Kirito-v1.128.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.129.0/apks/Kirito-v1.129.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.129.0/apks/Kirito-v1.129.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.129.0/apks/Kirito-v1.129.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.129.0/apks/Kirito-v1.129.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.129.0/apks/Kirito-v1.129.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.129.0/Kirito-v1.129.0-release.apk"
   ],
-  "sha256": "7f8e7fdec11f05a43935fa94ab477a5e3588c37ea47a8c4dfef8738ae42a84ed"
+  "sha256": "500be84d857575ddc49eb3b6fa114a9a9d5a84b0e25977f7b4fff070bbd50535"
 }
