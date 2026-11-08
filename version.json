@@ -1,17 +1,17 @@
 {
-  "version": "1.119.0",
-  "versionCode": 155,
-  "title": "Kirito v1.119.0",
-  "notes": "Kirito / LightBrowser v1.119.0\n\n- 播放器「返回 / 关闭 / 后台」三态分离：\n  · 竖屏按返回：回到原网页并转为后台播放（通知栏可控），不再出现关不掉的声音\n  · 横屏按返回：回到竖屏播放，不再直接进后台\n  · 左上角 ✕：直接彻底关闭视频并回到原网页（横竖屏一致），不再自动进后台\n- 悬浮窗态一并纳入：点关闭时清交接标记、关悬浮窗/悬浮球、停服务撤通知，杜绝残留声音\n- 播放服务新增运行状态标记，通知栏「关闭」/ 悬浮球长按 / 播放页 ✕ 三处关闭入口行为统一\n- 修复广告拦截「自定义规则」添加/编辑弹窗：示例说明与输入框分离，hint 不再被遮挡",
-  "size": 5360492,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.119.0/apks/Kirito-v1.119.0-release.apk",
+  "version": "1.120.0",
+  "versionCode": 156,
+  "title": "Kirito v1.120.0",
+  "notes": "省电与性能优化：① 房间胶囊轮询加生命周期门控，退后台不再每秒唤醒主线程；② 悬浮球进度环仅球可见时刷新、暂停/展开态降频；③ 后台播完停在结尾时延时自动撤通知并停服务；④ 广告拦截判定结果缓存，重复资源不再逐次全量匹配",
+  "size": 5458991,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.119.0/apks/Kirito-v1.119.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.119.0/apks/Kirito-v1.119.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.119.0/apks/Kirito-v1.119.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.119.0/apks/Kirito-v1.119.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.119.0/apks/Kirito-v1.119.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.119.0/Kirito-v1.119.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.120.0/apks/Kirito-v1.120.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.120.0/Kirito-v1.120.0-release.apk"
   ],
-  "sha256": "bb3c7cb9108465e83f9421e916bbdd5537c3cb2ba0933a6c12bc29c1124d1ab3"
+  "sha256": "9f95d78a353b27e50e09c4bbe7d62e35e13c79cae28c00e1c49ed11ff52cf13b"
 }
