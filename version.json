@@ -1,17 +1,17 @@
 {
-  "version": "1.122.0",
-  "versionCode": 158,
-  "title": "Kirito v1.122.0",
-  "notes": "v1.122.0：修正「创建房间隐藏链接」入口——移除多余的设置页开关，隐藏功能仅由高级房链接输入框的眼睛图标控制（默认显示链接）；保留眼睛图标真正生效的修复（隐藏状态随进房广播给成员）。同步内置：高级房间自定义链接默认补同源 Referer 与浏览器 UA（解锁防盗链直链）；缓冲卡死监测 8s→20s 避免慢源误判加载失败",
-  "size": 5458991,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.122.0/apks/Kirito-v1.122.0-release.apk",
+  "version": "1.123.0",
+  "versionCode": 159,
+  "title": "Kirito v1.123.0",
+  "notes": "v1.123.0：新增「高级房间模式」总开关——开启后显示「创建房间」入口（不进网页也能开房）并隐藏基础「一起看」图标；美化「一起看隧道」与「面对面看」两个弹窗（圆角卡片头+图标+分隔线+主题色按钮+圆角描边输入框），并清理隧道说明中的敏感字眼",
+  "size": 5463256,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.122.0/apks/Kirito-v1.122.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.122.0/apks/Kirito-v1.122.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.122.0/apks/Kirito-v1.122.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.122.0/apks/Kirito-v1.122.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.122.0/apks/Kirito-v1.122.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.122.0/Kirito-v1.122.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.123.0/apks/Kirito-v1.123.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.123.0/Kirito-v1.123.0-release.apk"
   ],
-  "sha256": "78b46734d414002f0d5ed253e5344ee716d38eb44530afb4c463c7c0a137636a"
+  "sha256": "85a470f1d2794ed9b1c9a2d5cfdc28e09620c332ebd975b6280f01afd2efab14"
 }
