@@ -1,17 +1,17 @@
 {
-  "version": "1.120.0",
-  "versionCode": 156,
-  "title": "Kirito v1.120.0",
-  "notes": "省电与性能优化：① 房间胶囊轮询加生命周期门控，退后台不再每秒唤醒主线程；② 悬浮球进度环仅球可见时刷新、暂停/展开态降频；③ 后台播完停在结尾时延时自动撤通知并停服务；④ 广告拦截判定结果缓存，重复资源不再逐次全量匹配",
+  "version": "1.121.0",
+  "versionCode": 157,
+  "title": "Kirito v1.121.0",
+  "notes": "v1.121.0：① 设置页新增「创建房间时隐藏播放链接」开关（默认关），并修复高级房间创建时隐藏状态不生效的 bug；② 修复高级房间自定义链接加载失败——起播默认补同源 Referer 与浏览器 UA，解锁防盗链直链；③ 缓冲卡死监测从 8 秒放宽到 20 秒，避免慢源被误判加载失败",
   "size": 5458991,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.121.0/apks/Kirito-v1.121.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.120.0/apks/Kirito-v1.120.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.120.0/apks/Kirito-v1.120.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.120.0/Kirito-v1.120.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.121.0/apks/Kirito-v1.121.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.121.0/apks/Kirito-v1.121.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.121.0/apks/Kirito-v1.121.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.121.0/apks/Kirito-v1.121.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.121.0/apks/Kirito-v1.121.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.121.0/Kirito-v1.121.0-release.apk"
   ],
-  "sha256": "9f95d78a353b27e50e09c4bbe7d62e35e13c79cae28c00e1c49ed11ff52cf13b"
+  "sha256": "e6e3c74d1b9ad7ba6023429c41e4ac897bb81967d65be635e2a56d2df7f2ec9c"
 }
