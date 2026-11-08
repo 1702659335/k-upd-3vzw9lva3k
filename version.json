@@ -1,17 +1,17 @@
 {
-  "version": "1.130.0",
-  "versionCode": 166,
-  "title": "Kirito v1.130.0",
-  "notes": "① 书签移动到文件夹后移不出来：目标文件夹选择器重做为可进可退，支持返回上级、移回全部书签、面包屑导航与防环校验，数据层零改动、不影响书签备份；② 自动备份补齐拉取/恢复入口：可从云端保留的最近 3 份轮转备份里选一份拉取恢复；③ 界面优化：删掉下级 WebDAV 设置页多余的测试连接（保留上级账号与同步页的），立即同步一次正名为立即备份一次；④ 修复底部提示语仍显示旧头像：应用级图标对齐默认深蓝图标、去掉关于页重复提示；⑤ 收尾此前未完成的界面优化",
-  "size": 5715942,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.130.0/apks/Kirito-v1.130.0-release.apk",
+  "version": "1.131.0",
+  "versionCode": 167,
+  "title": "Kirito v1.131.0",
+  "notes": "① 云端备份可清理：自动备份支持删除指定一条、清空全部；跨设备同步支持清空云端数据。真删优先(标准 DELETE)，服务器不支持时自动降级为逻辑清空并如实提示，均二次确认、只清云端不动本机；② 「从云端恢复」弹窗改卡片式：时间与数量分层两行、不再折行错乱，每条可单独删除、底部可清空全部；③ 「立即备份一次」统一为「立即备份」，状态说明同步；④ 书签移动到文件夹时，当前所在位置高亮显示、目标文件夹加粗放大，选到哪一层一眼可见",
+  "size": 5728454,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.131.0/apks/Kirito-v1.131.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.130.0/apks/Kirito-v1.130.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.130.0/apks/Kirito-v1.130.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.130.0/apks/Kirito-v1.130.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.130.0/apks/Kirito-v1.130.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.130.0/apks/Kirito-v1.130.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.130.0/Kirito-v1.130.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.131.0/apks/Kirito-v1.131.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.131.0/apks/Kirito-v1.131.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.131.0/apks/Kirito-v1.131.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.131.0/apks/Kirito-v1.131.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.131.0/apks/Kirito-v1.131.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.131.0/Kirito-v1.131.0-release.apk"
   ],
-  "sha256": "3887bc0a56366a81af33e92f5ec7ff7deec52fb9d46272bf7a71be83b2a17d87"
+  "sha256": "ad5d2c3c1434165fa3c26432fe33adf79409a8774c2fc5dabb0144836be8872b"
 }
