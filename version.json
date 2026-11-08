@@ -1,17 +1,17 @@
 {
-  "version": "1.123.0",
-  "versionCode": 159,
-  "title": "Kirito v1.123.0",
-  "notes": "v1.123.0：新增「高级房间模式」总开关——开启后显示「创建房间」入口（不进网页也能开房）并隐藏基础「一起看」图标；美化「一起看隧道」与「面对面看」两个弹窗（圆角卡片头+图标+分隔线+主题色按钮+圆角描边输入框），并清理隧道说明中的敏感字眼",
+  "version": "1.124.0",
+  "versionCode": 160,
+  "title": "Kirito v1.124.0",
+  "notes": "v1.124.0：修复「高级房间模式」开关——开启后（点开关或整行）立即弹出「创建房间」卡片（不进网页也能开房），已开启时整行空白处可再次进入卡片、开关按钮负责关闭；之前版本仅把开关行做成入口却不会自动弹出卡片",
   "size": 5463256,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.123.0/apks/Kirito-v1.123.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.123.0/apks/Kirito-v1.123.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.123.0/Kirito-v1.123.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.124.0/apks/Kirito-v1.124.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.124.0/apks/Kirito-v1.124.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.124.0/Kirito-v1.124.0-release.apk"
   ],
-  "sha256": "85a470f1d2794ed9b1c9a2d5cfdc28e09620c332ebd975b6280f01afd2efab14"
+  "sha256": "a380b1d314b16801e8d649360331efbaab87ef144ba64ee85fe86c87a16da52b"
 }
