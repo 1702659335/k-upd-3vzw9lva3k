@@ -1,17 +1,17 @@
 {
-  "version": "1.144.0",
-  "versionCode": 180,
-  "title": "Kirito v1.144.0",
-  "notes": "UI 优化：设置页及全 App 弹窗统一改为 28dp 圆角矩形（此前主题把 windowBackground 覆盖成纯色，抹掉了 Material3 原生圆角，导致弹窗外框全是直角）；主页定制编辑页 HTML/CSS 输入框补 16dp 圆角；账号同步页 7 处弹窗显式指定统一主题，保证圆角零遗漏。",
-  "size": 5770439,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.144.0/apks/Kirito-v1.144.0-release.apk",
+  "version": "1.145.0",
+  "versionCode": 181,
+  "title": "Kirito v1.145.0",
+  "notes": "修复弹窗直角：改用 Material3 原生圆角机制。上一版改 windowBackground + 自写圆角 drawable 无效（M3 运行时会覆盖窗口背景），本版删除多余 drawable 与无效覆盖，直接补回被父主题压平的 dialogCornerRadius=28dp，让全 App 弹窗恢复 M3 原生圆角。",
+  "size": 5770383,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.145.0/apks/Kirito-v1.145.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.144.0/apks/Kirito-v1.144.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.144.0/apks/Kirito-v1.144.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.144.0/apks/Kirito-v1.144.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.144.0/apks/Kirito-v1.144.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.144.0/apks/Kirito-v1.144.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.144.0/Kirito-v1.144.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.145.0/apks/Kirito-v1.145.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.145.0/apks/Kirito-v1.145.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.145.0/apks/Kirito-v1.145.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.145.0/apks/Kirito-v1.145.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.145.0/apks/Kirito-v1.145.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.145.0/Kirito-v1.145.0-release.apk"
   ],
-  "sha256": "bcea632d20fb0b395e75046fc0b29c5af73a9427a0b086bd3b6e26825b41b3ee"
+  "sha256": "015656c8c8474f03ca1277bc64dfdc1dd0cbb1df61bd43d3ae7ffac446f2a567"
 }
