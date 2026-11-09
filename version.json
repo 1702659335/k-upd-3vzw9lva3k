@@ -1,17 +1,17 @@
 {
-  "version": "1.138.0",
-  "versionCode": 174,
-  "title": "Kirito v1.138.0",
-  "notes": "彻底移除缩放功能；修复上一版引入的电脑模式回归（废弃无 UI 的幽灵全局开关 desktopSite，改由「我的」面板开关按标签决定 UA 与 viewport）；添加到桌面改为如实结果对话框并附「去开启权限」入口，不再谎报成功",
+  "version": "1.139.0",
+  "versionCode": 175,
+  "title": "Kirito v1.139.0",
+  "notes": "修复「我的」面板电脑模式点击无效：切换逻辑统一收归 MainActivity，以 Tab.desktopMode 为唯一真源同步 UA 与 viewport 后刷新，并明确提示「已开启/已关闭电脑模式」；检查更新图标改为圆环加新版本小圆点徽章；添加到桌面在系统已接受请求时直接提示「添加成功」，仅在动态快捷方式兜底或失败时保留如实说明与权限入口",
   "size": 5761966,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.139.0/apks/Kirito-v1.139.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.138.0/apks/Kirito-v1.138.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.138.0/Kirito-v1.138.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.139.0/apks/Kirito-v1.139.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.139.0/apks/Kirito-v1.139.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.139.0/apks/Kirito-v1.139.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.139.0/apks/Kirito-v1.139.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.139.0/apks/Kirito-v1.139.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.139.0/Kirito-v1.139.0-release.apk"
   ],
-  "sha256": "eb71d5ac7d40ebd8ea9947fbaf1eb1fa9da2ca40eefaab5a488d1150d3d80921"
+  "sha256": "23502cd4c76f89a64eebfbdbf5b8a684950cb9d0a7800e611a3639765747b32a"
 }
