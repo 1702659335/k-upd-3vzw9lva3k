@@ -1,17 +1,17 @@
 {
-  "version": "1.135.0",
-  "versionCode": 171,
-  "title": "Kirito v1.135.0",
-  "notes": "① 设置页「搜索」直达聚搜设置页，去掉展开→点子项中间层；② 修复聚搜引擎条搜关键词后引擎乱跳（集合不变只更新选中态、按结果页URL反推高亮、签搜chip稳定追加）；③ 签搜规则可设为默认搜索引擎；④ 隐私「网站安全检测」说明改短；⑤ 修复站点规则「允许http」开关保存不住；⑥ 订阅地址页文字排版修正（进度弹窗拆行 + 列表卡片高矮不一）；⑦ 首页搜索框输入后出现清空×和搜索按钮；⑧ 聚搜各列表（切换弹窗/引擎条/搜索源管理）显示搜索引擎图标（真实favicon+首字母兜底）；⑨ 「我的」新增源码查看（等宽+复制+查找）；⑩ 「我的」新增添加到桌面（可编辑名称网址→系统桌面快捷方式）；⑪ 「我的」新增浏览器UA入口（卡片式5档+自定义输入+即时生效）。总纲：统一三套割裂的搜索源为一处管理、处处可用。数据/备份/同步层零改动",
-  "size": 5757926,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.135.0/apks/Kirito-v1.135.0-release.apk",
+  "version": "1.136.0",
+  "versionCode": 172,
+  "title": "Kirito v1.136.0",
+  "notes": "搜索框尾部按钮轻量化，输入时自动隐藏扫码；新增检查更新与缩放（底部滑动条整页缩放）；查看源码改为抓取网页原始 HTML，支持原始/DOM 切换、行号、着色、折行；修复添加到桌面权限与结果提示；刷新改名刷新网页、网页听读改名朗读、阅读模式改名阅读；移除我的里的浏览器 UA 入口",
+  "size": 5762078,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.135.0/apks/Kirito-v1.135.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.135.0/apks/Kirito-v1.135.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.135.0/apks/Kirito-v1.135.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.135.0/apks/Kirito-v1.135.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.135.0/apks/Kirito-v1.135.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.135.0/Kirito-v1.135.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.136.0/apks/Kirito-v1.136.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.136.0/Kirito-v1.136.0-release.apk"
   ],
-  "sha256": "a2b08ba627ea0525ede3d7be8904bbc9e6e71976f594ce12e2431877489ade45"
+  "sha256": "bb72bfe12e977631e6ef96e5ccc7d08d799814f592928ee268e214b7b4b9aea3"
 }
