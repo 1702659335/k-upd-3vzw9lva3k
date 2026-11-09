@@ -1,17 +1,17 @@
 {
-  "version": "1.137.0",
-  "versionCode": 173,
-  "title": "Kirito v1.137.0",
-  "notes": "修复电脑模式开关被UA档位覆盖导致状态反转（桌面态优先、移除重名UA档、历史值归一化）；缩放改为只作用于当前标签、不再全局持久化；检查更新图标换成向上箭头；修复抽屉模式桌面添加到桌面失败（真实结果判定+按包定向广播+动态快捷方式兜底）",
-  "size": 5766174,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
+  "version": "1.138.0",
+  "versionCode": 174,
+  "title": "Kirito v1.138.0",
+  "notes": "彻底移除缩放功能；修复上一版引入的电脑模式回归（废弃无 UI 的幽灵全局开关 desktopSite，改由「我的」面板开关按标签决定 UA 与 viewport）；添加到桌面改为如实结果对话框并附「去开启权限」入口，不再谎报成功",
+  "size": 5761966,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.137.0/apks/Kirito-v1.137.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.137.0/Kirito-v1.137.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.138.0/apks/Kirito-v1.138.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.138.0/apks/Kirito-v1.138.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.138.0/Kirito-v1.138.0-release.apk"
   ],
-  "sha256": "c2a670caeedf8d6d9bf0536d84d7884d1da82970d991f1c9e12cd067fd9e9877"
+  "sha256": "eb71d5ac7d40ebd8ea9947fbaf1eb1fa9da2ca40eefaab5a488d1150d3d80921"
 }
