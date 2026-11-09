@@ -1,17 +1,17 @@
 {
-  "version": "1.133.0",
-  "versionCode": 169,
-  "title": "Kirito v1.133.0",
-  "notes": "① 跨设备同步「清空云端数据」内置到「从云端拉取」：点「从云端拉取」改为弹出卡片式操作面板（与自动备份「从云端恢复」同构），面板内「拉取并合并到本机」发起同步、底部「清空云端数据」保留二次确认；② 删除页面上独立的「清空云端数据」按钮，界面更整齐；③ 数据/备份层零改动",
-  "size": 5732776,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.133.0/apks/Kirito-v1.133.0-release.apk",
+  "version": "1.134.0",
+  "versionCode": 170,
+  "title": "Kirito v1.134.0",
+  "notes": "① 账号与同步页 4 处「说明」文字改为 16dp 线性小感叹号图标，风格与浏览器整体统一；② 设置页移除「阅读模式」分区与浏览设置「电脑版」开关，两个功能入口统一收在「我的」面板；③ 「导出书签·选择导出格式」改为卡片式两选项，主标题+说明两行对齐；④ 隐私「站点规则」补充文字说明；⑤ 文案统一：下载管理→下载、无痕模式→无痕、电脑版→电脑模式（含 UA 选项与站点例外规则）；⑥ 网页听读优化（轻档）：复用正文提取只念正文、长文分段顺序播完、语言跟随页面、读完或切页/退后台自动停止并复位开关",
+  "size": 5741148,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.134.0/apks/Kirito-v1.134.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.133.0/apks/Kirito-v1.133.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.133.0/apks/Kirito-v1.133.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.133.0/apks/Kirito-v1.133.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.133.0/apks/Kirito-v1.133.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.133.0/apks/Kirito-v1.133.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.133.0/Kirito-v1.133.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.134.0/apks/Kirito-v1.134.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.134.0/apks/Kirito-v1.134.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.134.0/apks/Kirito-v1.134.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.134.0/apks/Kirito-v1.134.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.134.0/apks/Kirito-v1.134.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.134.0/Kirito-v1.134.0-release.apk"
   ],
-  "sha256": "3446f1f45d97f927159ebb0029a37786d67d0ba2d16ab118d7ca9f1a3ed48ff5"
+  "sha256": "fbac46ad5cf52dc2ef1f038e1ab2f8e601bc013e296858116b7339abd5204f20"
 }
