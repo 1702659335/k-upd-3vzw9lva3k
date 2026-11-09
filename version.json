@@ -1,17 +1,17 @@
 {
-  "version": "1.141.0",
-  "versionCode": 177,
-  "title": "Kirito v1.141.0",
-  "notes": "v1.141.0：①彻底修复电脑模式 UA 不生效——toggleDesktopMode 改用 ensureWebView 取活实例设置 UA/viewport，并用当前 URL 强制重新加载（避免 reload 缓存导致桌面 UA 未真正发出），从任意界面打开面板点电脑模式都生效并明确提示开关；②主页定制入口从首页右上角图标移入「个性化」改名「定制」，衣服图标重绘加宽版不再显窄；③重做定制界面（XML+Material3 风格）：编辑页 HTML/CSS 分段标签切换+顶部快速预览+底部固定操作栏，预览页新增「应用到主页」一键保存并开启自定义主页",
+  "version": "1.142.0",
+  "versionCode": 178,
+  "title": "Kirito v1.142.0",
+  "notes": "v1.142.0：彻底重写电脑模式——从 per-tab 临时状态改为全局持久偏好（Prefs.desktopMode），像夜间/无图那样跨标签生效。根因是桌面模式之前挂在单个标签上：首页态操作的 WebView 不可见、新开标签默认手机版，导致『怎么都切不过』。现在唯一真源是全局偏好，切换后遍历所有已存在 WebView 重设桌面 UA/视口并强制重载，新建标签与前进后退/重定向都自动遵循，面板图标状态也读全局",
   "size": 5770383,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.141.0/apks/Kirito-v1.141.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.142.0/apks/Kirito-v1.142.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.141.0/apks/Kirito-v1.141.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.141.0/apks/Kirito-v1.141.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.141.0/apks/Kirito-v1.141.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.141.0/apks/Kirito-v1.141.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.141.0/apks/Kirito-v1.141.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.141.0/Kirito-v1.141.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.142.0/apks/Kirito-v1.142.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.142.0/apks/Kirito-v1.142.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.142.0/apks/Kirito-v1.142.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.142.0/apks/Kirito-v1.142.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.142.0/apks/Kirito-v1.142.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.142.0/Kirito-v1.142.0-release.apk"
   ],
-  "sha256": "5cc5d139d998b48a9a47cc6d43dabf92879721753bb2c99981ea2ed57893d411"
+  "sha256": "56eafb977c0c63a1a31e177f1cdc7d0e31fd3f3cc5f72e7668bb50e5e0692938"
 }
