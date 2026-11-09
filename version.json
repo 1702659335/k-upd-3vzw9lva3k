@@ -1,17 +1,17 @@
 {
-  "version": "1.136.0",
-  "versionCode": 172,
-  "title": "Kirito v1.136.0",
-  "notes": "搜索框尾部按钮轻量化，输入时自动隐藏扫码；新增检查更新与缩放（底部滑动条整页缩放）；查看源码改为抓取网页原始 HTML，支持原始/DOM 切换、行号、着色、折行；修复添加到桌面权限与结果提示；刷新改名刷新网页、网页听读改名朗读、阅读模式改名阅读；移除我的里的浏览器 UA 入口",
-  "size": 5762078,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
+  "version": "1.137.0",
+  "versionCode": 173,
+  "title": "Kirito v1.137.0",
+  "notes": "修复电脑模式开关被UA档位覆盖导致状态反转（桌面态优先、移除重名UA档、历史值归一化）；缩放改为只作用于当前标签、不再全局持久化；检查更新图标换成向上箭头；修复抽屉模式桌面添加到桌面失败（真实结果判定+按包定向广播+动态快捷方式兜底）",
+  "size": 5766174,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.136.0/apks/Kirito-v1.136.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.136.0/apks/Kirito-v1.136.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.136.0/Kirito-v1.136.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.137.0/apks/Kirito-v1.137.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.137.0/apks/Kirito-v1.137.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.137.0/Kirito-v1.137.0-release.apk"
   ],
-  "sha256": "bb72bfe12e977631e6ef96e5ccc7d08d799814f592928ee268e214b7b4b9aea3"
+  "sha256": "c2a670caeedf8d6d9bf0536d84d7884d1da82970d991f1c9e12cd067fd9e9877"
 }
