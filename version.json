@@ -1,17 +1,17 @@
 {
-  "version": "1.153.0",
-  "versionCode": 189,
-  "title": "Kirito v1.153.0",
-  "notes": "新增「口令服务」入口：设置页带锁项，输入口令（静态LMH或动态日级本地时间YYYYMMDD，任一匹配即解锁）进入独立子页，个性化定制已迁入该子页；同步观看不受影响",
-  "size": 5783120,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
+  "version": "1.154.0",
+  "versionCode": 190,
+  "title": "Kirito v1.154.0",
+  "notes": "新增竖屏同步观看图标显隐开关（智能播放器分区）；同步观看入口纳入口令服务子页；重绘口令服务专属图标（钥匙）；同步观看硬保护不受影响",
+  "size": 5783177,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.153.0/apks/Kirito-v1.153.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.153.0/Kirito-v1.153.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.154.0/apks/Kirito-v1.154.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.154.0/Kirito-v1.154.0-release.apk"
   ],
-  "sha256": "a4d7649294d5837d0e9407e8cbf38fba1c71d552014a90d1a071117eeea841ce"
+  "sha256": "460b9fa2bef36ea1f3921b0b59beca80aa426a7835e13926762e2c64710f3244"
 }
