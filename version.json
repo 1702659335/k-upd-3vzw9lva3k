@@ -1,17 +1,17 @@
 {
-  "version": "1.152.0",
-  "versionCode": 188,
-  "title": "Kirito v1.152.0",
-  "notes": "恢复默认设置弹窗进一步简化：移除卡片内顶部图标，仅保留标题 + 信息卡片；悬浮窗真圆角 + 默认细线边框 + 同步观看不受影响",
-  "size": 5778968,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
+  "version": "1.153.0",
+  "versionCode": 189,
+  "title": "Kirito v1.153.0",
+  "notes": "新增「口令服务」入口：设置页带锁项，输入口令（静态LMH或动态日级本地时间YYYYMMDD，任一匹配即解锁）进入独立子页，个性化定制已迁入该子页；同步观看不受影响",
+  "size": 5783120,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.152.0/apks/Kirito-v1.152.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.152.0/Kirito-v1.152.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.153.0/apks/Kirito-v1.153.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.153.0/apks/Kirito-v1.153.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.153.0/Kirito-v1.153.0-release.apk"
   ],
-  "sha256": "ee5e5fbf8acfecd394a5f5e6f1d1b3d4d2bfb76f43bb964cf002fed9c402b1cb"
+  "sha256": "a4d7649294d5837d0e9407e8cbf38fba1c71d552014a90d1a071117eeea841ce"
 }
