@@ -1,17 +1,17 @@
 {
-  "version": "1.148.0",
-  "versionCode": 184,
-  "title": "Kirito v1.148.0",
-  "notes": "v1.148.0 正式版：悬浮窗边框 + 设置页一键恢复默认 + 书签编辑态返回键修复\n· 悬浮窗可描边了：默认细白线+深色外衬，浅色页面也能一眼看清边界与大小；拖动/缩放自动升高亮并显示尺寸；设置里可选 关闭/细线/高亮/四角标/圆角，小窗开着时即时生效\n· 设置页右上角新增「恢复默认设置」小图标：一键把所有设置项恢复出厂默认，弹框明确告知哪些不动——书签、历史、下载、主页站点、自定义引擎与规则、账号密码、同步观看配置等个人数据全部保留\n· 修复书签页长按进入编辑/多选状态后按返回会直接退回首页的问题：现在返回键先退出多选/排序/回收站/搜索/上级文件夹，与顶部返回箭头一致\n· 悬浮窗边框为纯视觉绘制，不拦触摸、不改播放器 surface 类型，同步观看零影响",
+  "version": "1.149.0",
+  "versionCode": 185,
+  "title": "Kirito v1.149.0",
+  "notes": "v1.149.0 正式版：修复恢复默认设置导致界面配色错乱\\n· 修复「恢复默认设置」会把夜间模式一并清除、与当前界面主题瞬时不同步，导致白底白字等配色乱掉、必须杀进程重启才恢复的问题。现在恢复默认不再改动夜间模式（浅色/深色/跟随系统），夜间模式作为显式偏好单独在设置页切换。\\n· 恢复默认确认框主按钮文案由「恢复默认」改为「确定」，与「取消」成对。\\n· 顺带上一版的悬浮窗边框、设置页一键恢复默认、书签编辑态返回键修复均随本版继续生效。",
   "size": 5778799,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.148.0/apks/Kirito-v1.148.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.148.0/Kirito-v1.148.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.149.0/apks/Kirito-v1.149.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.149.0/Kirito-v1.149.0-release.apk"
   ],
-  "sha256": "5805bc0139d1d8d25e3c46cf68c87db5ff7cf116b3c77f4d40ee1fb47176f799"
+  "sha256": "7f36601482edcd76d9e9b8fc912443c60a60a1c3bca59e5e20b81b00c73e8692"
 }
