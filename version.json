@@ -1,17 +1,17 @@
 {
-  "version": "1.147.0",
-  "versionCode": 183,
-  "title": "Kirito v1.147.0",
-  "notes": "v1.147.0 正式版：播放器加载策略与智能嗅探优化，并加固同步观看\n· 自动重试 3 次→2 次：错误分类 + 800ms/2000ms 递增退避，确定性失败（404/解析/解码/DRM）直接提示，加载失败自动切换同片其他线路\n· 卡死检测由固定等 20 秒改为缓冲进度停滞判定（连续 10 秒无进展才触发），慢速线路不再被误杀\n· 同步观看房间内禁用一切自动重试/换源/接管，片源始终由房主统一下发，避免全员错位\n· 嗅探：播放器库探测 6s→15s、SPA 切集 timing 兜底、带 token 地址归一化去重、自动播放防抖、仅 WiFi 自动播放开关、多码率清单精确匹配\n· DASH 多码率统一由播放器内画质菜单切换（原面板选项选了不生效已修正）",
-  "size": 5774479,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
+  "version": "1.148.0",
+  "versionCode": 184,
+  "title": "Kirito v1.148.0",
+  "notes": "v1.148.0 正式版：悬浮窗边框 + 设置页一键恢复默认 + 书签编辑态返回键修复\n· 悬浮窗可描边了：默认细白线+深色外衬，浅色页面也能一眼看清边界与大小；拖动/缩放自动升高亮并显示尺寸；设置里可选 关闭/细线/高亮/四角标/圆角，小窗开着时即时生效\n· 设置页右上角新增「恢复默认设置」小图标：一键把所有设置项恢复出厂默认，弹框明确告知哪些不动——书签、历史、下载、主页站点、自定义引擎与规则、账号密码、同步观看配置等个人数据全部保留\n· 修复书签页长按进入编辑/多选状态后按返回会直接退回首页的问题：现在返回键先退出多选/排序/回收站/搜索/上级文件夹，与顶部返回箭头一致\n· 悬浮窗边框为纯视觉绘制，不拦触摸、不改播放器 surface 类型，同步观看零影响",
+  "size": 5778799,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.147.0/apks/Kirito-v1.147.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.147.0/Kirito-v1.147.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.148.0/apks/Kirito-v1.148.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.148.0/apks/Kirito-v1.148.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.148.0/Kirito-v1.148.0-release.apk"
   ],
-  "sha256": "d12fff22884b9c3a3dbd5bf4b381918071fa0621571849947b4b6b8980174111"
+  "sha256": "5805bc0139d1d8d25e3c46cf68c87db5ff7cf116b3c77f4d40ee1fb47176f799"
 }
