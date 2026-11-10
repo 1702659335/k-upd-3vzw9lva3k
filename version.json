@@ -1,17 +1,17 @@
 {
-  "version": "1.159.0",
-  "versionCode": 195,
-  "title": "Kirito v1.159.0",
-  "notes": "口令服务功能管理改为口令服务页内联长按移动（去掉功能管理弹窗），每条功能带状态角标；纳入第4项同步观看；设置页同步观看随收录关系显隐",
+  "version": "1.160.0",
+  "versionCode": 196,
+  "title": "Kirito v1.160.0",
+  "notes": "修复口令服务功能移动：同步观看长按可正常移出到设置页（去除归属集合自动补回）、移动后设置页即时显隐无需重启、恢复默认设置不再重置口令服务纳管项；长按监听加固",
   "size": 5791481,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.159.0/apks/Kirito-v1.159.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.159.0/apks/Kirito-v1.159.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.159.0/apks/Kirito-v1.159.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.159.0/apks/Kirito-v1.159.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.159.0/apks/Kirito-v1.159.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.159.0/apks/Kirito-v1.159.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.159.0/Kirito-v1.159.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.160.0/apks/Kirito-v1.160.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.160.0/Kirito-v1.160.0-release.apk"
   ],
-  "sha256": "b6d9398c58baf8d7d98830c109e3d43aab2e8bec739af83de7aab17bd96a7e94"
+  "sha256": "12707410e2c0c8ec4de40dbdfb132896826dedd3eac9771bba052a0b077c7307"
 }
