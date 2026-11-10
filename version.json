@@ -1,17 +1,17 @@
 {
-  "version": "1.154.0",
-  "versionCode": 190,
-  "title": "Kirito v1.154.0",
-  "notes": "新增竖屏同步观看图标显隐开关（智能播放器分区）；同步观看入口纳入口令服务子页；重绘口令服务专属图标（钥匙）；同步观看硬保护不受影响",
-  "size": 5783177,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
+  "version": "1.155.0",
+  "versionCode": 191,
+  "title": "Kirito v1.155.0",
+  "notes": "本次更新：智能播放器更名为播放器；口令服务收录个性化定制、高级房间模式、加入房间入口；同步观看图标显隐保留在设置项",
+  "size": 5787273,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.155.0/apks/Kirito-v1.155.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.154.0/apks/Kirito-v1.154.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.154.0/apks/Kirito-v1.154.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.154.0/Kirito-v1.154.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.155.0/apks/Kirito-v1.155.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.155.0/apks/Kirito-v1.155.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.155.0/apks/Kirito-v1.155.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.155.0/apks/Kirito-v1.155.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.155.0/apks/Kirito-v1.155.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.155.0/Kirito-v1.155.0-release.apk"
   ],
-  "sha256": "460b9fa2bef36ea1f3921b0b59beca80aa426a7835e13926762e2c64710f3244"
+  "sha256": "4ed04912289cca5899e1cd0a7f502c5d5fd0220d8a47f6f7bc4e8cc34ee49d5a"
 }
