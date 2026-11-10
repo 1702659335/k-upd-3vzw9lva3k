@@ -1,17 +1,17 @@
 {
-  "version": "1.157.0",
-  "versionCode": 193,
-  "title": "Kirito v1.157.0",
-  "notes": "本次更新：口令服务「功能管理」移至右上角齿轮图标，点击弹窗管理功能移入/移出（v1.157.0）",
-  "size": 5787329,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
+  "version": "1.158.0",
+  "versionCode": 194,
+  "title": "Kirito v1.158.0",
+  "notes": "设置页口令服务改为内嵌输入框，直接输入口令进入（替代原弹窗）；功能管理弹窗大小字优化、说明去括号并左对齐；口令服务主页去掉顶部说明文字",
+  "size": 5787385,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.158.0/apks/Kirito-v1.158.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.157.0/apks/Kirito-v1.157.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.157.0/Kirito-v1.157.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.158.0/apks/Kirito-v1.158.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.158.0/apks/Kirito-v1.158.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.158.0/apks/Kirito-v1.158.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.158.0/apks/Kirito-v1.158.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.158.0/apks/Kirito-v1.158.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.158.0/Kirito-v1.158.0-release.apk"
   ],
-  "sha256": "3a12e7dcd551575c0f8d0a1c54828f373636898b355fde354f6766e9191464ea"
+  "sha256": "e94a19c5cafff9d774a0ac04e2070dbfcead5a63346d30df3308989b07ed93f7"
 }
