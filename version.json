@@ -1,17 +1,17 @@
 {
-  "version": "1.151.0",
-  "versionCode": 187,
-  "title": "Kirito v1.151.0",
-  "notes": "恢复默认设置弹窗精简优化：图标缩小、标题去问号、正文压缩为一行、整体收窄；悬浮窗真圆角（texture_view+clipToOutline）；默认细线边框；同步观看不受影响",
-  "size": 5779024,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
+  "version": "1.152.0",
+  "versionCode": 188,
+  "title": "Kirito v1.152.0",
+  "notes": "恢复默认设置弹窗进一步简化：移除卡片内顶部图标，仅保留标题 + 信息卡片；悬浮窗真圆角 + 默认细线边框 + 同步观看不受影响",
+  "size": 5778968,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.151.0/apks/Kirito-v1.151.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.151.0/Kirito-v1.151.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.152.0/apks/Kirito-v1.152.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.152.0/apks/Kirito-v1.152.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.152.0/Kirito-v1.152.0-release.apk"
   ],
-  "sha256": "ec987c7619a1ffffdf37b349667f9951c0625e8384e6cb91a0cdef03b7efa124"
+  "sha256": "ee5e5fbf8acfecd394a5f5e6f1d1b3d4d2bfb76f43bb964cf002fed9c402b1cb"
 }
