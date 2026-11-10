@@ -1,17 +1,17 @@
 {
-  "version": "1.156.0",
-  "versionCode": 192,
-  "title": "Kirito v1.156.0",
-  "notes": "本次更新：同步观看开关改名为「同步观看」并修正说明为竖屏底栏；口令服务新增功能移入/移出（一键在口令服务与设置页间迁移原本的3项功能）；口令服务解锁改为1小时持久化宽限",
-  "size": 5787273,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.156.0/apks/Kirito-v1.156.0-release.apk",
+  "version": "1.157.0",
+  "versionCode": 193,
+  "title": "Kirito v1.157.0",
+  "notes": "本次更新：口令服务「功能管理」移至右上角齿轮图标，点击弹窗管理功能移入/移出（v1.157.0）",
+  "size": 5787329,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.156.0/apks/Kirito-v1.156.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.156.0/apks/Kirito-v1.156.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.156.0/apks/Kirito-v1.156.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.156.0/apks/Kirito-v1.156.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.156.0/apks/Kirito-v1.156.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.156.0/Kirito-v1.156.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.157.0/apks/Kirito-v1.157.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.157.0/apks/Kirito-v1.157.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.157.0/Kirito-v1.157.0-release.apk"
   ],
-  "sha256": "510fe7bc2c85e18a66121c68d7cd1205dee0a88b3570d9777da62a954fcfbc93"
+  "sha256": "3a12e7dcd551575c0f8d0a1c54828f373636898b355fde354f6766e9191464ea"
 }
