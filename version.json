@@ -1,17 +1,17 @@
 {
-  "version": "1.149.0",
-  "versionCode": 185,
-  "title": "Kirito v1.149.0",
-  "notes": "v1.149.0 正式版：修复恢复默认设置导致界面配色错乱\\n· 修复「恢复默认设置」会把夜间模式一并清除、与当前界面主题瞬时不同步，导致白底白字等配色乱掉、必须杀进程重启才恢复的问题。现在恢复默认不再改动夜间模式（浅色/深色/跟随系统），夜间模式作为显式偏好单独在设置页切换。\\n· 恢复默认确认框主按钮文案由「恢复默认」改为「确定」，与「取消」成对。\\n· 顺带上一版的悬浮窗边框、设置页一键恢复默认、书签编辑态返回键修复均随本版继续生效。",
-  "size": 5778799,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
+  "version": "1.150.0",
+  "versionCode": 186,
+  "title": "Kirito v1.150.0",
+  "notes": "悬浮窗「圆角」档改为真正裁切圆角（texture_view + clipToOutline，消除四角露直角）；恢复默认设置确认框改为带图标卡片式（图标徽标 + 信息卡片）；悬浮窗边框默认细线；同步观看不受影响",
+  "size": 5779024,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.149.0/apks/Kirito-v1.149.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.149.0/apks/Kirito-v1.149.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.149.0/Kirito-v1.149.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.150.0/apks/Kirito-v1.150.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.150.0/Kirito-v1.150.0-release.apk"
   ],
-  "sha256": "7f36601482edcd76d9e9b8fc912443c60a60a1c3bca59e5e20b81b00c73e8692"
+  "sha256": "3bbe0260b829065539e2955b653c544642a92a8d5eccbf31789682bcd10a50ef"
 }
