@@ -1,17 +1,17 @@
 {
-  "version": "1.150.0",
-  "versionCode": 186,
-  "title": "Kirito v1.150.0",
-  "notes": "悬浮窗「圆角」档改为真正裁切圆角（texture_view + clipToOutline，消除四角露直角）；恢复默认设置确认框改为带图标卡片式（图标徽标 + 信息卡片）；悬浮窗边框默认细线；同步观看不受影响",
+  "version": "1.151.0",
+  "versionCode": 187,
+  "title": "Kirito v1.151.0",
+  "notes": "恢复默认设置弹窗精简优化：图标缩小、标题去问号、正文压缩为一行、整体收窄；悬浮窗真圆角（texture_view+clipToOutline）；默认细线边框；同步观看不受影响",
   "size": 5779024,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.150.0/apks/Kirito-v1.150.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.150.0/apks/Kirito-v1.150.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.150.0/Kirito-v1.150.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.151.0/apks/Kirito-v1.151.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.151.0/apks/Kirito-v1.151.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.151.0/Kirito-v1.151.0-release.apk"
   ],
-  "sha256": "3bbe0260b829065539e2955b653c544642a92a8d5eccbf31789682bcd10a50ef"
+  "sha256": "ec987c7619a1ffffdf37b349667f9951c0625e8384e6cb91a0cdef03b7efa124"
 }
