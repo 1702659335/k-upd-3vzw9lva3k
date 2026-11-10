@@ -1,17 +1,17 @@
 {
-  "version": "1.146.0",
-  "versionCode": 182,
-  "title": "Kirito v1.146.0",
-  "notes": "主页定制削轻 + 无痕收口：①移除多余的「加载模板」功能（3 套内置模板、弹窗、按钮及相关死代码），用户直接写 HTML/CSS；②底部四个大小不一的按钮改为保存/预览/重置三个等宽等高；③安全提示图标换成账号与同步页同款圆圈感叹号 ic_hint，去掉红色 tint；④「允许 JavaScript」开关精简为一行、删除冗长小字；⑤无痕隔离加固：按 WebView 维度关第三方 Cookie、DOM Storage 随无痕关闭不再落盘，删除零调用死代码。另含此前已提交的无痕闪回首页修复与设置页重复无痕开关移除。",
-  "size": 5770327,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.146.0/apks/Kirito-v1.146.0-release.apk",
+  "version": "1.147.0",
+  "versionCode": 183,
+  "title": "Kirito v1.147.0",
+  "notes": "v1.147.0 正式版：播放器加载策略与智能嗅探优化，并加固同步观看\n· 自动重试 3 次→2 次：错误分类 + 800ms/2000ms 递增退避，确定性失败（404/解析/解码/DRM）直接提示，加载失败自动切换同片其他线路\n· 卡死检测由固定等 20 秒改为缓冲进度停滞判定（连续 10 秒无进展才触发），慢速线路不再被误杀\n· 同步观看房间内禁用一切自动重试/换源/接管，片源始终由房主统一下发，避免全员错位\n· 嗅探：播放器库探测 6s→15s、SPA 切集 timing 兜底、带 token 地址归一化去重、自动播放防抖、仅 WiFi 自动播放开关、多码率清单精确匹配\n· DASH 多码率统一由播放器内画质菜单切换（原面板选项选了不生效已修正）",
+  "size": 5774479,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.146.0/apks/Kirito-v1.146.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.146.0/apks/Kirito-v1.146.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.146.0/apks/Kirito-v1.146.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.146.0/apks/Kirito-v1.146.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.146.0/apks/Kirito-v1.146.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.146.0/Kirito-v1.146.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.147.0/apks/Kirito-v1.147.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.147.0/apks/Kirito-v1.147.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.147.0/Kirito-v1.147.0-release.apk"
   ],
-  "sha256": "dc4f6a8146bdc26f989fa4fe1e55939e92531d2666b1b5adbf266fd6a0d4dd1a"
+  "sha256": "d12fff22884b9c3a3dbd5bf4b381918071fa0621571849947b4b6b8980174111"
 }
