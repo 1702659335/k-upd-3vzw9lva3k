@@ -1,17 +1,17 @@
 {
-  "version": "1.160.0",
-  "versionCode": 196,
-  "title": "Kirito v1.160.0",
-  "notes": "修复口令服务功能移动：同步观看长按可正常移出到设置页（去除归属集合自动补回）、移动后设置页即时显隐无需重启、恢复默认设置不再重置口令服务纳管项；长按监听加固",
-  "size": 5791481,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
+  "version": "1.161.0",
+  "versionCode": 197,
+  "title": "Kirito v1.161.0",
+  "notes": "播放器画面比例全项优化（五模式统一幂等重算、尺寸就绪重试、横竖屏与冷启动稳定生效）；设置页右上角新增全局设置搜索（跨分类检索并可直接操作，遵守可见性：口令服务收录的功能平时搜不到，移出到设置页后才可搜到）；应用图标行显示当前图标迷你缩略图+颜色名称；阻止第三方Cookie默认改为关闭；口令输入框去钥匙图标变窄且圆角；省流模式加小字说明；悬浮窗两项说明精简与恢复标签弹窗去掉问号",
+  "size": 5791537,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.160.0/apks/Kirito-v1.160.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.160.0/apks/Kirito-v1.160.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.160.0/Kirito-v1.160.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.161.0/apks/Kirito-v1.161.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.161.0/Kirito-v1.161.0-release.apk"
   ],
-  "sha256": "12707410e2c0c8ec4de40dbdfb132896826dedd3eac9771bba052a0b077c7307"
+  "sha256": "62183408e2f9acaec9c8f91b4392d4575990c31a0ed7ff179d9eb015649f4e85"
 }
