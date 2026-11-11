@@ -1,17 +1,17 @@
 {
-  "version": "1.161.0",
-  "versionCode": 197,
-  "title": "Kirito v1.161.0",
-  "notes": "播放器画面比例全项优化（五模式统一幂等重算、尺寸就绪重试、横竖屏与冷启动稳定生效）；设置页右上角新增全局设置搜索（跨分类检索并可直接操作，遵守可见性：口令服务收录的功能平时搜不到，移出到设置页后才可搜到）；应用图标行显示当前图标迷你缩略图+颜色名称；阻止第三方Cookie默认改为关闭；口令输入框去钥匙图标变窄且圆角；省流模式加小字说明；悬浮窗两项说明精简与恢复标签弹窗去掉问号",
-  "size": 5791537,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
+  "version": "1.162.0",
+  "versionCode": 198,
+  "title": "Kirito v1.162.0",
+  "notes": "新增允许网页自动播放开关（默认开，关闭后网页autoplay视频需手动点击才播，切换即时刷新全部标签）；播放器自动嗅探视频资源与自动播放默认改为关闭以防乱嗅探；自动播放说明去掉括号及同步观看字眼；设置页全局搜索改为原页内联过滤高亮（口令服务收录项平时搜不到，移出到设置页后才可搜到）",
+  "size": 5791481,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.161.0/apks/Kirito-v1.161.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.161.0/apks/Kirito-v1.161.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.161.0/Kirito-v1.161.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.162.0/apks/Kirito-v1.162.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.162.0/Kirito-v1.162.0-release.apk"
   ],
-  "sha256": "62183408e2f9acaec9c8f91b4392d4575990c31a0ed7ff179d9eb015649f4e85"
+  "sha256": "9395265547a955065a96883e72e24552ebab7d57e8ecd9290c4cabea027d0490"
 }
