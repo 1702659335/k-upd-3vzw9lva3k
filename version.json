@@ -1,17 +1,17 @@
 {
-  "version": "1.162.0",
-  "versionCode": 198,
-  "title": "Kirito v1.162.0",
-  "notes": "新增允许网页自动播放开关（默认开，关闭后网页autoplay视频需手动点击才播，切换即时刷新全部标签）；播放器自动嗅探视频资源与自动播放默认改为关闭以防乱嗅探；自动播放说明去掉括号及同步观看字眼；设置页全局搜索改为原页内联过滤高亮（口令服务收录项平时搜不到，移出到设置页后才可搜到）",
-  "size": 5791481,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
+  "version": "1.163.0",
+  "versionCode": 199,
+  "title": "Kirito v1.163.0",
+  "notes": "浏览助手精简为纯脚本容器：移除网页翻译脚本·大模型配置区及底层大模型链（配置字段、翻译出口、宿主扩展 GM_weTranslate、相关死代码与文案）；脚本列表、商店、添加/编辑/删除与 GM 能力闸门保持不变",
+  "size": 5828457,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.163.0/apks/Kirito-v1.163.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.162.0/apks/Kirito-v1.162.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.162.0/apks/Kirito-v1.162.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.162.0/Kirito-v1.162.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.163.0/apks/Kirito-v1.163.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.163.0/apks/Kirito-v1.163.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.163.0/apks/Kirito-v1.163.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.163.0/apks/Kirito-v1.163.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.163.0/apks/Kirito-v1.163.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.163.0/Kirito-v1.163.0-release.apk"
   ],
-  "sha256": "9395265547a955065a96883e72e24552ebab7d57e8ecd9290c4cabea027d0490"
+  "sha256": "48a70f90e22b4196c073bea9a47d7e7ca2a15cab8b43f50c49d672e7e1d29df0"
 }
