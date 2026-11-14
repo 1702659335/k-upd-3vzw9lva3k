@@ -1,17 +1,17 @@
 {
-  "version": "1.164.0",
-  "versionCode": 200,
-  "title": "Kirito v1.164.0",
-  "notes": "脚本编辑框与备注框优化：统一主题色圆角面板、输入框自适应撑满、底部取消/确定常驻可见；备注框新增「移动端 / 自定义」快捷备注词；修复备注对话框闪退（NPE）。",
-  "size": 5836649,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.164.0/apks/Kirito-v1.164.0-release.apk",
+  "version": "1.165.0",
+  "versionCode": 201,
+  "title": "Kirito v1.165.0",
+  "notes": "脚本引擎兼容层全面增强：补齐常用 GM 接口与原生桥接、未实现接口自动打桩避免整段失效、@require 弱网依赖加固（缓存+双镜像+重试）、支持顶层 await 与静态 import、document-start 注入失败自动补跑、SPA 换页重注。",
+  "size": 5844841,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.165.0/apks/Kirito-v1.165.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.164.0/apks/Kirito-v1.164.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.164.0/apks/Kirito-v1.164.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.164.0/apks/Kirito-v1.164.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.164.0/apks/Kirito-v1.164.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.164.0/apks/Kirito-v1.164.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.164.0/Kirito-v1.164.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.165.0/apks/Kirito-v1.165.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.165.0/apks/Kirito-v1.165.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.165.0/apks/Kirito-v1.165.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.165.0/apks/Kirito-v1.165.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.165.0/apks/Kirito-v1.165.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.165.0/Kirito-v1.165.0-release.apk"
   ],
-  "sha256": "87db3da030f109f9531b464fb83a26245195bb1de4a03cb6a04bf0bb9faa2edb"
+  "sha256": "f352485364b51f5d649c228f6e3a5a04c72160bc4ae0a9b7431547dc422111d0"
 }
