@@ -1,17 +1,17 @@
 {
-  "version": "1.168.0",
-  "versionCode": 204,
-  "title": "Kirito v1.168.0",
-  "notes": "账号与同步界面优化：WebDAV 卡片置顶并改名「WebDAV」、跨设备同步改「手动同步」、账号术语统一为「密钥账号」、去除身份卡冗余副标题；修复底部「我的」面板打开时头像不刷新的问题；广告标记图标四重置顶、术语统一（隐藏→屏蔽、已记住→已屏蔽、全量框选→上帝模式）",
-  "size": 5857185,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.168.0/apks/Kirito-v1.168.0-release.apk",
+  "version": "1.169.0",
+  "versionCode": 205,
+  "title": "Kirito v1.169.0",
+  "notes": "创建账号改为进账号页弹「自动创建密钥账号」圆角三按钮确认框（取消/确定/已有），不再冷启动静默建号；修复「从云端拉取」弹窗中『拉取并合并到本机』描述被截断成省略号的问题",
+  "size": 5857241,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.168.0/apks/Kirito-v1.168.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.168.0/apks/Kirito-v1.168.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.168.0/apks/Kirito-v1.168.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.168.0/apks/Kirito-v1.168.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.168.0/apks/Kirito-v1.168.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.168.0/Kirito-v1.168.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.169.0/apks/Kirito-v1.169.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.169.0/Kirito-v1.169.0-release.apk"
   ],
-  "sha256": "ad27b949fd767776381f7c3a848175e58416149fc0aa75e1a9b373054e1a282f"
+  "sha256": "d805beb76a43b7def532900a5450a881f079bd90d88e13b571c9f9a9b1365405"
 }
