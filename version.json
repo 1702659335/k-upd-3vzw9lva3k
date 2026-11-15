@@ -1,17 +1,17 @@
 {
-  "version": "1.171.0",
-  "versionCode": 207,
-  "title": "Kirito v1.171.0",
-  "notes": "退出账号收进 ⓘ 说明面板（仅登录态、点 ⓘ 展开可见的小号危险色按钮，移除居中大按钮）；新增自定义账号显示名：点账号行直接改，主行显示自定义名+小字标注真实密钥账号，纯本机外显示、不影响真实账号与同步，退出时清除",
-  "size": 5861337,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.171.0/apks/Kirito-v1.171.0-release.apk",
+  "version": "1.172.0",
+  "versionCode": 208,
+  "title": "Kirito v1.172.0",
+  "notes": "常用功能面板分页重构：ViewPager2 左右翻页、每页固定 10 个图标、列数设置只决定每页排布；保留页内长按拖拽排序（拖拽时禁用翻页避免手势冲突）；底部常驻「缩小面板 / 退出」圆角图标按钮，退出不再占宫格位；账号显示名设了自定义名后只显示自定义名、隐藏真实密钥账号",
+  "size": 5873737,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.171.0/apks/Kirito-v1.171.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.171.0/apks/Kirito-v1.171.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.171.0/apks/Kirito-v1.171.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.171.0/apks/Kirito-v1.171.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.171.0/apks/Kirito-v1.171.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.171.0/Kirito-v1.171.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.172.0/apks/Kirito-v1.172.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.172.0/Kirito-v1.172.0-release.apk"
   ],
-  "sha256": "027bf10acd909889599c9d5884a663c15b9513359f7c26fb258c98a90273c468"
+  "sha256": "542ca0f1a2d27b8a5aedc075b4d64e02a6adf41ec862e790c0478e58e7ee4fbe"
 }
