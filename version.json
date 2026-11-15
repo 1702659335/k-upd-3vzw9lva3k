@@ -1,17 +1,17 @@
 {
-  "version": "1.169.0",
-  "versionCode": 205,
-  "title": "Kirito v1.169.0",
-  "notes": "创建账号改为进账号页弹「自动创建密钥账号」圆角三按钮确认框（取消/确定/已有），不再冷启动静默建号；修复「从云端拉取」弹窗中『拉取并合并到本机』描述被截断成省略号的问题",
-  "size": 5857241,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
+  "version": "1.170.0",
+  "versionCode": 206,
+  "title": "Kirito v1.170.0",
+  "notes": "账号体系整套优化：身份卡随状态切换（访客态常驻[创建账号][登录]、已登录态[退出账号]危险色按钮）；创建确认框只首弹一次；新增退出账号（仅清本机身份、云端保留）；创建框标题中性化、登录按钮文案统一",
+  "size": 5861337,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.170.0/apks/Kirito-v1.170.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.169.0/apks/Kirito-v1.169.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.169.0/apks/Kirito-v1.169.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.169.0/Kirito-v1.169.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.170.0/apks/Kirito-v1.170.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.170.0/apks/Kirito-v1.170.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.170.0/apks/Kirito-v1.170.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.170.0/apks/Kirito-v1.170.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.170.0/apks/Kirito-v1.170.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.170.0/Kirito-v1.170.0-release.apk"
   ],
-  "sha256": "d805beb76a43b7def532900a5450a881f079bd90d88e13b571c9f9a9b1365405"
+  "sha256": "15ef40ac9126228b05e3acc61d1277b1db15ba71cd61d5c285fd024458f72b6c"
 }
