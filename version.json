@@ -1,17 +1,17 @@
 {
-  "version": "1.173.0",
-  "versionCode": 209,
-  "title": "Kirito v1.173.0",
-  "notes": "常用功能面板二轮优化：图标默认按最常用排序，高频功能集中在第一页；固定 5 列、每页 10 个满格，移除「常用功能图标列数」设置项；保留任意排序并新增跨页换页排序（拖拽时页签高亮、松手换页）；退出按钮改为电源键图标、「最小化」改名「收起面板」；新增「工具」二级聚合入口（工具箱图标），源码与添加到桌面收进其中，今后新功能统一收纳；启动时恢复标签默认改为禁用恢复。",
+  "version": "1.174.0",
+  "versionCode": 210,
+  "title": "Kirito v1.174.0",
+  "notes": "面板收尾微调：移除最小化按钮，退出旁改为放大的「收面板」按钮，点击关闭整个面板；图标排序改为按住即拖、免长按（纯点击仍正常打开功能）；移除顶部页签，跨页改为拖到屏幕左右边缘投放，进入时提示目标页；灰色不可用图标现也可参与排序。",
   "size": 5877946,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.173.0/apks/Kirito-v1.173.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.173.0/Kirito-v1.173.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.174.0/apks/Kirito-v1.174.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.174.0/Kirito-v1.174.0-release.apk"
   ],
-  "sha256": "935363114c7a49c1cb20d4d5b4e0692a1b551a51bce1db42102c9da9dcedd1b6"
+  "sha256": "68cb2097ac46e1782178db57082c190fae2ae41ef021701503dd8c20619147fb"
 }
