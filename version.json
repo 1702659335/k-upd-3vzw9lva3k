@@ -1,17 +1,17 @@
 {
-  "version": "1.172.0",
-  "versionCode": 208,
-  "title": "Kirito v1.172.0",
-  "notes": "常用功能面板分页重构：ViewPager2 左右翻页、每页固定 10 个图标、列数设置只决定每页排布；保留页内长按拖拽排序（拖拽时禁用翻页避免手势冲突）；底部常驻「缩小面板 / 退出」圆角图标按钮，退出不再占宫格位；账号显示名设了自定义名后只显示自定义名、隐藏真实密钥账号",
-  "size": 5873737,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
+  "version": "1.173.0",
+  "versionCode": 209,
+  "title": "Kirito v1.173.0",
+  "notes": "常用功能面板二轮优化：图标默认按最常用排序，高频功能集中在第一页；固定 5 列、每页 10 个满格，移除「常用功能图标列数」设置项；保留任意排序并新增跨页换页排序（拖拽时页签高亮、松手换页）；退出按钮改为电源键图标、「最小化」改名「收起面板」；新增「工具」二级聚合入口（工具箱图标），源码与添加到桌面收进其中，今后新功能统一收纳；启动时恢复标签默认改为禁用恢复。",
+  "size": 5877946,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.172.0/apks/Kirito-v1.172.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.172.0/apks/Kirito-v1.172.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.172.0/Kirito-v1.172.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.173.0/apks/Kirito-v1.173.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.173.0/apks/Kirito-v1.173.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.173.0/Kirito-v1.173.0-release.apk"
   ],
-  "sha256": "542ca0f1a2d27b8a5aedc075b4d64e02a6adf41ec862e790c0478e58e7ee4fbe"
+  "sha256": "935363114c7a49c1cb20d4d5b4e0692a1b551a51bce1db42102c9da9dcedd1b6"
 }
