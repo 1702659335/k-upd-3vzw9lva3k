@@ -1,17 +1,17 @@
 {
-  "version": "1.182.0",
-  "versionCode": 218,
-  "title": "Kirito v1.182.0",
-  "notes": "脚本商店精简为官方源单线路；常用功能面板列数可选并联动主面板；图标排序新增自定义/按使用频率/按名称/恢复默认四种方式",
-  "size": 5894499,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.182.0/apks/Kirito-v1.182.0-release.apk",
+  "version": "1.183.0",
+  "versionCode": 219,
+  "title": "Kirito v1.183.0",
+  "notes": "图标排序面板完成按钮移至标题行并改为圆角矩形小按钮；修复首页长按空白区域无法进入编辑模式",
+  "size": 5898595,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.183.0/apks/Kirito-v1.183.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.182.0/apks/Kirito-v1.182.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.182.0/apks/Kirito-v1.182.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.182.0/apks/Kirito-v1.182.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.182.0/apks/Kirito-v1.182.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.182.0/apks/Kirito-v1.182.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.182.0/Kirito-v1.182.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.183.0/apks/Kirito-v1.183.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.183.0/apks/Kirito-v1.183.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.183.0/apks/Kirito-v1.183.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.183.0/apks/Kirito-v1.183.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.183.0/apks/Kirito-v1.183.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.183.0/Kirito-v1.183.0-release.apk"
   ],
-  "sha256": "ce9999155420776e01c06d430b20f5eadcafe3d77f9b2b38cc4004ec0c8c111c"
+  "sha256": "208497a4e78b4166204f66fc32b958f3bc26bb47304baa45c35461d06937a311"
 }
