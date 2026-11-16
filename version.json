@@ -1,17 +1,17 @@
 {
-  "version": "1.180.0",
-  "versionCode": 216,
-  "title": "Kirito v1.180.0",
-  "notes": "地址栏三档显示(域名/域名+标题/完整网址)；广告标记盾牌改左下+Shadow隔离,修复与脚本图标冲突及焦点崩溃;油猴脚本执行上下文隔离避免多脚本串扰",
-  "size": 5890403,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
+  "version": "1.181.0",
+  "versionCode": 217,
+  "title": "Kirito v1.181.0",
+  "notes": "地址栏新增仅标题档与免维护标题精简；长按脚本新增下载源码",
+  "size": 5894499,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.181.0/apks/Kirito-v1.181.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.180.0/apks/Kirito-v1.180.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.180.0/Kirito-v1.180.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.181.0/apks/Kirito-v1.181.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.181.0/apks/Kirito-v1.181.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.181.0/apks/Kirito-v1.181.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.181.0/apks/Kirito-v1.181.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.181.0/apks/Kirito-v1.181.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.181.0/Kirito-v1.181.0-release.apk"
   ],
-  "sha256": "a83e84a7d369c78b8bfffb33374d944576d35a0d1177f9ae95acf363490798a1"
+  "sha256": "fa3750469a9ad4f77f1ccf6917e24e2bf7d7e34ffd008f12551ec643a4a4217c"
 }
