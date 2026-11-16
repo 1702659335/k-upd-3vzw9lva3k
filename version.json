@@ -1,17 +1,17 @@
 {
-  "version": "1.179.0",
-  "versionCode": 215,
-  "title": "Kirito v1.179.0",
-  "notes": "修复工具弹窗文字显示不全：独立UA说明自动换行、网页信息两列完整显示、权限列表项完整显示",
+  "version": "1.180.0",
+  "versionCode": 216,
+  "title": "Kirito v1.180.0",
+  "notes": "地址栏三档显示(域名/域名+标题/完整网址)；广告标记盾牌改左下+Shadow隔离,修复与脚本图标冲突及焦点崩溃;油猴脚本执行上下文隔离避免多脚本串扰",
   "size": 5890403,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.179.0/apks/Kirito-v1.179.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.179.0/apks/Kirito-v1.179.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.179.0/apks/Kirito-v1.179.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.179.0/apks/Kirito-v1.179.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.179.0/apks/Kirito-v1.179.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.179.0/apks/Kirito-v1.179.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.179.0/Kirito-v1.179.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.180.0/apks/Kirito-v1.180.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.180.0/apks/Kirito-v1.180.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.180.0/Kirito-v1.180.0-release.apk"
   ],
-  "sha256": "bf5ae042ab4a015198dfdc8fbe5cdcdd7672e3bc5a7fc1bfb32e855c2f8c13d2"
+  "sha256": "a83e84a7d369c78b8bfffb33374d944576d35a0d1177f9ae95acf363490798a1"
 }
