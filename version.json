@@ -1,17 +1,17 @@
 {
-  "version": "1.174.0",
-  "versionCode": 210,
-  "title": "Kirito v1.174.0",
-  "notes": "面板收尾微调：移除最小化按钮，退出旁改为放大的「收面板」按钮，点击关闭整个面板；图标排序改为按住即拖、免长按（纯点击仍正常打开功能）；移除顶部页签，跨页改为拖到屏幕左右边缘投放，进入时提示目标页；灰色不可用图标现也可参与排序。",
+  "version": "1.175.0",
+  "versionCode": 0,
+  "title": "Kirito v1.175.0",
+  "notes": "排序改为独立全展开面板：底部收面板按钮旁新增「排序」入口；点开后全部图标一次性平铺，长按拖动任意换位（根治免长按误拖），排序态图标全部亮色无灰；点完成写回顺序即刻生效，保留恢复默认排序。",
   "size": 5877946,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.174.0/apks/Kirito-v1.174.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.174.0/apks/Kirito-v1.174.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.174.0/Kirito-v1.174.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.175.0/apks/Kirito-v1.175.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.175.0/Kirito-v1.175.0-release.apk"
   ],
-  "sha256": "68cb2097ac46e1782178db57082c190fae2ae41ef021701503dd8c20619147fb"
+  "sha256": "e4834ea8583d15ba7f422067f419b251c916334e570743f0e387a92b2e32944e"
 }
