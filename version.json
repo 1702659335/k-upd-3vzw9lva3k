@@ -1,17 +1,17 @@
 {
-  "version": "1.177.0",
-  "versionCode": 213,
-  "title": "Kirito v1.177.0",
-  "notes": "书签多选「移动/删除」二次彻底修复：落库+提示+退出多选+刷新并入同一不可取消协程，刷新改挂起函数不嵌套，根治「数据动了界面没刷新」；书签列表圆角卡片分区；工具箱三功能(按站独立UA/网页权限管理/网页信息，本地存储不接备份)；常用功能主面板图标常亮点击提示、工具面板置灰；附死代码清理与多处bug修复。",
+  "version": "1.178.0",
+  "versionCode": 214,
+  "title": "Kirito v1.178.0",
+  "notes": "自定义主页编辑合并为一整套代码；常用图标默认顺序改为新布局；工具箱新增网页截图与站点数据清理",
   "size": 5890403,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.177.0/apks/Kirito-v1.177.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.178.0/apks/Kirito-v1.178.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.177.0/apks/Kirito-v1.177.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.177.0/apks/Kirito-v1.177.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.177.0/apks/Kirito-v1.177.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.177.0/apks/Kirito-v1.177.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.177.0/apks/Kirito-v1.177.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.177.0/Kirito-v1.177.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.178.0/apks/Kirito-v1.178.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.178.0/apks/Kirito-v1.178.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.178.0/apks/Kirito-v1.178.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.178.0/apks/Kirito-v1.178.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.178.0/apks/Kirito-v1.178.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.178.0/Kirito-v1.178.0-release.apk"
   ],
-  "sha256": "d0eec3b77107168426e70869c8bda8452be7400cf4800dafab5318de4a272a74"
+  "sha256": "6cbf1666d76e1ee138901cf40bae52f0d5573785e6eed229ec0bb94b792efaf8"
 }
