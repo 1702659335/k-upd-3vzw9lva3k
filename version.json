@@ -1,17 +1,17 @@
 {
-  "version": "1.175.0",
-  "versionCode": 211,
-  "title": "Kirito v1.175.0",
-  "notes": "排序改为独立全展开面板：底部收面板按钮旁新增「排序」入口；点开后全部图标一次性平铺，长按拖动任意换位（根治免长按误拖），排序态图标全部亮色无灰；点完成写回顺序即刻生效，保留恢复默认排序。",
+  "version": "1.176.0",
+  "versionCode": 212,
+  "title": "Kirito v1.176.0",
+  "notes": "修复书签多选「移动到文件夹/删除」偶发失效：批量事务改同步查询+NonCancellable 保证原子提交，彻底根治旋转/退后台/连续操作导致的整批回滚（无多选数量上限问题）；书签新增「我的文件夹」默认文件夹：新建含加密文件夹默认归入、首次自动迁移根目录文件夹、加密文件夹永远置顶、可手动移出；我的面板排序收敛：主面板移除拖拽只走独立排序面板，源码/添加到桌面放回第3页；工具面板去提示语、空时显示暂无工具。",
   "size": 5877946,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.176.0/apks/Kirito-v1.176.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.175.0/apks/Kirito-v1.175.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.175.0/apks/Kirito-v1.175.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.175.0/Kirito-v1.175.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.176.0/apks/Kirito-v1.176.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.176.0/apks/Kirito-v1.176.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.176.0/apks/Kirito-v1.176.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.176.0/apks/Kirito-v1.176.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.176.0/apks/Kirito-v1.176.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.176.0/Kirito-v1.176.0-release.apk"
   ],
-  "sha256": "e4834ea8583d15ba7f422067f419b251c916334e570743f0e387a92b2e32944e"
+  "sha256": "a94b016efcf72977d9ac6b4bd3a3544b0971306b0d5c5cd302e436aa538f454a"
 }
