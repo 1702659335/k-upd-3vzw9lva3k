@@ -1,17 +1,17 @@
 {
-  "version": "1.185.0",
-  "versionCode": 221,
-  "title": "Kirito v1.185.0",
-  "notes": "底部导航布局页图标优化:拖拽手柄改汉堡三条杠、恢复默认改右上角图标按钮、预设方案切换改图层图标且弹窗标题同步更名",
+  "version": "1.186.0",
+  "versionCode": 222,
+  "title": "Kirito v1.186.0",
+  "notes": "密码管理新增自动填充网页密码开关(默认开/只填不提交/主域名匹配);播放器视频加载成功后隐藏正在加载状态胶囊",
   "size": 5898595,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.185.0/apks/Kirito-v1.185.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.185.0/Kirito-v1.185.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.186.0/apks/Kirito-v1.186.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.186.0/Kirito-v1.186.0-release.apk"
   ],
-  "sha256": "a393a2e52f90d501bb7a253fb0b0b863162239f91189604b15cff5b96a7a2f8a"
+  "sha256": "5bc78ea195fefa54a920bb7aa5d398e3a5721142a1fcf2311572305f899e6195"
 }
