@@ -1,17 +1,17 @@
 {
-  "version": "1.189.0",
-  "versionCode": 225,
-  "title": "Kirito v1.189.0",
-  "notes": "删除无痕时不嗅探设置项(固定无痕也嗅探)；悬浮球缩小至52dp并修复黑边与遮挡底栏",
-  "size": 5902861,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.189.0/apks/Kirito-v1.189.0-release.apk",
+  "version": "1.190.0",
+  "versionCode": 226,
+  "title": "Kirito v1.190.0",
+  "notes": "广告标记性能优化(扫描分片/读写分离/MO节流/盾牌先绘/提前注入/上帝模式)；广告标记盾牌改琥珀金橙",
+  "size": 5906957,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.190.0/apks/Kirito-v1.190.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.189.0/apks/Kirito-v1.189.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.189.0/apks/Kirito-v1.189.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.189.0/apks/Kirito-v1.189.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.189.0/apks/Kirito-v1.189.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.189.0/apks/Kirito-v1.189.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.189.0/Kirito-v1.189.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.190.0/apks/Kirito-v1.190.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.190.0/apks/Kirito-v1.190.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.190.0/apks/Kirito-v1.190.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.190.0/apks/Kirito-v1.190.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.190.0/apks/Kirito-v1.190.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.190.0/Kirito-v1.190.0-release.apk"
   ],
-  "sha256": "b2a0faa53c7f3cf8314c983f5ee5f2a2b3120a3c9509b13136667dee9ab16c8d"
+  "sha256": "6445d0a2a17fe83bdd83311b820be9000821a3a6952a8abd4ba9c4f3b05c36a0"
 }
