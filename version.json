@@ -1,17 +1,17 @@
 {
-  "version": "1.186.0",
-  "versionCode": 222,
-  "title": "Kirito v1.186.0",
-  "notes": "密码管理新增自动填充网页密码开关(默认开/只填不提交/主域名匹配);播放器视频加载成功后隐藏正在加载状态胶囊",
-  "size": 5898595,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
+  "version": "1.187.0",
+  "versionCode": 223,
+  "title": "Kirito v1.187.0",
+  "notes": "v1.187.0：修复夜间模式聚搜引擎条看不清；新增红色回顶/到底悬浮按钮（可开关）与工具箱入口；工具箱新增导出PDF、网页存档MHTML；移除工具箱多余的恢复默认排序项。",
+  "size": 5902861,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.186.0/apks/Kirito-v1.186.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.186.0/apks/Kirito-v1.186.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.186.0/Kirito-v1.186.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.187.0/apks/Kirito-v1.187.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.187.0/Kirito-v1.187.0-release.apk"
   ],
-  "sha256": "5bc78ea195fefa54a920bb7aa5d398e3a5721142a1fcf2311572305f899e6195"
+  "sha256": "14156e3cbf34b9de44975722493107e15061d643affa7646d9e99e6e4a201102"
 }
