@@ -1,17 +1,17 @@
 {
-  "version": "1.184.0",
-  "versionCode": 220,
-  "title": "Kirito v1.184.0",
-  "notes": "首页站点图标间距优化(搜索框与网格间隔各位置统一生效、左右边距收紧);修复长按空白误触进入编辑;移除搜索框手动拖拽仅保留设置项;图标排序移除底部重复恢复默认按钮;扫码增强(多格式识别/网址-WiFi-文本分流/圆角弹窗)",
+  "version": "1.185.0",
+  "versionCode": 221,
+  "title": "Kirito v1.185.0",
+  "notes": "底部导航布局页图标优化:拖拽手柄改汉堡三条杠、恢复默认改右上角图标按钮、预设方案切换改图层图标且弹窗标题同步更名",
   "size": 5898595,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.184.0/apks/Kirito-v1.184.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.184.0/apks/Kirito-v1.184.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.184.0/apks/Kirito-v1.184.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.184.0/apks/Kirito-v1.184.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.184.0/apks/Kirito-v1.184.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.184.0/apks/Kirito-v1.184.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.184.0/Kirito-v1.184.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.185.0/apks/Kirito-v1.185.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.185.0/apks/Kirito-v1.185.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.185.0/Kirito-v1.185.0-release.apk"
   ],
-  "sha256": "07f08a41fe4c1b5c15d6f5902ca12dc2cb700a8f6074155c6928d27c73eec88f"
+  "sha256": "a393a2e52f90d501bb7a253fb0b0b863162239f91189604b15cff5b96a7a2f8a"
 }
