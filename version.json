@@ -1,17 +1,17 @@
 {
-  "version": "1.187.0",
-  "versionCode": 223,
-  "title": "Kirito v1.187.0",
-  "notes": "v1.187.0：修复夜间模式聚搜引擎条看不清；新增红色回顶/到底悬浮按钮（可开关）与工具箱入口；工具箱新增导出PDF、网页存档MHTML；移除工具箱多余的恢复默认排序项。",
+  "version": "1.188.0",
+  "versionCode": 224,
+  "title": "Kirito v1.188.0",
+  "notes": "新增屏幕常亮；悬浮按钮统一改为琥珀金橙配色（回顶到底/播放器/退出全屏/房间胶囊）",
   "size": 5902861,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.188.0/apks/Kirito-v1.188.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.187.0/apks/Kirito-v1.187.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.187.0/apks/Kirito-v1.187.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.187.0/Kirito-v1.187.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.188.0/apks/Kirito-v1.188.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.188.0/apks/Kirito-v1.188.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.188.0/apks/Kirito-v1.188.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.188.0/apks/Kirito-v1.188.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.188.0/apks/Kirito-v1.188.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.188.0/Kirito-v1.188.0-release.apk"
   ],
-  "sha256": "14156e3cbf34b9de44975722493107e15061d643affa7646d9e99e6e4a201102"
+  "sha256": "55095c19bca2d15290d706a75056b24b785439145010629c1d6c6cb24c1a1a41"
 }
