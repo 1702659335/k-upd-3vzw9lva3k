@@ -1,17 +1,17 @@
 {
-  "version": "1.191.0",
-  "versionCode": 227,
-  "title": "Kirito v1.191.0",
-  "notes": "默认图标改为深蓝原版并移除经典图标；界面字体精简为4项；修复聚搜引擎条显示位置连续调整不刷新",
-  "size": 5484274,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.191.0/apks/Kirito-v1.191.0-release.apk",
+  "version": "1.192.0",
+  "versionCode": 228,
+  "title": "Kirito v1.192.0",
+  "notes": "新增九宫格多引擎对比（引擎条固定图标入口）；新增隐私仪表盘；修复聚搜引擎条遮挡与位置切换刷新；引擎条批量勾选上限9个",
+  "size": 5492749,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.192.0/apks/Kirito-v1.192.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.191.0/apks/Kirito-v1.191.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.191.0/apks/Kirito-v1.191.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.191.0/apks/Kirito-v1.191.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.191.0/apks/Kirito-v1.191.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.191.0/apks/Kirito-v1.191.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.191.0/Kirito-v1.191.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.192.0/apks/Kirito-v1.192.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.192.0/apks/Kirito-v1.192.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.192.0/apks/Kirito-v1.192.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.192.0/apks/Kirito-v1.192.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.192.0/apks/Kirito-v1.192.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.192.0/Kirito-v1.192.0-release.apk"
   ],
-  "sha256": "5f0a120f5de258de196547d9a5dc7c9f776dd2d22083b29ca8ef3277cb8a028e"
+  "sha256": "26d74ac1bb8a0da02beac915c943b3b942ace2b997d35e3d6c3ae3d66481f17b"
 }
