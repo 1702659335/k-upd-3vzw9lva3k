@@ -1,17 +1,17 @@
 {
-  "version": "1.195.0",
-  "versionCode": 231,
-  "title": "Kirito v1.195.0",
-  "notes": "删除地址栏无痕按钮；导航栏自动隐藏联动底部引擎条；九宫格失败检测/自动带词/hint优化",
+  "version": "1.196.0",
+  "versionCode": 232,
+  "title": "Kirito v1.196.0",
+  "notes": "恢复默认布局按钮(图标+提示语+修复onPause覆盖)；修复浏览网页切换引擎条位置显示异常",
   "size": 5496845,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.195.0/apks/Kirito-v1.195.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.196.0/apks/Kirito-v1.196.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.195.0/apks/Kirito-v1.195.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.195.0/apks/Kirito-v1.195.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.195.0/apks/Kirito-v1.195.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.195.0/apks/Kirito-v1.195.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.195.0/apks/Kirito-v1.195.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.195.0/Kirito-v1.195.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.196.0/apks/Kirito-v1.196.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.196.0/apks/Kirito-v1.196.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.196.0/apks/Kirito-v1.196.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.196.0/apks/Kirito-v1.196.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.196.0/apks/Kirito-v1.196.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.196.0/Kirito-v1.196.0-release.apk"
   ],
-  "sha256": "cd68ffb13c72c78fcdc106be9027e7534b4032a91cd9fafcb41db9321992d0e3"
+  "sha256": "1bece1230b3233aee6e7faf8e35f8033d93bea5a8abacb145089dd3c97279b0c"
 }
