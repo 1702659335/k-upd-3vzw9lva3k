@@ -1,17 +1,17 @@
 {
-  "version": "1.209.0",
-  "versionCode": 245,
-  "title": "Kirito v1.209.0",
-  "notes": "浏览器指纹防护：新增固定化方案（Canvas 像素低位抹平+WebGL GPU 型号隐藏+navigator 硬件画像统一），默认开+独立开关，设置页与隐私仪表盘同步",
-  "size": 5517380,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
+  "version": "1.210.0",
+  "versionCode": 246,
+  "title": "Kirito v1.210.0",
+  "notes": "加载提速：新增 DNS 预解析（导航后台预热域名，默认开）+ 页面加载策略开关（默认/缓存优先/仅缓存，默认关、无痕强制不缓存、改动即时同步已开标签）",
+  "size": 5521476,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.209.0/apks/Kirito-v1.209.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.209.0/Kirito-v1.209.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.210.0/apks/Kirito-v1.210.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.210.0/Kirito-v1.210.0-release.apk"
   ],
-  "sha256": "2a1f96ad6a2228e61e1d687fc466677f824808faaca3c3bf238302ade949f8db"
+  "sha256": "2f9203cc924ea5104e65574de4e4571ff2cd26cdbcbbd85cbecdc735add630f7"
 }
