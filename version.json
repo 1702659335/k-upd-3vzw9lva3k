@@ -1,17 +1,17 @@
 {
-  "version": "1.198.0",
-  "versionCode": 234,
-  "title": "Kirito v1.198.0",
-  "notes": "书签过期检测(绿点/红点+3分钟清除)与状态图标更新; 聚搜条/隐私仪表盘优化; 内置广告规则扩充至60条",
+  "version": "1.199.0",
+  "versionCode": 235,
+  "title": "Kirito v1.199.0",
+  "notes": "九宫格入口移至地址栏右上角(替换刷新按钮)并随聚搜开关联动隐藏; 九宫格每格新增放大打开原网页/全屏放大/重新加载/复制链接/分享功能图标",
   "size": 5501053,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.199.0/apks/Kirito-v1.199.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.198.0/apks/Kirito-v1.198.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.198.0/Kirito-v1.198.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.199.0/apks/Kirito-v1.199.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.199.0/apks/Kirito-v1.199.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.199.0/apks/Kirito-v1.199.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.199.0/apks/Kirito-v1.199.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.199.0/apks/Kirito-v1.199.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.199.0/Kirito-v1.199.0-release.apk"
   ],
-  "sha256": "c17dee9d559c29e73e20d561460575c815a09c83166fe4dff4ba5caff9934a2c"
+  "sha256": "c394f90dec876f15dcda64a20f96db99fec5c96214b9f775f578aa8a0def14bf"
 }
