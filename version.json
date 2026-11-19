@@ -1,17 +1,17 @@
 {
-  "version": "1.203.0",
-  "versionCode": 239,
-  "title": "Kirito v1.203.0",
-  "notes": "九宫格点集数修复失败误判并自动全屏原网页播放、网页图片长按保存支持data与相对路径并加进度提示与精确MIME",
-  "size": 5505092,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
+  "version": "1.204.0",
+  "versionCode": 240,
+  "title": "Kirito v1.204.0",
+  "notes": "下载设置新增自定义下载目录(SAF选任意目录含SD卡)、同名文件策略(覆盖/自动改名/询问)、移动数据下载通知二次确认",
+  "size": 5513284,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.204.0/apks/Kirito-v1.204.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.203.0/apks/Kirito-v1.203.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.203.0/Kirito-v1.203.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.204.0/apks/Kirito-v1.204.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.204.0/apks/Kirito-v1.204.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.204.0/apks/Kirito-v1.204.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.204.0/apks/Kirito-v1.204.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.204.0/apks/Kirito-v1.204.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.204.0/Kirito-v1.204.0-release.apk"
   ],
-  "sha256": "39b0e157ea82193bf11e1541ab74cb69106e2245886e92d5afebbc8ce62cdd14"
+  "sha256": "903cabf14db88e21172e64daeacc8c6a7aab739f55344e2d74a9df0755168325"
 }
