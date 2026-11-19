@@ -1,17 +1,17 @@
 {
-  "version": "1.200.0",
-  "versionCode": 236,
-  "title": "Kirito v1.200.0",
-  "notes": "九宫格精简为全屏/刷新两按钮并修复格内网页滑动; 搜索源页恢复默认改图标/去星标用文字标识/新增拖拽排序; 九宫格回归引擎条右侧; 保持全应用图标风格统一",
-  "size": 5505092,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.200.0/apks/Kirito-v1.200.0-release.apk",
+  "version": "1.201.0",
+  "versionCode": 237,
+  "title": "Kirito v1.201.0",
+  "notes": "搜索源管理页移除每行右侧的单条删除图标，保留多选批量删除",
+  "size": 5500996,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.201.0/apks/Kirito-v1.201.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.200.0/apks/Kirito-v1.200.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.200.0/apks/Kirito-v1.200.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.200.0/apks/Kirito-v1.200.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.200.0/apks/Kirito-v1.200.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.200.0/apks/Kirito-v1.200.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.200.0/Kirito-v1.200.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.201.0/apks/Kirito-v1.201.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.201.0/apks/Kirito-v1.201.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.201.0/apks/Kirito-v1.201.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.201.0/apks/Kirito-v1.201.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.201.0/apks/Kirito-v1.201.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.201.0/Kirito-v1.201.0-release.apk"
   ],
-  "sha256": "c6474f070458704cc643b5f1f5dd2ebcedeeed9056a5d75da0b8ff017f845581"
+  "sha256": "02f9b9591799da213ba82edf68bd145ef6c6d0f2f59e2296c0911e06e00b46e8"
 }
