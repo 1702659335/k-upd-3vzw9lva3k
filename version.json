@@ -1,17 +1,17 @@
 {
-  "version": "1.202.0",
-  "versionCode": 238,
-  "title": "Kirito v1.202.0",
-  "notes": "搜索引擎管理页拖拽手柄缩小统一风格、设默认改为点彩色图标、过期链接检测修正误判、书签记忆完善为文件夹+稳定锚点精确定位",
-  "size": 5500996,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.202.0/apks/Kirito-v1.202.0-release.apk",
+  "version": "1.203.0",
+  "versionCode": 239,
+  "title": "Kirito v1.203.0",
+  "notes": "九宫格点集数修复失败误判并自动全屏原网页播放、网页图片长按保存支持data与相对路径并加进度提示与精确MIME",
+  "size": 5505092,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.202.0/apks/Kirito-v1.202.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.202.0/apks/Kirito-v1.202.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.202.0/apks/Kirito-v1.202.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.202.0/apks/Kirito-v1.202.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.202.0/apks/Kirito-v1.202.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.202.0/Kirito-v1.202.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.203.0/apks/Kirito-v1.203.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.203.0/apks/Kirito-v1.203.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.203.0/Kirito-v1.203.0-release.apk"
   ],
-  "sha256": "712089f91202462acdb382ddfc41f27cdb106c940b3f3c0a52e7e70a25d42945"
+  "sha256": "39b0e157ea82193bf11e1541ab74cb69106e2245886e92d5afebbc8ce62cdd14"
 }
