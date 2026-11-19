@@ -1,17 +1,17 @@
 {
-  "version": "1.205.0",
-  "versionCode": 241,
-  "title": "Kirito v1.205.0",
-  "notes": "性能优化与稳定性：签名自检改为后台线程不阻塞冷启动、修复WebEnhanceManager开标签回调长期持有Activity的内存泄漏",
+  "version": "1.206.0",
+  "versionCode": 242,
+  "title": "Kirito v1.206.0",
+  "notes": "修复回顶到底按钮与导航栏自动隐藏冲突：修正滚动目标值计算、加程序化滚动抑制窗口、到底锁死隐藏，消除卡顿闪烁",
   "size": 5513284,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.205.0/apks/Kirito-v1.205.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.206.0/apks/Kirito-v1.206.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.205.0/apks/Kirito-v1.205.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.205.0/apks/Kirito-v1.205.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.205.0/apks/Kirito-v1.205.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.205.0/apks/Kirito-v1.205.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.205.0/apks/Kirito-v1.205.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.205.0/Kirito-v1.205.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.206.0/apks/Kirito-v1.206.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.206.0/apks/Kirito-v1.206.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.206.0/apks/Kirito-v1.206.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.206.0/apks/Kirito-v1.206.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.206.0/apks/Kirito-v1.206.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.206.0/Kirito-v1.206.0-release.apk"
   ],
-  "sha256": "b6356e62be6ffef3775cae805ce5cc31801dd3b4fde6c31d380573ade5cbdd4d"
+  "sha256": "5a1cd7dfc00f594e09ddeb010e849b2e66135bf22881235c74cca83038523dce"
 }
