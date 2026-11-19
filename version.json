@@ -1,17 +1,17 @@
 {
-  "version": "1.208.0",
-  "versionCode": 244,
-  "title": "Kirito v1.208.0",
-  "notes": "隐私增强：新增 WebRTC IP 泄露防护、GPC 全局隐私控制、Referer 发送策略、表单数据清理四项，设置页与隐私仪表盘同步",
+  "version": "1.209.0",
+  "versionCode": 245,
+  "title": "Kirito v1.209.0",
+  "notes": "浏览器指纹防护：新增固定化方案（Canvas 像素低位抹平+WebGL GPU 型号隐藏+navigator 硬件画像统一），默认开+独立开关，设置页与隐私仪表盘同步",
   "size": 5517380,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.208.0/apks/Kirito-v1.208.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.208.0/apks/Kirito-v1.208.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.208.0/apks/Kirito-v1.208.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.208.0/apks/Kirito-v1.208.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.208.0/apks/Kirito-v1.208.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.208.0/apks/Kirito-v1.208.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.208.0/Kirito-v1.208.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.209.0/apks/Kirito-v1.209.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.209.0/apks/Kirito-v1.209.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.209.0/Kirito-v1.209.0-release.apk"
   ],
-  "sha256": "9c9b7aa104c158aae9a20826917018b5f9140fcfa361cf42d4020485fdfc85db"
+  "sha256": "2a1f96ad6a2228e61e1d687fc466677f824808faaca3c3bf238302ade949f8db"
 }
