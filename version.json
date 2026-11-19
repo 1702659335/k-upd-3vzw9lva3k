@@ -1,17 +1,17 @@
 {
-  "version": "1.197.0",
-  "versionCode": 233,
-  "title": "Kirito v1.197.0",
-  "notes": "修复签搜测试跳转闪退；无痕图标统一；书签记忆位置开关；下载删除提示与来源标注优化；引擎条胶囊缩小；修复切换引擎条位置显示异常；调小导航底部预留白空",
-  "size": 5496845,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.197.0/apks/Kirito-v1.197.0-release.apk",
+  "version": "1.198.0",
+  "versionCode": 234,
+  "title": "Kirito v1.198.0",
+  "notes": "书签过期检测(绿点/红点+3分钟清除)与状态图标更新; 聚搜条/隐私仪表盘优化; 内置广告规则扩充至60条",
+  "size": 5501053,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.197.0/apks/Kirito-v1.197.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.197.0/apks/Kirito-v1.197.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.197.0/apks/Kirito-v1.197.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.197.0/apks/Kirito-v1.197.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.197.0/apks/Kirito-v1.197.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.197.0/Kirito-v1.197.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.198.0/apks/Kirito-v1.198.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.198.0/apks/Kirito-v1.198.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.198.0/Kirito-v1.198.0-release.apk"
   ],
-  "sha256": "ca821d079f57edd432446680ee4e5c981808549745f75414641ac4e9a9b00dd9"
+  "sha256": "c17dee9d559c29e73e20d561460575c815a09c83166fe4dff4ba5caff9934a2c"
 }
