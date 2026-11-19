@@ -1,17 +1,17 @@
 {
-  "version": "1.210.0",
-  "versionCode": 246,
-  "title": "Kirito v1.210.0",
-  "notes": "加载提速：新增 DNS 预解析（导航后台预热域名，默认开）+ 页面加载策略开关（默认/缓存优先/仅缓存，默认关、无痕强制不缓存、改动即时同步已开标签）",
+  "version": "1.211.0",
+  "versionCode": 247,
+  "title": "Kirito v1.211.0",
+  "notes": "默认设置回归基本浏览优先：将浏览器指纹防护改为默认关闭（避免个别站点风控），其余默认项保持；用户可按需在设置页主动开启",
   "size": 5521476,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.211.0/apks/Kirito-v1.211.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.210.0/apks/Kirito-v1.210.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.210.0/apks/Kirito-v1.210.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.210.0/Kirito-v1.210.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.211.0/apks/Kirito-v1.211.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.211.0/apks/Kirito-v1.211.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.211.0/apks/Kirito-v1.211.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.211.0/apks/Kirito-v1.211.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.211.0/apks/Kirito-v1.211.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.211.0/Kirito-v1.211.0-release.apk"
   ],
-  "sha256": "2f9203cc924ea5104e65574de4e4571ff2cd26cdbcbbd85cbecdc735add630f7"
+  "sha256": "427bb40cbb0cd9e761dbf8ba2bce0ec94db7e49f684f3fc055bac200680c7fcd"
 }
