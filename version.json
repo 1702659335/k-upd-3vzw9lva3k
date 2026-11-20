@@ -1,17 +1,17 @@
 {
-  "version": "1.216.0",
-  "versionCode": 252,
-  "title": "Kirito v1.216.0",
-  "notes": "设置项改名(九宫格/同屏对比多搜索源)；搜索引擎签搜的设置项平铺到搜索区(聚搜开关+显示位置)、入口直达管理页；九宫格开关独立化不再被聚搜条绑死；修复聚搜条单独开时右侧九宫格空白块",
-  "size": 5525629,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
+  "version": "1.217.0",
+  "versionCode": 253,
+  "title": "Kirito v1.217.0",
+  "notes": "签搜聚合v1：多源聚合列表+条数自适应(默认8条/上限28/展开/去重)，删除九宫格，入口与设置文案改为签搜聚合/签搜多源对比",
+  "size": 5525514,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.217.0/apks/Kirito-v1.217.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.216.0/apks/Kirito-v1.216.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.216.0/Kirito-v1.216.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.217.0/apks/Kirito-v1.217.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.217.0/apks/Kirito-v1.217.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.217.0/apks/Kirito-v1.217.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.217.0/apks/Kirito-v1.217.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.217.0/apks/Kirito-v1.217.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.217.0/Kirito-v1.217.0-release.apk"
   ],
-  "sha256": "6164b48804cd8ff4f82cbae9cd566ec4c2315089fe441a804af83a78762c28c4"
+  "sha256": "dd361812d2eeaff1d2b218fcc6d6b065f7848a845a121ca18a11549d44a7c999"
 }
