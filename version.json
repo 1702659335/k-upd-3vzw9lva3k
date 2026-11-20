@@ -1,17 +1,17 @@
 {
-  "version": "1.220.0",
-  "versionCode": 256,
-  "title": "Kirito v1.220.0",
-  "notes": "修复签搜聚合页抓取返回0条：去掉WebView attach门槛、多轮提取改为loadUrl起调度",
-  "size": 5525514,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
+  "version": "1.221.0",
+  "versionCode": 257,
+  "title": "Kirito v1.221.0",
+  "notes": "修复签搜0条根因(JS返回值二次编码)+结果改为一个源一张卡片",
+  "size": 5529667,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.220.0/apks/Kirito-v1.220.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.220.0/Kirito-v1.220.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.221.0/apks/Kirito-v1.221.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.221.0/Kirito-v1.221.0-release.apk"
   ],
-  "sha256": "7f83f4f7642c11231b3630d7e9ca247c7cba19bb1ab9004bac0cfef1f5e2150a"
+  "sha256": "35e19048e90b15b9bbdcf63f5ef61630c55e653764a69103ba8757e527877811"
 }
