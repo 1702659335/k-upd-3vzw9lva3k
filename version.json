@@ -1,17 +1,17 @@
 {
-  "version": "1.213.0",
-  "versionCode": 249,
-  "title": "Kirito v1.213.0",
-  "notes": "聚搜引擎条外框缩小：胶囊 padding/图标/字号/圆角按比例收小（compact 参数隔离，快捷输入条不受影响）；九宫格避让留白 52→56dp 加固，彻底避免最后一个引擎被遮挡",
+  "version": "1.214.0",
+  "versionCode": 250,
+  "title": "Kirito v1.214.0",
+  "notes": "九宫格操作便利化：每卡片加返回按钮（有历史回退、无历史回搜索首页）；全屏浮层加返回/前进/刷新按钮；全屏左右滑切换引擎（左滑下一个/右滑上一个，边界有提示）",
   "size": 5521476,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.213.0/apks/Kirito-v1.213.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.213.0/Kirito-v1.213.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.214.0/apks/Kirito-v1.214.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.214.0/Kirito-v1.214.0-release.apk"
   ],
-  "sha256": "f9bae509c6987f288fd949c021c7cf83fe22b241a1cf0d2c30c16a006519cdf7"
+  "sha256": "116d07360cdec04bc5a262b1cbe9a694c3f7c0fcc5e473cfa90d5150fd2ea11d"
 }
