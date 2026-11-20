@@ -1,17 +1,17 @@
 {
-  "version": "1.226.0",
-  "versionCode": 262,
-  "title": "Kirito v1.226.0",
-  "notes": "签搜全面优化：三层抓取增强(Hook网络+模拟点击+原生拦截)+失败重试并发限流+搜索历史+规则导出+筛选排序+下拉刷新+关键词高亮",
-  "size": 5537915,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
+  "version": "1.227.0",
+  "versionCode": 263,
+  "title": "Kirito v1.227.0",
+  "notes": "搜索编辑启用/停用滑动开关：每项搜索源即点即切自动保存，最多同时启用9个(超限回弹提示)，停用灰显不进引擎条/聚搜/切换器，默认源停用自动切换",
+  "size": 5542011,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.226.0/apks/Kirito-v1.226.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.226.0/Kirito-v1.226.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.227.0/apks/Kirito-v1.227.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.227.0/Kirito-v1.227.0-release.apk"
   ],
-  "sha256": "04c36915bf5a1d11bc231b68ed66b674ef64bc9b0bacd8cf75503d288da9e88a"
+  "sha256": "33513aa905b6c4649cd03d6e6e322f520969c2385835df9ca5a1155054bc9efc"
 }
