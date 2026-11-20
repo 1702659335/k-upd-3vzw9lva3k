@@ -1,17 +1,17 @@
 {
-  "version": "1.215.0",
-  "versionCode": 251,
-  "title": "Kirito v1.215.0",
-  "notes": "九宫格功能完善：开关默认关闭、卡片功能键移至右下角、全屏◀▶切引擎按钮、图标大小与风格统一浏览器；资源弹窗改为每次都弹；页面播放改名竖屏播放；修复悬浮窗切夜间拉起原网页、HTTP错误页空白两个bug",
+  "version": "1.216.0",
+  "versionCode": 252,
+  "title": "Kirito v1.216.0",
+  "notes": "设置项改名(九宫格/同屏对比多搜索源)；搜索引擎签搜的设置项平铺到搜索区(聚搜开关+显示位置)、入口直达管理页；九宫格开关独立化不再被聚搜条绑死；修复聚搜条单独开时右侧九宫格空白块",
   "size": 5525629,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.215.0/apks/Kirito-v1.215.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.215.0/Kirito-v1.215.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.216.0/apks/Kirito-v1.216.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.216.0/apks/Kirito-v1.216.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.216.0/Kirito-v1.216.0-release.apk"
   ],
-  "sha256": "7ce80553861add9946e4df5eaf01239405c119aae1269992273fc366729f7b2d"
+  "sha256": "6164b48804cd8ff4f82cbae9cd566ec4c2315089fe441a804af83a78762c28c4"
 }
