@@ -1,17 +1,17 @@
 {
-  "version": "1.214.0",
-  "versionCode": 250,
-  "title": "Kirito v1.214.0",
-  "notes": "九宫格操作便利化：每卡片加返回按钮（有历史回退、无历史回搜索首页）；全屏浮层加返回/前进/刷新按钮；全屏左右滑切换引擎（左滑下一个/右滑上一个，边界有提示）",
-  "size": 5521476,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
+  "version": "1.215.0",
+  "versionCode": 251,
+  "title": "Kirito v1.215.0",
+  "notes": "九宫格功能完善：开关默认关闭、卡片功能键移至右下角、全屏◀▶切引擎按钮、图标大小与风格统一浏览器；资源弹窗改为每次都弹；页面播放改名竖屏播放；修复悬浮窗切夜间拉起原网页、HTTP错误页空白两个bug",
+  "size": 5525629,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.214.0/apks/Kirito-v1.214.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.214.0/apks/Kirito-v1.214.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.214.0/Kirito-v1.214.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.215.0/apks/Kirito-v1.215.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.215.0/apks/Kirito-v1.215.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.215.0/Kirito-v1.215.0-release.apk"
   ],
-  "sha256": "116d07360cdec04bc5a262b1cbe9a694c3f7c0fcc5e473cfa90d5150fd2ea11d"
+  "sha256": "7ce80553861add9946e4df5eaf01239405c119aae1269992273fc366729f7b2d"
 }
