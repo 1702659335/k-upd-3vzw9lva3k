@@ -1,17 +1,17 @@
 {
-  "version": "1.221.0",
-  "versionCode": 257,
-  "title": "Kirito v1.221.0",
-  "notes": "修复签搜0条根因(JS返回值二次编码)+结果改为一个源一张卡片",
+  "version": "1.222.0",
+  "versionCode": 258,
+  "title": "Kirito v1.222.0",
+  "notes": "签搜通用降噪：标题不含关键词的导航/公告噪音过滤，不做单站适配",
   "size": 5529667,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.222.0/apks/Kirito-v1.222.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.221.0/apks/Kirito-v1.221.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.221.0/apks/Kirito-v1.221.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.221.0/Kirito-v1.221.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.222.0/apks/Kirito-v1.222.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.222.0/apks/Kirito-v1.222.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.222.0/apks/Kirito-v1.222.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.222.0/apks/Kirito-v1.222.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.222.0/apks/Kirito-v1.222.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.222.0/Kirito-v1.222.0-release.apk"
   ],
-  "sha256": "35e19048e90b15b9bbdcf63f5ef61630c55e653764a69103ba8757e527877811"
+  "sha256": "7095419ba6c8322c1aea8fb3ca3b0649539b68a1b2d2fc19a35d320f7762db5e"
 }
