@@ -1,17 +1,17 @@
 {
-  "version": "1.225.0",
-  "versionCode": 261,
-  "title": "Kirito v1.225.0",
-  "notes": "签搜二级播放地址提取+折叠分批显示(复制全部/加载更多)+结果紧凑排版",
-  "size": 5533819,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.225.0/apks/Kirito-v1.225.0-release.apk",
+  "version": "1.226.0",
+  "versionCode": 262,
+  "title": "Kirito v1.226.0",
+  "notes": "签搜全面优化：三层抓取增强(Hook网络+模拟点击+原生拦截)+失败重试并发限流+搜索历史+规则导出+筛选排序+下拉刷新+关键词高亮",
+  "size": 5537915,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.225.0/apks/Kirito-v1.225.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.225.0/apks/Kirito-v1.225.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.225.0/apks/Kirito-v1.225.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.225.0/apks/Kirito-v1.225.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.225.0/apks/Kirito-v1.225.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.225.0/Kirito-v1.225.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.226.0/apks/Kirito-v1.226.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.226.0/apks/Kirito-v1.226.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.226.0/Kirito-v1.226.0-release.apk"
   ],
-  "sha256": "7cc12ebac4bef1347532b850dd421770b00679b46c3818b847a9ecca28301fe9"
+  "sha256": "04c36915bf5a1d11bc231b68ed66b674ef64bc9b0bacd8cf75503d288da9e88a"
 }
