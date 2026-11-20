@@ -1,17 +1,17 @@
 {
-  "version": "1.219.0",
-  "versionCode": 255,
-  "title": "Kirito v1.219.0",
-  "notes": "内置源显示名改用站点真实名：麒麟资源/暴风资源/量子资源",
-  "size": 5529610,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.219.0/apks/Kirito-v1.219.0-release.apk",
+  "version": "1.220.0",
+  "versionCode": 256,
+  "title": "Kirito v1.220.0",
+  "notes": "修复签搜聚合页抓取返回0条：去掉WebView attach门槛、多轮提取改为loadUrl起调度",
+  "size": 5525514,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.219.0/apks/Kirito-v1.219.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.219.0/apks/Kirito-v1.219.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.219.0/apks/Kirito-v1.219.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.219.0/apks/Kirito-v1.219.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.219.0/apks/Kirito-v1.219.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.219.0/Kirito-v1.219.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.220.0/apks/Kirito-v1.220.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.220.0/apks/Kirito-v1.220.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.220.0/Kirito-v1.220.0-release.apk"
   ],
-  "sha256": "3902209eba0049ec51448c230fd9250c1545baae3be43604ac090a5b39e65e1f"
+  "sha256": "7f83f4f7642c11231b3630d7e9ca247c7cba19bb1ab9004bac0cfef1f5e2150a"
 }
