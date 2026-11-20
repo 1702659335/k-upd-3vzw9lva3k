@@ -1,17 +1,17 @@
 {
-  "version": "1.212.0",
-  "versionCode": 248,
-  "title": "Kirito v1.212.0",
-  "notes": "默认值调整+UI修复：拦截条数标记默认开、导航栏自动隐藏默认关、竖屏同步图标默认关；地址栏缩至约75%+字号12sp；修复聚搜引擎条最后一个被九宫格遮挡",
+  "version": "1.213.0",
+  "versionCode": 249,
+  "title": "Kirito v1.213.0",
+  "notes": "聚搜引擎条外框缩小：胶囊 padding/图标/字号/圆角按比例收小（compact 参数隔离，快捷输入条不受影响）；九宫格避让留白 52→56dp 加固，彻底避免最后一个引擎被遮挡",
   "size": 5521476,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.212.0/apks/Kirito-v1.212.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.212.0/apks/Kirito-v1.212.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.212.0/apks/Kirito-v1.212.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.212.0/apks/Kirito-v1.212.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.212.0/apks/Kirito-v1.212.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.212.0/apks/Kirito-v1.212.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.212.0/Kirito-v1.212.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.213.0/apks/Kirito-v1.213.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.213.0/apks/Kirito-v1.213.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.213.0/Kirito-v1.213.0-release.apk"
   ],
-  "sha256": "78ed10d05f55e9aad68c8ae428e9a654f09ae616812d2e2650765f15f2810347"
+  "sha256": "f9bae509c6987f288fd949c021c7cf83fe22b241a1cf0d2c30c16a006519cdf7"
 }
