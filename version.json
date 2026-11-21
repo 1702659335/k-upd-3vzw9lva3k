@@ -1,17 +1,17 @@
 {
-  "version": "1.233.0",
-  "versionCode": 269,
-  "title": "Kirito v1.233.0",
-  "notes": "签搜UI重构：结果行/二级播放地址/每组源卡片全部改为圆角矩形框独立成块+筛选全部源合并去重默认排序改为36dp描边胶囊按钮并单独成行+标题放大到BodyLarge两行显示",
-  "size": 5554468,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
+  "version": "1.234.0",
+  "versionCode": 270,
+  "title": "Kirito v1.234.0",
+  "notes": "签搜修复+体验：内置源关不掉修复(停用写Prefs.builtinDisabled而非写书签)+内置源可编辑(名称模板选择器覆盖存Prefs恢复默认可还原)+每条结果加打开按钮(打开搜索结果地址,与复制并排)+筛选三按钮激活态(实心主色vs描边)+做种最多改名热度优先",
+  "size": 5554524,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.234.0/apks/Kirito-v1.234.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.233.0/apks/Kirito-v1.233.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.233.0/Kirito-v1.233.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.234.0/apks/Kirito-v1.234.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.234.0/apks/Kirito-v1.234.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.234.0/apks/Kirito-v1.234.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.234.0/apks/Kirito-v1.234.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.234.0/apks/Kirito-v1.234.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.234.0/Kirito-v1.234.0-release.apk"
   ],
-  "sha256": "6cd23f1509285730aa22bd71dc06343ed47f6ddc50d2bef6d36702fd48035eef"
+  "sha256": "b9767fadc9e480f925c7f70fdfd547bcbb0041776fc1f7529314878e8c9d16f3"
 }
