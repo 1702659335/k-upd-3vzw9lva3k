@@ -1,17 +1,17 @@
 {
-  "version": "1.228.0",
-  "versionCode": 264,
-  "title": "Kirito v1.228.0",
-  "notes": "UI统一优化：搜索编辑标题两行排版+图标配色统一+导入添加合并入口+默认搜索改百度+搜索条位置改名+聚合页标题字号层级修复",
-  "size": 5542011,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
+  "version": "1.229.0",
+  "versionCode": 265,
+  "title": "Kirito v1.229.0",
+  "notes": "签搜全面优化：结果标题原站名修复+磁力大小做种数解析+磁力一键复制+空源快速收尾+规则级提取选择器+广告过滤+内置源可删可停用+添加导入主题按键弹窗+谷歌改名Google",
+  "size": 5546164,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.229.0/apks/Kirito-v1.229.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.228.0/apks/Kirito-v1.228.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.228.0/Kirito-v1.228.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.229.0/apks/Kirito-v1.229.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.229.0/apks/Kirito-v1.229.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.229.0/apks/Kirito-v1.229.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.229.0/apks/Kirito-v1.229.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.229.0/apks/Kirito-v1.229.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.229.0/Kirito-v1.229.0-release.apk"
   ],
-  "sha256": "ec9b1740d1e62f0b56292c8ad0f9e271e053cb2c801cc57010469851f0652235"
+  "sha256": "600815d4f589ad47e3d5457c6d3c77a0cc8992d81ce6aee0127da171480dd904"
 }
