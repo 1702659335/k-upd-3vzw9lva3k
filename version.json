@@ -1,17 +1,17 @@
 {
-  "version": "1.230.0",
-  "versionCode": 266,
-  "title": "Kirito v1.230.0",
-  "notes": "签搜体验闭环：播放一键调起外部播放器(magnet/m3u8/mp4)+磁力结果按做种/体积/时间排序+跨源合并去重(N源标注按可信度排序)",
+  "version": "1.231.0",
+  "versionCode": 267,
+  "title": "Kirito v1.231.0",
+  "notes": "签搜代码体检修复：二级播放WebView内存泄漏修复+播放地址过滤移除.php误杀(PHP播放接口)+合并模式切换源筛选后N源标记重置",
   "size": 5550260,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.230.0/apks/Kirito-v1.230.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.231.0/apks/Kirito-v1.231.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.230.0/apks/Kirito-v1.230.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.230.0/apks/Kirito-v1.230.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.230.0/apks/Kirito-v1.230.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.230.0/apks/Kirito-v1.230.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.230.0/apks/Kirito-v1.230.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.230.0/Kirito-v1.230.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.231.0/apks/Kirito-v1.231.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.231.0/apks/Kirito-v1.231.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.231.0/apks/Kirito-v1.231.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.231.0/apks/Kirito-v1.231.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.231.0/apks/Kirito-v1.231.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.231.0/Kirito-v1.231.0-release.apk"
   ],
-  "sha256": "672c3bd5b9940243c28b3ab302541ee7691cc23c525f8be91817a31df3373ff4"
+  "sha256": "b9d4ac07d38ac6c6e8be13524d61cec4ba800157bfb84c746658e8565af42261"
 }
