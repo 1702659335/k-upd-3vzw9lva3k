@@ -1,17 +1,17 @@
 {
-  "version": "1.227.0",
-  "versionCode": 263,
-  "title": "Kirito v1.227.0",
-  "notes": "搜索编辑启用/停用滑动开关：每项搜索源即点即切自动保存，最多同时启用9个(超限回弹提示)，停用灰显不进引擎条/聚搜/切换器，默认源停用自动切换",
+  "version": "1.228.0",
+  "versionCode": 264,
+  "title": "Kirito v1.228.0",
+  "notes": "UI统一优化：搜索编辑标题两行排版+图标配色统一+导入添加合并入口+默认搜索改百度+搜索条位置改名+聚合页标题字号层级修复",
   "size": 5542011,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.227.0/apks/Kirito-v1.227.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.227.0/apks/Kirito-v1.227.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.227.0/Kirito-v1.227.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.228.0/apks/Kirito-v1.228.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.228.0/apks/Kirito-v1.228.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.228.0/Kirito-v1.228.0-release.apk"
   ],
-  "sha256": "33513aa905b6c4649cd03d6e6e322f520969c2385835df9ca5a1155054bc9efc"
+  "sha256": "ec9b1740d1e62f0b56292c8ad0f9e271e053cb2c801cc57010469851f0652235"
 }
