@@ -1,17 +1,17 @@
 {
-  "version": "1.232.0",
-  "versionCode": 268,
-  "title": "Kirito v1.232.0",
-  "notes": "签搜体验优化：结果内存LRU缓存(同词10分钟二搜秒出)+播放调起改用createChooser并补磁力ed2k包可见性声明+播放失败按类型区分提示+结果行状态标签(取地址/提取中/N个地址)+按钮触摸区32dp改48dp+图标与功能对齐(磁力播放/http取地址)+整行点击磁力调播放器http开详情",
-  "size": 5554356,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.232.0/apks/Kirito-v1.232.0-release.apk",
+  "version": "1.233.0",
+  "versionCode": 269,
+  "title": "Kirito v1.233.0",
+  "notes": "签搜UI重构：结果行/二级播放地址/每组源卡片全部改为圆角矩形框独立成块+筛选全部源合并去重默认排序改为36dp描边胶囊按钮并单独成行+标题放大到BodyLarge两行显示",
+  "size": 5554468,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.232.0/apks/Kirito-v1.232.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.232.0/apks/Kirito-v1.232.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.232.0/apks/Kirito-v1.232.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.232.0/apks/Kirito-v1.232.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.232.0/apks/Kirito-v1.232.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.232.0/Kirito-v1.232.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.233.0/apks/Kirito-v1.233.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.233.0/apks/Kirito-v1.233.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.233.0/Kirito-v1.233.0-release.apk"
   ],
-  "sha256": "067219b1440c612824da02c0756ec03b6a430f5b1be6202460244d9ebdbce1c7"
+  "sha256": "6cd23f1509285730aa22bd71dc06343ed47f6ddc50d2bef6d36702fd48035eef"
 }
