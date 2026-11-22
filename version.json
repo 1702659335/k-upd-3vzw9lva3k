@@ -1,17 +1,17 @@
 {
-  "version": "1.246.0",
-  "versionCode": 282,
-  "title": "Kirito v1.246.0",
-  "notes": "视频区修复4项：①补上网络层播放写入路径的封面抓取(hls.js/MSE站点封面全空的根因) ②轮播占位首字改右侧半透明，修复与标题文字重叠 ③去除轮播续播按钮，整卡片点击即续播 ④删除签搜内置量子资源规则",
-  "size": 5587574,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.246.0/apks/Kirito-v1.246.0-release.apk",
+  "version": "1.247.0",
+  "versionCode": 283,
+  "title": "Kirito v1.247.0",
+  "notes": "视频区精简：去除来源显示——删除详情面板的来源行(原网页/嗅探/签搜+站点)，排序菜单移除来源筛选分组只保留最近观看/按名称，清理相关字符串与筛选逻辑",
+  "size": 5583478,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.247.0/apks/Kirito-v1.247.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.246.0/apks/Kirito-v1.246.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.246.0/apks/Kirito-v1.246.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.246.0/apks/Kirito-v1.246.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.246.0/apks/Kirito-v1.246.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.246.0/apks/Kirito-v1.246.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.246.0/Kirito-v1.246.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.247.0/apks/Kirito-v1.247.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.247.0/apks/Kirito-v1.247.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.247.0/apks/Kirito-v1.247.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.247.0/apks/Kirito-v1.247.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.247.0/apks/Kirito-v1.247.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.247.0/Kirito-v1.247.0-release.apk"
   ],
-  "sha256": "9b04ac667cc96aa64451f41b4f02b2498121a1c29a907be6513834da54b73cf5"
+  "sha256": "c3ec9fdebdc69cea7433e68884b8481a3ad8938315711b91914d8edc87e1f27a"
 }
