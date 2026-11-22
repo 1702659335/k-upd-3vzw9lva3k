@@ -1,17 +1,17 @@
 {
-  "version": "1.239.0",
-  "versionCode": 275,
-  "title": "Kirito v1.239.0",
-  "notes": "视频区新增「记录视频观看历史」总开关（默认开，关闭后原网页/嗅探/签搜三条链路全部停记）；自动嗅探默认开启；修复夜间模式配色与视频记录；视频区功能图标化",
+  "version": "1.240.0",
+  "versionCode": 276,
+  "title": "Kirito v1.240.0",
+  "notes": "历史视频区：最近观看与排序图标拆成两个独立图标；视频记录总开关移到视频区页面顶部；修复网页播放视频区无记录(网络层抓真媒体直接写历史，与嗅探解耦)；诊断新增三条记录链路触发计数便于排障",
   "size": 5575173,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.239.0/apks/Kirito-v1.239.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.239.0/apks/Kirito-v1.239.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.239.0/apks/Kirito-v1.239.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.239.0/apks/Kirito-v1.239.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.239.0/apks/Kirito-v1.239.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.239.0/apks/Kirito-v1.239.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.239.0/Kirito-v1.239.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.240.0/apks/Kirito-v1.240.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.240.0/Kirito-v1.240.0-release.apk"
   ],
-  "sha256": "25d85df97419eb1388cc3330726cda2bcf9fe918b19045c4ffd20407d01a9a7d"
+  "sha256": "085368d85b79666d84bbccf0f3a5d73c69ae6f0951f4458c32ad1251dbb1b515"
 }
