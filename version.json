@@ -1,17 +1,17 @@
 {
-  "version": "1.240.0",
-  "versionCode": 276,
-  "title": "Kirito v1.240.0",
-  "notes": "历史视频区：最近观看与排序图标拆成两个独立图标；视频记录总开关移到视频区页面顶部；修复网页播放视频区无记录(网络层抓真媒体直接写历史，与嗅探解耦)；诊断新增三条记录链路触发计数便于排障",
+  "version": "1.241.0",
+  "versionCode": 277,
+  "title": "Kirito v1.241.0",
+  "notes": "历史视频区封面优化：只去掉来源角标(保留完成角标/进度条/视频名/详情来源信息)；底部遮罩自适应(真实封面满强度、纯色占位调淡调矮)；封面改从页面现成的 video poster / og:image 直接抓取(不再二次联网猜,命中率更高)",
   "size": 5575173,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.241.0/apks/Kirito-v1.241.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.240.0/apks/Kirito-v1.240.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.240.0/apks/Kirito-v1.240.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.240.0/Kirito-v1.240.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.241.0/apks/Kirito-v1.241.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.241.0/apks/Kirito-v1.241.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.241.0/apks/Kirito-v1.241.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.241.0/apks/Kirito-v1.241.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.241.0/apks/Kirito-v1.241.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.241.0/Kirito-v1.241.0-release.apk"
   ],
-  "sha256": "085368d85b79666d84bbccf0f3a5d73c69ae6f0951f4458c32ad1251dbb1b515"
+  "sha256": "3da9961c525b8439a33e0b350a8bc3479739c882442cec02e221d1b26f1a5104"
 }
