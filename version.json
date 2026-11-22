@@ -1,17 +1,17 @@
 {
-  "version": "1.250.0",
-  "versionCode": 286,
-  "title": "Kirito v1.250.0",
-  "notes": "修复网页播放封面抓取:网络层去重挡死补抓的根因,加存量无封面后台补抓,新增链路结论诊断",
+  "version": "1.251.0",
+  "versionCode": 287,
+  "title": "Kirito v1.251.0",
+  "notes": "封面抓取根因修复:兼容JS变量海报(var pic/poster等,云点播/苹果CMS分享页通用),相对路径自动补全,实测1.jpg可下载",
   "size": 5587574,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.250.0/apks/Kirito-v1.250.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.250.0/apks/Kirito-v1.250.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.250.0/apks/Kirito-v1.250.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.250.0/apks/Kirito-v1.250.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.250.0/apks/Kirito-v1.250.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.250.0/apks/Kirito-v1.250.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.250.0/Kirito-v1.250.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.251.0/apks/Kirito-v1.251.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.251.0/Kirito-v1.251.0-release.apk"
   ],
-  "sha256": "49dbb3885d54c0b658477b25eebb542ff33ced523711f2252cb45dee89952cc4"
+  "sha256": "c4fca5f22a826c8b0496d47a191936b4d797a91e4b2da2770d3ee9206a2e0500"
 }
