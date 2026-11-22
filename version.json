@@ -1,17 +1,17 @@
 {
-  "version": "1.251.0",
-  "versionCode": 287,
-  "title": "Kirito v1.251.0",
-  "notes": "封面抓取根因修复:兼容JS变量海报(var pic/poster等,云点播/苹果CMS分享页通用),相对路径自动补全,实测1.jpg可下载",
+  "version": "1.252.0",
+  "versionCode": 288,
+  "title": "Kirito v1.252.0",
+  "notes": "修复播放记录并发写丢失(42条掉到7条根因):历史读写加统一锁+删除逻辑改原子;封面解码加内存缓存+4路并发补抓提速;全通用无站点白名单",
   "size": 5587574,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.252.0/apks/Kirito-v1.252.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.251.0/apks/Kirito-v1.251.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.251.0/apks/Kirito-v1.251.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.251.0/Kirito-v1.251.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.252.0/apks/Kirito-v1.252.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.252.0/apks/Kirito-v1.252.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.252.0/apks/Kirito-v1.252.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.252.0/apks/Kirito-v1.252.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.252.0/apks/Kirito-v1.252.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.252.0/Kirito-v1.252.0-release.apk"
   ],
-  "sha256": "c4fca5f22a826c8b0496d47a191936b4d797a91e4b2da2770d3ee9206a2e0500"
+  "sha256": "57bd6eeaa466c86675f81b06ff6eeaa0d431d1ea286b272500cbb17572d7d361"
 }
