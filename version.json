@@ -1,17 +1,17 @@
 {
-  "version": "1.248.0",
-  "versionCode": 284,
-  "title": "Kirito v1.248.0",
-  "notes": "修复详情续播按钮无反应(参数名onResume与Fragment生命周期方法冲突，回调被吞)；封面抓取根本性改造(实测定位根因：海报在第三方图床，带来源站Referer被防盗链403拒绝，改为失败后去Referer重试+补全浏览器头/Cookie+识别data-pic与article首图+延迟取图重试，全部通用不针对单站)",
+  "version": "1.249.0",
+  "versionCode": 285,
+  "title": "Kirito v1.249.0",
+  "notes": "封面抓取决定性重构：网页播放封面改为主用来源详情页URL抓HTML解析海报(article/data-pic/og:image,已命令行端到端验证命中并下载真实JPEG),不再只依赖播放页DOM(播放时DOM常无海报);当前DOM降级为兜底;新增封面抓取四级诊断计数(尝试/解析/下载/写入+最近图URL+错误)到诊断页",
   "size": 5587574,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.248.0/apks/Kirito-v1.248.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.249.0/apks/Kirito-v1.249.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.248.0/apks/Kirito-v1.248.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.248.0/apks/Kirito-v1.248.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.248.0/apks/Kirito-v1.248.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.248.0/apks/Kirito-v1.248.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.248.0/apks/Kirito-v1.248.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.248.0/Kirito-v1.248.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.249.0/apks/Kirito-v1.249.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.249.0/apks/Kirito-v1.249.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.249.0/apks/Kirito-v1.249.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.249.0/apks/Kirito-v1.249.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.249.0/apks/Kirito-v1.249.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.249.0/Kirito-v1.249.0-release.apk"
   ],
-  "sha256": "52eb5c3b2364188f492a7b116ba053ae1261bc0967cec04c8ad4a97538f5b0cf"
+  "sha256": "a1fa7d35c938ccc667040ea48946782df1ec89c2474e9968ee16858c3e266fbe"
 }
