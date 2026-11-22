@@ -1,17 +1,17 @@
 {
-  "version": "1.253.0",
-  "versionCode": 289,
-  "title": "Kirito v1.253.0",
-  "notes": "封面抓取通用强化:嗅探钩子在真实WebView内就地取海报(JS变量/data-pic/JSON-LD/大图),带已验证身份突破CDN验证站;两条DOM兜底同步补全",
+  "version": "1.254.0",
+  "versionCode": 290,
+  "title": "Kirito v1.254.0",
+  "notes": "v1.254 封面串图根因修复：og:image 全站统一图降级为兜底，优先每剧专属 JS 变量海报/data-pic/详情首图；真实 DOM 海报提升为主路径；一次性清空旧串图封面强制重抓；全站 logo/default 图过滤",
   "size": 5591670,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.253.0/apks/Kirito-v1.253.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.254.0/apks/Kirito-v1.254.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.253.0/apks/Kirito-v1.253.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.253.0/apks/Kirito-v1.253.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.253.0/apks/Kirito-v1.253.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.253.0/apks/Kirito-v1.253.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.253.0/apks/Kirito-v1.253.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.253.0/Kirito-v1.253.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.254.0/apks/Kirito-v1.254.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.254.0/apks/Kirito-v1.254.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.254.0/apks/Kirito-v1.254.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.254.0/apks/Kirito-v1.254.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.254.0/apks/Kirito-v1.254.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.254.0/Kirito-v1.254.0-release.apk"
   ],
-  "sha256": "a53c3a94d51bb9a107952910da64560837e424865724aa41d3237a22fb74c439"
+  "sha256": "b5409a0a623b48319ea9fe3965d6f8b24aefc5aafd7bc15637cbc9f6814ff6ea"
 }
