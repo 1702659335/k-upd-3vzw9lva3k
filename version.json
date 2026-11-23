@@ -1,17 +1,17 @@
 {
-  "version": "1.260.0",
-  "versionCode": 296,
-  "title": "Kirito v1.260.0",
-  "notes": "续播优化: 直链过期时自动回源重嗅探新地址并迁移进度, 失败降级旧链",
+  "version": "1.261.0",
+  "versionCode": 297,
+  "title": "Kirito v1.261.0",
+  "notes": "续播修复: 回源改纯HTTP解析iframe播放器token+resolve接口拿当次新直链, 解决一次性签名链过期",
   "size": 5599862,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.260.0/apks/Kirito-v1.260.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.260.0/Kirito-v1.260.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.261.0/apks/Kirito-v1.261.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.261.0/Kirito-v1.261.0-release.apk"
   ],
-  "sha256": "104c2d51b41d73e5b24c0e9939c954c521fcda581e042e8e9acd541c5ab95890"
+  "sha256": "28b76b575b0c43551c24d58979201a58ff3a9610a39299bf66e4bd2b0dd8d214"
 }
