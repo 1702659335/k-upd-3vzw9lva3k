@@ -1,17 +1,17 @@
 {
-  "version": "1.259.0",
-  "versionCode": 295,
-  "title": "Kirito v1.259.0",
-  "notes": "修复博彩广告封面: 网页链路广告过滤对齐+剧名清洗, 落盘图片形状闸门, 诊断加封面来源",
-  "size": 5595766,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.259.0/apks/Kirito-v1.259.0-release.apk",
+  "version": "1.260.0",
+  "versionCode": 296,
+  "title": "Kirito v1.260.0",
+  "notes": "续播优化: 直链过期时自动回源重嗅探新地址并迁移进度, 失败降级旧链",
+  "size": 5599862,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.259.0/apks/Kirito-v1.259.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.259.0/apks/Kirito-v1.259.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.259.0/apks/Kirito-v1.259.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.259.0/apks/Kirito-v1.259.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.259.0/apks/Kirito-v1.259.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.259.0/Kirito-v1.259.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.260.0/apks/Kirito-v1.260.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.260.0/apks/Kirito-v1.260.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.260.0/Kirito-v1.260.0-release.apk"
   ],
-  "sha256": "e3008ca9273fcc4be05e475cbc4f8613b98806a4c4e8927fce65f45ebeb219cd"
+  "sha256": "104c2d51b41d73e5b24c0e9939c954c521fcda581e042e8e9acd541c5ab95890"
 }
