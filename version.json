@@ -1,17 +1,17 @@
 {
-  "version": "1.257.0",
-  "versionCode": 293,
-  "title": "Kirito v1.257.0",
-  "notes": "v1.257 历史视频区 UI 与性能调优：封面遮罩72→46dp不再压海报；轮播去继续观看/未观看两行字、高度96→150dp左右铺满4dp；封面解码按卡片尺寸采样+RGB_565省内存提速；存量补抓每批只读一次整表并分批连续补完(上限240/4路并发)；load数据签名无变化跳过adapter重建防闪屏。抓取体系(PosterUrlCache/VideoCoverLoader/豆瓣)一行未动",
+  "version": "1.258.0",
+  "versionCode": 294,
+  "title": "Kirito v1.258.0",
+  "notes": "视频区优化: 去掉封面阴影+广告图过滤, 轮播后台暂停+磁盘缓存清理+封面解码缓存复用",
   "size": 5595766,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.258.0/apks/Kirito-v1.258.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.257.0/apks/Kirito-v1.257.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.257.0/Kirito-v1.257.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.258.0/apks/Kirito-v1.258.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.258.0/apks/Kirito-v1.258.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.258.0/apks/Kirito-v1.258.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.258.0/apks/Kirito-v1.258.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.258.0/apks/Kirito-v1.258.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.258.0/Kirito-v1.258.0-release.apk"
   ],
-  "sha256": "54876dbd42097c304e1820d101ed3f976cf459f9d4efb5aee9d75af0c260a83f"
+  "sha256": "13ce3e051cc5afe909128f86238a8d04c3494c900d6e247cd3a481f4e2df5222"
 }
