@@ -1,17 +1,17 @@
 {
-  "version": "1.256.0",
-  "versionCode": 292,
-  "title": "Kirito v1.256.0",
-  "notes": "v1.256 真实封面根治：撤销v1.255关键帧；新增通用「页面链接→海报」DOM映射缓存(浏览器已渲染、每剧唯一)；新增豆瓣按剧名查真实海报兜底(缓存+节流+失败静默)；构建5层封面兜底链；全部通用逻辑不含影视站域名",
+  "version": "1.257.0",
+  "versionCode": 293,
+  "title": "Kirito v1.257.0",
+  "notes": "v1.257 历史视频区 UI 与性能调优：封面遮罩72→46dp不再压海报；轮播去继续观看/未观看两行字、高度96→150dp左右铺满4dp；封面解码按卡片尺寸采样+RGB_565省内存提速；存量补抓每批只读一次整表并分批连续补完(上限240/4路并发)；load数据签名无变化跳过adapter重建防闪屏。抓取体系(PosterUrlCache/VideoCoverLoader/豆瓣)一行未动",
   "size": 5595766,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.256.0/apks/Kirito-v1.256.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.256.0/apks/Kirito-v1.256.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.256.0/apks/Kirito-v1.256.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.256.0/apks/Kirito-v1.256.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.256.0/apks/Kirito-v1.256.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.256.0/apks/Kirito-v1.256.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.256.0/Kirito-v1.256.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.257.0/apks/Kirito-v1.257.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.257.0/apks/Kirito-v1.257.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.257.0/Kirito-v1.257.0-release.apk"
   ],
-  "sha256": "5494674beffa2fc5c12dfca6a64ae7dfdd3965187bd8174b61104eb29cd47091"
+  "sha256": "54876dbd42097c304e1820d101ed3f976cf459f9d4efb5aee9d75af0c260a83f"
 }
