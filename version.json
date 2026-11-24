@@ -1,17 +1,17 @@
 {
-  "version": "1.268.0",
-  "versionCode": 304,
-  "title": "Kirito v1.268.0",
-  "notes": "修复历史封面串图：HTML解析链路加剧名锚定(og:title/h1/title)，多候选图优先选alt匹配当前剧的海报，不匹配则回退原逻辑不降命中率；站点无关",
-  "size": 5608111,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
+  "version": "1.271.0",
+  "versionCode": 307,
+  "title": "Kirito v1.271.0",
+  "notes": "网盘一期：登录/目录浏览/播放/下载/重命名/删除/新建文件夹 + 搜索/多选批量/移动复制/上传/分享，全部按 OpenList 官方 API 对接；修复登录按钮未绑定与分享 expires 字段",
+  "size": 5653560,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.268.0/apks/Kirito-v1.268.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.268.0/Kirito-v1.268.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.271.0/apks/Kirito-v1.271.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.271.0/Kirito-v1.271.0-release.apk"
   ],
-  "sha256": "5205a04f2ebdd2436489d5ea654bd99f9286a8518fadd6117f73b62e388ac98d"
+  "sha256": "86e7ae68ded4a3200554400e71730849dee326c03a98ab80f25c9bb8fa35ba6b"
 }
