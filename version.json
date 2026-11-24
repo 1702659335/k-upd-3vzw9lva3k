@@ -1,17 +1,17 @@
 {
-  "version": "1.266.0",
-  "versionCode": 302,
-  "title": "Kirito v1.266.0",
-  "notes": "封面与去重v2：通用剧名锚定海报(alt=剧名)+懒加载data-original真图(三处解析)、历史按规范化url去重并聚合存量重复、封面/进度按锚点url回写",
-  "size": 5604015,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
+  "version": "1.267.0",
+  "versionCode": 303,
+  "title": "Kirito v1.267.0",
+  "notes": "修复历史封面串图：历史归属改用严格URL匹配(去同path兜底+保留剧集id短键)，画质匹配不受影响",
+  "size": 5608111,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.266.0/apks/Kirito-v1.266.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.266.0/Kirito-v1.266.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.267.0/apks/Kirito-v1.267.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.267.0/Kirito-v1.267.0-release.apk"
   ],
-  "sha256": "e5ccb48fbc4a56ba7b561bd971647ca2102fa7b013f8ad19acfa59b802875ff7"
+  "sha256": "3842255c55810bcb620d34c522d379c52de4a5085c5b97eebcfb46cb8db50a10"
 }
