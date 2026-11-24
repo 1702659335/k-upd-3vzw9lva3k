@@ -1,17 +1,17 @@
 {
-  "version": "1.261.0",
-  "versionCode": 297,
-  "title": "Kirito v1.261.0",
-  "notes": "续播修复: 回源改纯HTTP解析iframe播放器token+resolve接口拿当次新直链, 解决一次性签名链过期",
+  "version": "1.262.0",
+  "versionCode": 298,
+  "title": "Kirito v1.262.0",
+  "notes": "续播修复2: 回源新链带播放器页referer(原来带旧站referer被CDN判盗链), 换链保留封面, 加回源诊断",
   "size": 5599862,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.261.0/apks/Kirito-v1.261.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.261.0/apks/Kirito-v1.261.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.261.0/Kirito-v1.261.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.262.0/apks/Kirito-v1.262.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.262.0/Kirito-v1.262.0-release.apk"
   ],
-  "sha256": "28b76b575b0c43551c24d58979201a58ff3a9610a39299bf66e4bd2b0dd8d214"
+  "sha256": "d24e2cf8104a7475e41fd19ddbdc33efa41d44af414db33357bd4e9a256e5c54"
 }
