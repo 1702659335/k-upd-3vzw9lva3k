@@ -1,17 +1,17 @@
 {
-  "version": "1.267.0",
-  "versionCode": 303,
-  "title": "Kirito v1.267.0",
-  "notes": "修复历史封面串图：历史归属改用严格URL匹配(去同path兜底+保留剧集id短键)，画质匹配不受影响",
+  "version": "1.268.0",
+  "versionCode": 304,
+  "title": "Kirito v1.268.0",
+  "notes": "修复历史封面串图：HTML解析链路加剧名锚定(og:title/h1/title)，多候选图优先选alt匹配当前剧的海报，不匹配则回退原逻辑不降命中率；站点无关",
   "size": 5608111,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.267.0/apks/Kirito-v1.267.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.267.0/apks/Kirito-v1.267.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.267.0/Kirito-v1.267.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.268.0/apks/Kirito-v1.268.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.268.0/apks/Kirito-v1.268.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.268.0/Kirito-v1.268.0-release.apk"
   ],
-  "sha256": "3842255c55810bcb620d34c522d379c52de4a5085c5b97eebcfb46cb8db50a10"
+  "sha256": "5205a04f2ebdd2436489d5ea654bd99f9286a8518fadd6117f73b62e388ac98d"
 }
