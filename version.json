@@ -1,17 +1,17 @@
 {
-  "version": "1.263.0",
-  "versionCode": 299,
-  "title": "Kirito v1.263.0",
-  "notes": "续播修复：秒开播放器界面（回源改后台竞速换链），修复回源偶发畸形链导致的加载失败；回源提速+总超时保护",
-  "size": 5603958,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
+  "version": "1.264.0",
+  "versionCode": 300,
+  "title": "Kirito v1.264.0",
+  "notes": "悬浮窗精简：去掉三点功能列（功能归竖屏播放器，不重复）；底部仅留 播放/暂停+最小化+展开+关闭；修复播放/暂停无响应；展开按钮换全屏图标",
+  "size": 5599919,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.264.0/apks/Kirito-v1.264.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.263.0/apks/Kirito-v1.263.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.263.0/Kirito-v1.263.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.264.0/apks/Kirito-v1.264.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.264.0/apks/Kirito-v1.264.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.264.0/apks/Kirito-v1.264.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.264.0/apks/Kirito-v1.264.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.264.0/apks/Kirito-v1.264.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.264.0/Kirito-v1.264.0-release.apk"
   ],
-  "sha256": "40da3f611049ac5935aa63056640d23d44988bbb392311c4da9dd08a109356d8"
+  "sha256": "fcb23ba1c635de5490c276588001a4eece757f4cfd24aa1aca7804ab66e494c6"
 }
