@@ -1,17 +1,17 @@
 {
-  "version": "1.265.0",
-  "versionCode": 301,
-  "title": "Kirito v1.265.0",
-  "notes": "封面与续播通用优化：原生meta路径拦截HLS/DASH分片(.ts/.m4s)、跨剧重复图识别广告封面(按内容指纹+不同剧名计数)、DOM元数据补充og:image:secure_url等通用字段",
+  "version": "1.266.0",
+  "versionCode": 302,
+  "title": "Kirito v1.266.0",
+  "notes": "封面与去重v2：通用剧名锚定海报(alt=剧名)+懒加载data-original真图(三处解析)、历史按规范化url去重并聚合存量重复、封面/进度按锚点url回写",
   "size": 5604015,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.265.0/apks/Kirito-v1.265.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.265.0/apks/Kirito-v1.265.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.265.0/apks/Kirito-v1.265.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.265.0/apks/Kirito-v1.265.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.265.0/apks/Kirito-v1.265.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.265.0/apks/Kirito-v1.265.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.265.0/Kirito-v1.265.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.266.0/apks/Kirito-v1.266.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.266.0/apks/Kirito-v1.266.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.266.0/Kirito-v1.266.0-release.apk"
   ],
-  "sha256": "cacb277c4592c0dc3839a8b86807a8257840f0d2debd57417441a59f4ffa6835"
+  "sha256": "e5ccb48fbc4a56ba7b561bd971647ca2102fa7b013f8ad19acfa59b802875ff7"
 }
