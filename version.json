@@ -1,17 +1,17 @@
 {
-  "version": "1.262.0",
-  "versionCode": 298,
-  "title": "Kirito v1.262.0",
-  "notes": "续播修复2: 回源新链带播放器页referer(原来带旧站referer被CDN判盗链), 换链保留封面, 加回源诊断",
-  "size": 5599862,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
+  "version": "1.263.0",
+  "versionCode": 299,
+  "title": "Kirito v1.263.0",
+  "notes": "续播修复：秒开播放器界面（回源改后台竞速换链），修复回源偶发畸形链导致的加载失败；回源提速+总超时保护",
+  "size": 5603958,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.262.0/apks/Kirito-v1.262.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.262.0/apks/Kirito-v1.262.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.262.0/Kirito-v1.262.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.263.0/apks/Kirito-v1.263.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.263.0/apks/Kirito-v1.263.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.263.0/Kirito-v1.263.0-release.apk"
   ],
-  "sha256": "d24e2cf8104a7475e41fd19ddbdc33efa41d44af414db33357bd4e9a256e5c54"
+  "sha256": "40da3f611049ac5935aa63056640d23d44988bbb392311c4da9dd08a109356d8"
 }
