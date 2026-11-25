@@ -1,17 +1,17 @@
 {
-  "version": "1.281.0",
-  "versionCode": 317,
-  "title": "Kirito v1.281.0",
-  "notes": "封面兜底强化 v1.280.0：1) 豆瓣提为主力兜底，解析/下载失败立即并行触发，不再等DOM重试链耗尽；2) 豆瓣节流放宽(1500→400ms，候选3→6)，连续多集不再被挡；3) 增加HTML数字/命名实体解码(修复爱奇艺&#47;等编码URL拼错)；4) 现成图URL下载失败补写诊断；5) 历史记录标题+来源页兜底判重与存量聚合，根治重复封面",
-  "size": 5694800,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.281.0/apks/Kirito-v1.281.0-release.apk",
+  "version": "1.282.0",
+  "versionCode": 318,
+  "title": "Kirito v1.282.0",
+  "notes": "封面抓取三链路升级：接口JSON响应提取封面(含iframe多源精确关联)+首帧截图兜底，覆盖SPA/聚合站播放封面",
+  "size": 5698896,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.281.0/apks/Kirito-v1.281.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.281.0/apks/Kirito-v1.281.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.281.0/apks/Kirito-v1.281.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.281.0/apks/Kirito-v1.281.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.281.0/apks/Kirito-v1.281.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.281.0/Kirito-v1.281.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.282.0/apks/Kirito-v1.282.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.282.0/Kirito-v1.282.0-release.apk"
   ],
-  "sha256": "13bc8bcee659da10780013819d09f2fd4f3c379b126930b04e169f4737a86afb"
+  "sha256": "52b5a11cacb86d0326bc15fbc083e1b582bf1b04213e273e7cc6b23cbf18aa35"
 }
