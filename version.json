@@ -1,17 +1,17 @@
 {
-  "version": "1.276.0",
-  "versionCode": 312,
-  "title": "Kirito v1.276.0",
-  "notes": "备忘录修复：1) 修复点击拖拽图标打开菜单时 getDrawable 加载 attr 资源导致的崩溃；2) 修复标签写不上（确定按钮忽略新建标签输入、仅有标签的空笔记不落库，改为立即落库）",
-  "size": 5690704,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
+  "version": "1.279.0",
+  "versionCode": 315,
+  "title": "Kirito v1.279.0",
+  "notes": "封面通用优化 v1.277.0：1) 提取JS增加 CSS background-image 计算样式解析，覆盖背景图海报；2) 补 srcset/picture/data-echo/data-url 懒加载属性并按分辨率选最大候选；3) 封面下载加每视频互斥锁做并发去重，根治重复封面；4) 豆瓣兜底改多候选剧名依次尝试，提高命中率",
+  "size": 5694800,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.279.0/apks/Kirito-v1.279.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.276.0/apks/Kirito-v1.276.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.276.0/Kirito-v1.276.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.279.0/apks/Kirito-v1.279.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.279.0/apks/Kirito-v1.279.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.279.0/apks/Kirito-v1.279.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.279.0/apks/Kirito-v1.279.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.279.0/apks/Kirito-v1.279.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.279.0/Kirito-v1.279.0-release.apk"
   ],
-  "sha256": "8f83ac1cc5f37b9ab2f9d795744a2ec207b2e2b2e31c2a8f861581e3610a3b85"
+  "sha256": "fafb30bf1f27dda03cb6a9cd2b98938975e6f7ab8e20a8cced0e95070f5cc681"
 }
