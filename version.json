@@ -1,17 +1,17 @@
 {
-  "version": "1.272.0",
-  "versionCode": 308,
-  "title": "Kirito v1.272.0",
-  "notes": "网盘默认服务器改为动态本机局域网IP（换WiFi/流量自动跟上，与OpenList通知栏一致）+ 未连接卡文案与按钮调整",
+  "version": "1.273.0",
+  "versionCode": 309,
+  "title": "Kirito v1.273.0",
+  "notes": "网盘与浏览器互动接管最大化：音频交播放器、图片交看图器、下载接入浏览器统一下载引擎（进下载管理页/暂停续传/限速/自定义目录）；修复下载并发数与限速设置改动不即时生效",
   "size": 5657656,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.273.0/apks/Kirito-v1.273.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.272.0/apks/Kirito-v1.272.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.272.0/Kirito-v1.272.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.273.0/apks/Kirito-v1.273.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.273.0/apks/Kirito-v1.273.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.273.0/apks/Kirito-v1.273.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.273.0/apks/Kirito-v1.273.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.273.0/apks/Kirito-v1.273.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.273.0/Kirito-v1.273.0-release.apk"
   ],
-  "sha256": "cb0464950437b4bbb0bfc435a6698a3cb3aaef017b098d6735780e9a401ac611"
+  "sha256": "cc5c014f7f5b7956c45b9d6cf0c8c410e4f69718dc0f7609816780be19bb5c47"
 }
