@@ -1,17 +1,17 @@
 {
-  "version": "1.275.0",
-  "versionCode": 311,
-  "title": "Kirito v1.275.0",
-  "notes": "新增备忘录：独立 notes.db（四表）、列表页（搜索高亮/标签筛选/相对时间/置顶拖拽/多选/软删除撤销）、编辑页（模板/自动保存/专注模式/字数统计/标签/图片附件）、复制/分享/长图分享、JSON 导出、桌面快捷方式、网页一键存笔记",
+  "version": "1.276.0",
+  "versionCode": 312,
+  "title": "Kirito v1.276.0",
+  "notes": "备忘录修复：1) 修复点击拖拽图标打开菜单时 getDrawable 加载 attr 资源导致的崩溃；2) 修复标签写不上（确定按钮忽略新建标签输入、仅有标签的空笔记不落库，改为立即落库）",
   "size": 5690704,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.275.0/apks/Kirito-v1.275.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.275.0/apks/Kirito-v1.275.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.275.0/apks/Kirito-v1.275.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.275.0/apks/Kirito-v1.275.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.275.0/apks/Kirito-v1.275.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.275.0/apks/Kirito-v1.275.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.275.0/Kirito-v1.275.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.276.0/apks/Kirito-v1.276.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.276.0/apks/Kirito-v1.276.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.276.0/Kirito-v1.276.0-release.apk"
   ],
-  "sha256": "d6868f113123fd5f16bcbece7bb996947ac93bf1f8c643f75f5ce79620ae58d5"
+  "sha256": "8f83ac1cc5f37b9ab2f9d795744a2ec207b2e2b2e31c2a8f861581e3610a3b85"
 }
