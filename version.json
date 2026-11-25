@@ -1,17 +1,17 @@
 {
-  "version": "1.271.0",
-  "versionCode": 307,
-  "title": "Kirito v1.271.0",
-  "notes": "网盘一期：登录/目录浏览/播放/下载/重命名/删除/新建文件夹 + 搜索/多选批量/移动复制/上传/分享，全部按 OpenList 官方 API 对接；修复登录按钮未绑定与分享 expires 字段",
-  "size": 5653560,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
+  "version": "1.272.0",
+  "versionCode": 308,
+  "title": "Kirito v1.272.0",
+  "notes": "网盘默认服务器改为动态本机局域网IP（换WiFi/流量自动跟上，与OpenList通知栏一致）+ 未连接卡文案与按钮调整",
+  "size": 5657656,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.271.0/apks/Kirito-v1.271.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.271.0/apks/Kirito-v1.271.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.271.0/Kirito-v1.271.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.272.0/apks/Kirito-v1.272.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.272.0/apks/Kirito-v1.272.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.272.0/Kirito-v1.272.0-release.apk"
   ],
-  "sha256": "86e7ae68ded4a3200554400e71730849dee326c03a98ab80f25c9bb8fa35ba6b"
+  "sha256": "cb0464950437b4bbb0bfc435a6698a3cb3aaef017b098d6735780e9a401ac611"
 }
