@@ -1,17 +1,17 @@
 {
-  "version": "1.285.0",
-  "versionCode": 321,
-  "title": "Kirito v1.285.0",
-  "notes": "可疑封面豆瓣校正层：已有封面经纯内容判定(banner/跨剧重复)后用剧名走豆瓣强制覆盖，不删图不留空不误杀，通用不针对站点",
+  "version": "1.286.0",
+  "versionCode": 322,
+  "title": "Kirito v1.286.0",
+  "notes": "封面稳定性四优化：去重加固(同站点同封面指纹合并)+跳转壳地址拦截+V3存量合并清理+历史页可疑封面自愈+首帧防黑图，通用不针对站点",
   "size": 5707088,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.285.0/apks/Kirito-v1.285.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.285.0/Kirito-v1.285.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.286.0/apks/Kirito-v1.286.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.286.0/Kirito-v1.286.0-release.apk"
   ],
-  "sha256": "5e83dda0dd8946a487ec18c58bdac677099a9552274d309d5374ed784e1d77ac"
+  "sha256": "cf5237999159be0148a6ee20ee1d109ae2d6952ba2c70f7decf5ffd41c083064"
 }
