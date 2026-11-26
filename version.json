@@ -1,17 +1,17 @@
 {
-  "version": "1.282.0",
-  "versionCode": 318,
-  "title": "Kirito v1.282.0",
-  "notes": "封面抓取三链路升级：接口JSON响应提取封面(含iframe多源精确关联)+首帧截图兜底，覆盖SPA/聚合站播放封面",
+  "version": "1.283.0",
+  "versionCode": 319,
+  "title": "Kirito v1.283.0",
+  "notes": "播放记录旁路：blob/MSE播放无记录时用页面标题走豆瓣兜底建记录+封面，不影响现有链路",
   "size": 5698896,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.282.0/apks/Kirito-v1.282.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.282.0/apks/Kirito-v1.282.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.282.0/Kirito-v1.282.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.283.0/apks/Kirito-v1.283.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.283.0/Kirito-v1.283.0-release.apk"
   ],
-  "sha256": "52b5a11cacb86d0326bc15fbc083e1b582bf1b04213e273e7cc6b23cbf18aa35"
+  "sha256": "ff095b22fe1451933194effb0382fa071c035b5a2d37566edf1048d56794f8d2"
 }
