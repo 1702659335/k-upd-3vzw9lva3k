@@ -1,17 +1,17 @@
 {
-  "version": "1.291.0",
-  "versionCode": 327,
-  "title": "Kirito v1.291.0",
-  "notes": "朗读简化：去掉音色选择只留系统默认（防误选英文致中文无声），朗读设置只保留语速音调；修复点停止朗读后面板图标不刷新（点朗读先关面板再弹菜单）",
+  "version": "1.292.0",
+  "versionCode": 328,
+  "title": "Kirito v1.292.0",
+  "notes": "网页图片长按保存优化：hitTestResult识别不到时(背景图/canvas/懒加载/带链接图片)用坐标注入JS elementFromPoint兜底找真实图源弹同一保存菜单；修正图片带链接时误存网页；坐标按视口比例换算兼容电脑模式",
   "size": 5711184,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.291.0/apks/Kirito-v1.291.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.291.0/Kirito-v1.291.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.292.0/apks/Kirito-v1.292.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.292.0/Kirito-v1.292.0-release.apk"
   ],
-  "sha256": "749c597abefd3b65d8e11b4b449c279f132447b965be8980444ceaf240a13c81"
+  "sha256": "449e0321bef7a9a7af8ea9f45cd55e6a5e7b2c9428029806f6b390b879d243ca"
 }
