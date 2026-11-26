@@ -1,17 +1,17 @@
 {
-  "version": "1.288.0",
-  "versionCode": 324,
-  "title": "Kirito v1.288.0",
-  "notes": "朗读优化：朗读设置合并进朗读按钮（点朗读弹菜单含开始/停止+音色语速音调）；修复小说站正文时有时无（克隆清理后再评分）；开始朗读改为真正发声才提示、失败明确提示不再静默",
+  "version": "1.289.0",
+  "versionCode": 325,
+  "title": "Kirito v1.289.0",
+  "notes": "朗读修复：Manifest 补 TTS_SERVICE 包可见性声明（解决系统能播但App没声）；音色列表改为等引擎就绪后再读，只有默认音色时不再误报装语音包",
   "size": 5711184,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.288.0/apks/Kirito-v1.288.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.288.0/apks/Kirito-v1.288.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.288.0/apks/Kirito-v1.288.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.288.0/apks/Kirito-v1.288.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.288.0/apks/Kirito-v1.288.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.288.0/apks/Kirito-v1.288.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.288.0/Kirito-v1.288.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.289.0/apks/Kirito-v1.289.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.289.0/Kirito-v1.289.0-release.apk"
   ],
-  "sha256": "75985fe6a76bb8ab23a7cf52fe4c427e148a084d470a2c80c1e269e42c606bbc"
+  "sha256": "fd9e3368fa52ab9d180663d7df5e2340eab8ec674976484a1f0d33c53eb229c6"
 }
