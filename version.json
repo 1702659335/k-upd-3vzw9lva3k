@@ -1,17 +1,17 @@
 {
-  "version": "1.290.0",
-  "versionCode": 326,
-  "title": "Kirito v1.290.0",
-  "notes": "朗读音色显示优化：en/zh 代号改为中文标签（中文/英语），多个同名音色加序号，保存仍用原始name保证setVoice可用",
+  "version": "1.291.0",
+  "versionCode": 327,
+  "title": "Kirito v1.291.0",
+  "notes": "朗读简化：去掉音色选择只留系统默认（防误选英文致中文无声），朗读设置只保留语速音调；修复点停止朗读后面板图标不刷新（点朗读先关面板再弹菜单）",
   "size": 5711184,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.290.0/apks/Kirito-v1.290.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.290.0/Kirito-v1.290.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.291.0/apks/Kirito-v1.291.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.291.0/apks/Kirito-v1.291.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.291.0/Kirito-v1.291.0-release.apk"
   ],
-  "sha256": "9163da5fe35140832b3355e9951d837fb7d40d905826a315fc33d0297ad98dd4"
+  "sha256": "749c597abefd3b65d8e11b4b449c279f132447b965be8980444ceaf240a13c81"
 }
