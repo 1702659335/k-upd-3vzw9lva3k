@@ -1,17 +1,17 @@
 {
-  "version": "1.289.0",
-  "versionCode": 325,
-  "title": "Kirito v1.289.0",
-  "notes": "朗读修复：Manifest 补 TTS_SERVICE 包可见性声明（解决系统能播但App没声）；音色列表改为等引擎就绪后再读，只有默认音色时不再误报装语音包",
+  "version": "1.290.0",
+  "versionCode": 326,
+  "title": "Kirito v1.290.0",
+  "notes": "朗读音色显示优化：en/zh 代号改为中文标签（中文/英语），多个同名音色加序号，保存仍用原始name保证setVoice可用",
   "size": 5711184,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.289.0/apks/Kirito-v1.289.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.289.0/apks/Kirito-v1.289.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.289.0/Kirito-v1.289.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.290.0/apks/Kirito-v1.290.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.290.0/apks/Kirito-v1.290.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.290.0/Kirito-v1.290.0-release.apk"
   ],
-  "sha256": "fd9e3368fa52ab9d180663d7df5e2340eab8ec674976484a1f0d33c53eb229c6"
+  "sha256": "9163da5fe35140832b3355e9951d837fb7d40d905826a315fc33d0297ad98dd4"
 }
