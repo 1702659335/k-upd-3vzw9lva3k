@@ -1,17 +1,17 @@
 {
-  "version": "1.284.0",
-  "versionCode": 320,
-  "title": "Kirito v1.284.0",
-  "notes": "封面嗅探三链路升级：网络层镜像HEAD识别无扩展名媒体+iframe文档请求提前注入钩子+iframe内首帧自动抓帧回传，通用不针对站点",
-  "size": 5702992,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
+  "version": "1.285.0",
+  "versionCode": 321,
+  "title": "Kirito v1.285.0",
+  "notes": "可疑封面豆瓣校正层：已有封面经纯内容判定(banner/跨剧重复)后用剧名走豆瓣强制覆盖，不删图不留空不误杀，通用不针对站点",
+  "size": 5707088,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.284.0/apks/Kirito-v1.284.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.284.0/Kirito-v1.284.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.285.0/apks/Kirito-v1.285.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.285.0/apks/Kirito-v1.285.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.285.0/Kirito-v1.285.0-release.apk"
   ],
-  "sha256": "345e925e85552fd5613e2b32b6ef1963b61c88bb3595b27503b26d0aa20bd774"
+  "sha256": "5e83dda0dd8946a487ec18c58bdac677099a9552274d309d5374ed784e1d77ac"
 }
