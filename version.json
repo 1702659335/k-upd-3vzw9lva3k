@@ -1,17 +1,17 @@
 {
-  "version": "1.286.0",
-  "versionCode": 322,
-  "title": "Kirito v1.286.0",
-  "notes": "封面稳定性四优化：去重加固(同站点同封面指纹合并)+跳转壳地址拦截+V3存量合并清理+历史页可疑封面自愈+首帧防黑图，通用不针对站点",
-  "size": 5707088,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
+  "version": "1.287.0",
+  "versionCode": 323,
+  "title": "Kirito v1.287.0",
+  "notes": "去掉首页右上角备忘录图标（保留我的常用面板入口）；朗读优化：页面正文提取加固+系统音色选择+语速音调调节；广告订阅源更新（换 anti-AD 等实测可用源）；轻拦截规则增强（低误杀精准广告域+元素选择器）",
+  "size": 5711184,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.287.0/apks/Kirito-v1.287.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.286.0/apks/Kirito-v1.286.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.286.0/apks/Kirito-v1.286.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.286.0/Kirito-v1.286.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.287.0/apks/Kirito-v1.287.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.287.0/apks/Kirito-v1.287.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.287.0/apks/Kirito-v1.287.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.287.0/apks/Kirito-v1.287.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.287.0/apks/Kirito-v1.287.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.287.0/Kirito-v1.287.0-release.apk"
   ],
-  "sha256": "cf5237999159be0148a6ee20ee1d109ae2d6952ba2c70f7decf5ffd41c083064"
+  "sha256": "03e66d126743164277c00b720633123d212c434eb2d7d701f28df1470bc2c15a"
 }
