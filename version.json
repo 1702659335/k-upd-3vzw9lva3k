@@ -1,17 +1,17 @@
 {
-  "version": "1.283.0",
-  "versionCode": 319,
-  "title": "Kirito v1.283.0",
-  "notes": "播放记录旁路：blob/MSE播放无记录时用页面标题走豆瓣兜底建记录+封面，不影响现有链路",
-  "size": 5698896,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
+  "version": "1.284.0",
+  "versionCode": 320,
+  "title": "Kirito v1.284.0",
+  "notes": "封面嗅探三链路升级：网络层镜像HEAD识别无扩展名媒体+iframe文档请求提前注入钩子+iframe内首帧自动抓帧回传，通用不针对站点",
+  "size": 5702992,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.283.0/apks/Kirito-v1.283.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.283.0/apks/Kirito-v1.283.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.283.0/Kirito-v1.283.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.284.0/apks/Kirito-v1.284.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.284.0/apks/Kirito-v1.284.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.284.0/Kirito-v1.284.0-release.apk"
   ],
-  "sha256": "ff095b22fe1451933194effb0382fa071c035b5a2d37566edf1048d56794f8d2"
+  "sha256": "345e925e85552fd5613e2b32b6ef1963b61c88bb3595b27503b26d0aa20bd774"
 }
