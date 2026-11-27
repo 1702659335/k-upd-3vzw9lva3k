@@ -1,17 +1,17 @@
 {
-  "version": "1.295.0",
-  "versionCode": 331,
-  "title": "Kirito v1.295.0",
-  "notes": "修复书签排序迁移漏洞：v2迁移因用户曾手动排序而跳过，导致默认时间排序一直未生效（新书签仍在下方）。改为v3一次性无条件重置为按添加时间排序（最新在最前）；手动排序功能完整保留，用户拖拽/主动选择照常生效",
+  "version": "1.296.0",
+  "versionCode": 332,
+  "title": "Kirito v1.296.0",
+  "notes": "签搜聚合优化：历史chip加×单删+末尾清空入口(二次确认)；合并结果「还有N条」改为可点展开全部；合并卡片加一键复制全部链接；下拉刷新强制绕过缓存重新抓取；取地址改名提取、搜索框去掉提示文字。界面保持m3风格",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.295.0/apks/Kirito-v1.295.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.296.0/apks/Kirito-v1.296.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.295.0/apks/Kirito-v1.295.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.295.0/apks/Kirito-v1.295.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.295.0/apks/Kirito-v1.295.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.295.0/apks/Kirito-v1.295.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.295.0/apks/Kirito-v1.295.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.295.0/Kirito-v1.295.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.296.0/apks/Kirito-v1.296.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.296.0/apks/Kirito-v1.296.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.296.0/apks/Kirito-v1.296.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.296.0/apks/Kirito-v1.296.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.296.0/apks/Kirito-v1.296.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.296.0/Kirito-v1.296.0-release.apk"
   ],
-  "sha256": "d22a549588029b9bc379510638e4b8e0606be7da4cb49ee4c027b7ebb295b2be"
+  "sha256": "7c023d2d78c4afa989e49215c921df1272060498c57d5ea7ae2c6f3171f91769"
 }
