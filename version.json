@@ -1,17 +1,17 @@
 {
-  "version": "1.301.0",
-  "versionCode": 337,
-  "title": "Kirito v1.301.0",
-  "notes": "聚搜结果页修复全屏铺满：覆盖层移出结果列表所在的垂直布局，改由外层 FrameLayout 承载，相对整屏 match_parent，彻底解决网页只显示半截的问题",
+  "version": "1.302.0",
+  "versionCode": 338,
+  "title": "Kirito v1.302.0",
+  "notes": "聚搜结果页消除白屏：覆盖层 WebView 背景设为主题色、页面创建时预热 Chromium 内核加载 about:blank、点结果时立即显示进度条铺底",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.301.0/apks/Kirito-v1.301.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.301.0/Kirito-v1.301.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.302.0/apks/Kirito-v1.302.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.302.0/Kirito-v1.302.0-release.apk"
   ],
-  "sha256": "8ab96899cb98f10c8756ef0e7cb87f4dbb25ca8326bcbd7a94ebf86665f28f91"
+  "sha256": "743015b7f48ee088de33c1898caf4ee1e1ed2da0f28a06e2518bf247c1b3134c"
 }
