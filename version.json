@@ -1,17 +1,17 @@
 {
-  "version": "1.302.0",
-  "versionCode": 338,
-  "title": "Kirito v1.302.0",
-  "notes": "聚搜结果页消除白屏：覆盖层 WebView 背景设为主题色、页面创建时预热 Chromium 内核加载 about:blank、点结果时立即显示进度条铺底",
+  "version": "1.303.0",
+  "versionCode": 339,
+  "title": "Kirito v1.303.0",
+  "notes": "聚搜结果页彻底消除白屏：WebView 上加主题色占位层，用 postVisualStateCallback 等首帧真正绘制好才撤掉；进入/网页回退均盖住空白，关闭时先盖占位层再隐藏",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.303.0/apks/Kirito-v1.303.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.302.0/apks/Kirito-v1.302.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.302.0/apks/Kirito-v1.302.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.302.0/Kirito-v1.302.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.303.0/apks/Kirito-v1.303.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.303.0/apks/Kirito-v1.303.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.303.0/apks/Kirito-v1.303.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.303.0/apks/Kirito-v1.303.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.303.0/apks/Kirito-v1.303.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.303.0/Kirito-v1.303.0-release.apk"
   ],
-  "sha256": "743015b7f48ee088de33c1898caf4ee1e1ed2da0f28a06e2518bf247c1b3134c"
+  "sha256": "28dc12090b35d19608d1379660db3567f733094e929efe1ef0d9035ac508fa84"
 }
