@@ -1,17 +1,17 @@
 {
-  "version": "1.292.0",
-  "versionCode": 328,
-  "title": "Kirito v1.292.0",
-  "notes": "网页图片长按保存优化：hitTestResult识别不到时(背景图/canvas/懒加载/带链接图片)用坐标注入JS elementFromPoint兜底找真实图源弹同一保存菜单；修正图片带链接时误存网页；坐标按视口比例换算兼容电脑模式",
+  "version": "1.293.0",
+  "versionCode": 329,
+  "title": "Kirito v1.293.0",
+  "notes": "系统通知优化：下载进度通知加点击进下载管理页（原来点了没反应）；完成通知与下载列表改按文件头真实类型打开（.bin图片进看图页/视频进播放器/其它用真实MIME交系统）；播放悬浮窗通知点击加NEW_TASK保险",
   "size": 5711184,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.293.0/apks/Kirito-v1.293.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.292.0/apks/Kirito-v1.292.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.292.0/apks/Kirito-v1.292.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.292.0/Kirito-v1.292.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.293.0/apks/Kirito-v1.293.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.293.0/apks/Kirito-v1.293.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.293.0/apks/Kirito-v1.293.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.293.0/apks/Kirito-v1.293.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.293.0/apks/Kirito-v1.293.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.293.0/Kirito-v1.293.0-release.apk"
   ],
-  "sha256": "449e0321bef7a9a7af8ea9f45cd55e6a5e7b2c9428029806f6b390b879d243ca"
+  "sha256": "8459ce24482cb2c900231e3d0f4f072fdcd5791341b16cacd06bd4260d4b2c3a"
 }
