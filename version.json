@@ -1,17 +1,17 @@
 {
-  "version": "1.304.0",
-  "versionCode": 340,
-  "title": "Kirito v1.304.0",
-  "notes": "聚搜结果白屏根治：排查出三大根因(占位层近纯白/postVisualStateCallback注册时机错在loadUrl前/返回同步重置about:blank)。重写为加载期WebView设INVISIBLE+带转圈的主题占位层盖住内核白底，onPageFinished或2.5s兜底才露出WebView；返回先整体隐藏再异步重置，杜绝进出白闪",
+  "version": "1.305.0",
+  "versionCode": 341,
+  "title": "Kirito v1.305.0",
+  "notes": "聚搜结果改回主浏览器方案：点结果条用主浏览器新标签打开(聚搜独立栈，返回自然回落结果列表)，彻底删除覆盖层代码与布局，根除白屏；聚搜功能说明精简为前半句『多站结果合并展示』",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.304.0/apks/Kirito-v1.304.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.305.0/apks/Kirito-v1.305.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.304.0/apks/Kirito-v1.304.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.304.0/apks/Kirito-v1.304.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.304.0/apks/Kirito-v1.304.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.304.0/apks/Kirito-v1.304.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.304.0/apks/Kirito-v1.304.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.304.0/Kirito-v1.304.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.305.0/apks/Kirito-v1.305.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.305.0/apks/Kirito-v1.305.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.305.0/apks/Kirito-v1.305.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.305.0/apks/Kirito-v1.305.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.305.0/apks/Kirito-v1.305.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.305.0/Kirito-v1.305.0-release.apk"
   ],
-  "sha256": "c6bf9b6bbaea5fe7f19bdda07f6bf0ec280e0cfaed9e5c12b2d6b68aeece8ead"
+  "sha256": "b736fc5c604e9fef59a6d226d4f3557211d0e96ee02a9c88fdf82fe8985098e3"
 }
