@@ -1,17 +1,17 @@
 {
-  "version": "1.297.0",
-  "versionCode": 333,
-  "title": "Kirito v1.297.0",
-  "notes": "全项目命名统一：签搜→聚搜（含书签签搜编辑→聚搜规则、备份导出含聚搜规则、所有注释与布局）；引擎条开关改名聚搜条、聚合页开关改名聚搜；聚合页改独立task修复点结果进网站后返回回不到结果页的问题。功能逻辑未动",
+  "version": "1.298.0",
+  "versionCode": 334,
+  "title": "Kirito v1.298.0",
+  "notes": "设置项文案微调：搜索条位置改名聚搜条位置，与聚搜条命名统一",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.297.0/apks/Kirito-v1.297.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.298.0/apks/Kirito-v1.298.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.297.0/apks/Kirito-v1.297.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.297.0/apks/Kirito-v1.297.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.297.0/apks/Kirito-v1.297.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.297.0/apks/Kirito-v1.297.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.297.0/apks/Kirito-v1.297.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.297.0/Kirito-v1.297.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.298.0/apks/Kirito-v1.298.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.298.0/apks/Kirito-v1.298.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.298.0/apks/Kirito-v1.298.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.298.0/apks/Kirito-v1.298.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.298.0/apks/Kirito-v1.298.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.298.0/Kirito-v1.298.0-release.apk"
   ],
-  "sha256": "728ba83d13510ddb065b1dc4fb8e085de46e6dc855ead582c1115cde0038c2ff"
+  "sha256": "aca318817c8a7e3863621f87af7d30da3c34cc45d572c426b3aab27b50b2a924"
 }
