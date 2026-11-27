@@ -1,17 +1,17 @@
 {
-  "version": "1.300.0",
-  "versionCode": 336,
-  "title": "Kirito v1.300.0",
-  "notes": "聚搜结果页改全屏覆盖层：点结果条全屏显示网页，去掉顶栏(标题/浏览器打开按钮)，返回靠系统返回键(网页能退就退、退到底回结果列表)",
+  "version": "1.301.0",
+  "versionCode": 337,
+  "title": "Kirito v1.301.0",
+  "notes": "聚搜结果页修复全屏铺满：覆盖层移出结果列表所在的垂直布局，改由外层 FrameLayout 承载，相对整屏 match_parent，彻底解决网页只显示半截的问题",
   "size": 5715280,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.300.0/apks/Kirito-v1.300.0-release.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
   "apkUrls": [
-    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.300.0/apks/Kirito-v1.300.0-release.apk",
-    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.300.0/apks/Kirito-v1.300.0-release.apk",
-    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.300.0/apks/Kirito-v1.300.0-release.apk",
-    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.300.0/apks/Kirito-v1.300.0-release.apk",
-    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.300.0/apks/Kirito-v1.300.0-release.apk",
-    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.300.0/Kirito-v1.300.0-release.apk"
+    "https://cdn.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
+    "https://fastly.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
+    "https://gcore.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
+    "https://testingcf.jsdelivr.net/gh/1702659335/k-upd-3vzw9lva3k@v1.301.0/apks/Kirito-v1.301.0-release.apk",
+    "https://raw.githubusercontent.com/1702659335/k-upd-3vzw9lva3k/v1.301.0/apks/Kirito-v1.301.0-release.apk",
+    "https://github.com/1702659335/k-upd-3vzw9lva3k/releases/download/v1.301.0/Kirito-v1.301.0-release.apk"
   ],
-  "sha256": "cbd26390b60f3c4dee795b055f74544dfea4b55aa2cee06a9a866f1d580583ed"
+  "sha256": "8ab96899cb98f10c8756ef0e7cb87f4dbb25ca8326bcbd7a94ebf86665f28f91"
 }
